@@ -1,0 +1,890 @@
+[
+  {
+    "soal": "Hewan mamalia terbesar di dunia yang hidup di lautan",
+    "jawaban": "Paus Biru"
+  },
+  {
+    "soal": "Hewan berkantung asal Australia yang terkenal suka melompat",
+    "jawaban": "Kanguru"
+  },
+  {
+    "soal": "Hewan reptil terbesar yang hidup di sungai dan rawa",
+    "jawaban": "Buaya"
+  },
+  {
+    "soal": "Burung yang tidak bisa terbang tapi bisa berlari sangat cepat",
+    "jawaban": "Burung Unta"
+  },
+  {
+    "soal": "Hewan laut bertentakel 8 yang bisa berubah warna",
+    "jawaban": "Gurita"
+  },
+  {
+    "soal": "Kucing besar bertotol hitam yang berasal dari Afrika",
+    "jawaban": "Cheetah"
+  },
+  {
+    "soal": "Hewan malam yang bisa terbang dan menggunakan sonar",
+    "jawaban": "Kelelawar"
+  },
+  {
+    "soal": "Hewan bertubuh lunak yang membawa rumahnya di punggung",
+    "jawaban": "Siput"
+  },
+  {
+    "soal": "Primata cerdas yang memiliki DNA 98% mirip manusia",
+    "jawaban": "Simpanse"
+  },
+  {
+    "soal": "Hewan bersayap indah yang bermetamorfosis dari ulat",
+    "jawaban": "Kupu-kupu"
+  },
+  {
+    "soal": "Hewan bertanduk satu yang terancam punah di Indonesia",
+    "jawaban": "Badak Jawa"
+  },
+  {
+    "soal": "Burung cantik yang bisa meniru suara manusia",
+    "jawaban": "Beo"
+  },
+  {
+    "soal": "Hewan laut berduri yang bergerak sangat lambat",
+    "jawaban": "Bintang Laut"
+  },
+  {
+    "soal": "Hewan berkaki empat yang dikenal setia pada pemiliknya",
+    "jawaban": "Anjing"
+  },
+  {
+    "soal": "Hewan air tawar yang bisa menghasilkan listrik hingga 860 volt",
+    "jawaban": "Belut Listrik"
+  },
+  {
+    "soal": "Serangga yang membuat sarang dari lilin dan menghasilkan madu",
+    "jawaban": "Lebah"
+  },
+  {
+    "soal": "Hewan laut lucu yang jantan yang mengandung anaknya",
+    "jawaban": "Kuda Laut"
+  },
+  {
+    "soal": "Hewan yang terkenal lambat dan suka menempel di pohon",
+    "jawaban": "Kukang"
+  },
+  {
+    "soal": "Burung dengan leher panjang yang sering berdiri satu kaki",
+    "jawaban": "Flamingo"
+  },
+  {
+    "soal": "Hewan pengerat kecil yang suka mengumpulkan makanan di pipinya",
+    "jawaban": "Hamster"
+  },
+  {
+    "soal": "Hewan buas raja hutan yang memiliki surai lebat",
+    "jawaban": "Singa"
+  },
+  {
+    "soal": "Reptil kecil yang bisa memutuskan ekornya saat terancam",
+    "jawaban": "Cicak"
+  },
+  {
+    "soal": "Hewan laut yang memiliki 3 jantung dan darah biru",
+    "jawaban": "Gurita"
+  },
+  {
+    "soal": "Mamalia terbang satu-satunya yang aktif di malam hari",
+    "jawaban": "Kelelawar"
+  },
+  {
+    "soal": "Hewan herbivora besar dengan leher sangat panjang",
+    "jawaban": "Jerapah"
+  },
+  {
+    "soal": "Hewan amfibi beracun berwarna cerah dari Amerika Selatan",
+    "jawaban": "Katak Panah"
+  },
+  {
+    "soal": "Ikan air tawar predator ganas dari sungai Amazon",
+    "jawaban": "Piranha"
+  },
+  {
+    "soal": "Hewan berkantung yang suka memanjat pohon eucalyptus",
+    "jawaban": "Koala"
+  },
+  {
+    "soal": "Serangga sosial yang bisa mengangkat 50x berat tubuhnya",
+    "jawaban": "Semut"
+  },
+  {
+    "soal": "Hewan laut berbentuk payung yang bisa menyengat",
+    "jawaban": "Ubur-ubur"
+  },
+  {
+    "soal": "Kadal terbesar di dunia yang merupakan hewan endemik Indonesia",
+    "jawaban": "Komodo"
+  },
+  {
+    "soal": "Hewan mamalia darat terbesar yang memiliki belalai",
+    "jawaban": "Gajah"
+  },
+  {
+    "soal": "Hewan yang memiliki garis-garis hitam putih di seluruh tubuhnya",
+    "jawaban": "Zebra"
+  },
+  {
+    "soal": "Primata besar yang merupakan endemik hutan Kalimantan dan Sumatera",
+    "jawaban": "Orangutan"
+  },
+  {
+    "soal": "Hewan yang dikenal sebagai kapal padang pasir",
+    "jawaban": "Unta"
+  },
+  {
+    "soal": "Burung pemangsa yang memiliki penglihatan sangat tajam",
+    "jawaban": "Elang"
+  },
+  {
+    "soal": "Hewan yang bisa merubah warna kulitnya sesuai lingkungan",
+    "jawaban": "Bunglon"
+  },
+  {
+    "soal": "Mamalia laut yang dikenal sangat cerdas dan suka menolong manusia",
+    "jawaban": "Lumba-lumba"
+  },
+  {
+    "soal": "Hewan kutub yang memiliki bulu putih tebal dan jago berenang",
+    "jawaban": "Beruang Kutub"
+  },
+  {
+    "soal": "Burung yang aktif di malam hari dan bisa memutar lehernya 270 derajat",
+    "jawaban": "Burung Hantu"
+  },
+  {
+    "soal": "Hewan melata yang tidak memiliki kaki dan berbisa",
+    "jawaban": "Ular"
+  },
+  {
+    "soal": "Ikan hiu terbesar di dunia yang hanya memakan plankton",
+    "jawaban": "Hiu Paus"
+  },
+  {
+    "soal": "Hewan mamalia bertelur yang memiliki paruh seperti bebek",
+    "jawaban": "Platipus"
+  },
+  {
+    "soal": "Hewan pengerat yang jago membangun bendungan di sungai",
+    "jawaban": "Berang-berang"
+  },
+  {
+    "soal": "Burung yang menjadi simbol negara Amerika Serikat",
+    "jawaban": "Elang Botak"
+  },
+  {
+    "soal": "Hewan yang tidur sambil berdiri dan merupakan hewan peliharaan populer",
+    "jawaban": "Kuda"
+  },
+  {
+    "soal": "Hewan mungil yang bisa terbang mundur",
+    "jawaban": "Burung Kolibri"
+  },
+  {
+    "soal": "Hewan laut yang memiliki cangkang keras dan bisa hidup ratusan tahun",
+    "jawaban": "Penyu"
+  },
+  {
+    "soal": "Kera besar yang memiliki punggung berwarna perak (silverback)",
+    "jawaban": "Gorila"
+  },
+  {
+    "soal": "Hewan ternak yang menghasilkan susu dan daging, serta dianggap suci di India",
+    "jawaban": "Sapi"
+  },
+  {
+    "soal": "Hewan pengerat terbesar di dunia yang berasal dari Amerika Selatan",
+    "jawaban": "Kapibara"
+  },
+  {
+    "soal": "Hewan laut yang memiliki lubang sembur di atas kepalanya",
+    "jawaban": "Paus"
+  },
+  {
+    "soal": "Hewan yang memiliki duri tajam di punggungnya sebagai perlindungan diri",
+    "jawaban": "Landak"
+  },
+  {
+    "soal": "Serangga yang memiliki cahaya di pantatnya saat malam hari",
+    "jawaban": "Kunang-kunang"
+  },
+  {
+    "soal": "Hewan yang suka memakan bambu dan berasal dari Tiongkok",
+    "jawaban": "Panda"
+  },
+  {
+    "soal": "Burung yang tidak bisa terbang dan tinggal di kutub selatan",
+    "jawaban": "Penguin"
+  },
+  {
+    "soal": "Hewan liar yang memiliki pola totol-totol dan jago memanjat pohon",
+    "jawaban": "Macan Tutul"
+  },
+  {
+    "soal": "Hewan laut yang memiliki moncong panjang dan gigi tajam, sering disebut predator puncak",
+    "jawaban": "Hiu Putih"
+  },
+  {
+    "soal": "Hewan yang bisa menggulung tubuhnya menjadi bola saat terancam",
+    "jawaban": "Trenggiling"
+  },
+  {
+    "soal": "Burung nasional Indonesia yang sering dikaitkan dengan mitologi",
+    "jawaban": "Burung Garuda"
+  },
+  {
+    "soal": "Hewan yang menghabiskan 90% hidupnya di atas pohon dan bergerak sangat lambat",
+    "jawaban": "Kukang"
+  },
+  {
+    "soal": "Hewan peliharaan yang suka mendengkur (purring) saat merasa nyaman",
+    "jawaban": "Kucing"
+  },
+  {
+    "soal": "Hewan berkaki banyak (seratus) yang memiliki gigitan beracun",
+    "jawaban": "Kelabang"
+  },
+  {
+    "soal": "Ikan yang bisa mengembangkan tubuhnya seperti balon saat merasa terancam",
+    "jawaban": "Ikan Buntal"
+  },
+  {
+    "soal": "Burung air yang memiliki kantung di bawah paruhnya untuk menangkap ikan",
+    "jawaban": "Pelikan"
+  },
+  {
+    "soal": "Hewan amfibi yang mengalami metamorfosis dari kecebong",
+    "jawaban": "Katak"
+  },
+  {
+    "soal": "Hewan mamalia air yang sering disebut sebagai singa laut atau anjing laut",
+    "jawaban": "Segel"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan melompat sangat tinggi relatif terhadap tubuhnya",
+    "jawaban": "Belalang"
+  },
+  {
+    "soal": "Hewan laut yang memiliki kerangka tulang rawan, bukan tulang keras",
+    "jawaban": "Pari"
+  },
+  {
+    "soal": "Hewan darat tercepat kedua setelah cheetah, sering ditemukan di Amerika Utara",
+    "jawaban": "Pronghorn"
+  },
+  {
+    "soal": "Hewan yang memiliki gading panjang dan hidup di daerah dingin (sudah punah)",
+    "jawaban": "Mammoth"
+  },
+  {
+    "soal": "Burung yang memiliki ekor sangat indah yang bisa mengembang seperti kipas",
+    "jawaban": "Merak"
+  },
+  {
+    "soal": "Hewan mamalia terkecil di dunia yang beratnya kurang dari sekeping koin",
+    "jawaban": "Tikus Shrew"
+  },
+  {
+    "soal": "Hewan yang memiliki kantung di perutnya untuk membawa bayi, selain kanguru",
+    "jawaban": "Opossum"
+  },
+  {
+    "soal": "Ikan yang melakukan migrasi dari laut ke sungai untuk bertelur",
+    "jawaban": "Salmon"
+  },
+  {
+    "soal": "Hewan reptil yang memiliki tempurung sangat keras di punggung dan perutnya",
+    "jawaban": "Kura-kura"
+  },
+  {
+    "soal": "Serangga yang memiliki pola titik-titik pada sayapnya dan dianggap membawa keberuntungan",
+    "jawaban": "Kumbang Koksi"
+  },
+  {
+    "soal": "Hewan yang memiliki moncong sangat panjang untuk memakan semut",
+    "jawaban": "Trenggiling"
+  },
+  {
+    "soal": "Burung yang jagonya menyelam ke air dengan kecepatan tinggi untuk menangkap ikan",
+    "jawaban": "Burung Kingfisher"
+  },
+  {
+    "soal": "Hewan mamalia laut yang memiliki taring panjang, sering ditemukan di kutub utara",
+    "jawaban": "Walrus"
+  },
+  {
+    "soal": "Hewan yang memiliki kumis panjang dan sangat ahli menangkap tikus",
+    "jawaban": "Kucing"
+  },
+  {
+    "soal": "Hewan yang sering digunakan untuk membajak sawah di desa",
+    "jawaban": "Kerbau"
+  },
+  {
+    "soal": "Serangga yang suka terbang di sekitar lampu saat malam hari",
+    "jawaban": "Laron"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk menumbuhkan kembali anggota tubuh yang hilang",
+    "jawaban": "Axolotl"
+  },
+  {
+    "soal": "Hewan mamalia yang memiliki sisik di seluruh tubuhnya",
+    "jawaban": "Pangolin"
+  },
+  {
+    "soal": "Burung yang terkenal dengan suara merdunya dan sering dipelihara",
+    "jawaban": "Kenari"
+  },
+  {
+    "soal": "Hewan laut yang memiliki bentuk seperti kuda",
+    "jawaban": "Kuda Laut"
+  },
+  {
+    "soal": "Hewan yang bisa bertahan hidup tanpa air selama berbulan-bulan di padang pasir",
+    "jawaban": "Unta"
+  },
+  {
+    "soal": "Hewan buas yang memiliki pola belang hitam-oranye",
+    "jawaban": "Harimau"
+  },
+  {
+    "soal": "Ikan yang memiliki hubungan simbiotik dengan anemon laut",
+    "jawaban": "Ikan Badut"
+  },
+  {
+    "soal": "Hewan yang memiliki tanduk yang sebenarnya adalah kumpulan rambut yang mengeras",
+    "jawaban": "Badak"
+  },
+  {
+    "soal": "Burung yang memiliki paruh sangat besar dan berwarna-warni",
+    "jawaban": "Toucan"
+  },
+  {
+    "soal": "Hewan yang sangat gemar memakan madu dan sering masuk ke sarang lebah",
+    "jawaban": "Beruang Madu"
+  },
+  {
+    "soal": "Serangga yang bisa menyebabkan penyakit demam berdarah",
+    "jawaban": "Nyamuk"
+  },
+  {
+    "soal": "Hewan yang memiliki lidah sangat panjang untuk menangkap serangga",
+    "jawaban": "Bunglon"
+  },
+  {
+    "soal": "Ikan yang memiliki sayap lebar dan bisa melompat keluar dari air",
+    "jawaban": "Ikan Terbang"
+  },
+  {
+    "soal": "Hewan yang menjadi simbol kecerdikan dalam dongeng Indonesia",
+    "jawaban": "Kancil"
+  },
+  {
+    "soal": "Burung yang sangat pandai membuat sarang dari ranting-ranting pohon",
+    "jawaban": "Burung Manyar"
+  },
+  {
+    "soal": "Hewan laut yang mengeluarkan tinta hitam saat merasa terancam",
+    "jawaban": "Cumi-cumi"
+  },
+  {
+    "soal": "Hewan mamalia air yang kulitnya sangat tebal dan tidak memiliki rambut",
+    "jawaban": "Kuda Nil"
+  },
+  {
+    "soal": "Hewan yang memiliki kelenjar bau yang sangat menyengat untuk mengusir musuh",
+    "jawaban": "Sigung"
+  },
+  {
+    "soal": "Hewan pengerat yang suka mencuri biji-bijian dan tinggal di lubang tanah",
+    "jawaban": "Tikus"
+  },
+  {
+    "soal": "Serangga yang mengalami perubahan bentuk dari kepompong",
+    "jawaban": "Kupu-kupu"
+  },
+  {
+    "soal": "Hewan yang sangat ahli memanjat tebing curam di pegunungan",
+    "jawaban": "Kambing Gunung"
+  },
+  {
+    "soal": "Ikan yang memiliki mata di kedua sisi kepalanya yang datar",
+    "jawaban": "Ikan Sebelah"
+  },
+  {
+    "soal": "Burung yang menjadi simbol perdamaian",
+    "jawaban": "Merpati"
+  },
+  {
+    "soal": "Hewan yang memiliki kantung pipi yang bisa melar untuk menyimpan makanan",
+    "jawaban": "Hamster"
+  },
+  {
+    "soal": "Hewan laut yang memiliki gigi ribuan di lidahnya",
+    "jawaban": "Siput Laut"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk meniru suara burung lain",
+    "jawaban": "Burung Mockingbird"
+  },
+  {
+    "soal": "Hewan mamalia yang sangat menyukai pisang dan hidup berkelompok",
+    "jawaban": "Monyet"
+  },
+  {
+    "soal": "Hewan yang memiliki cangkang spiral dan sangat lambat",
+    "jawaban": "Siput"
+  },
+  {
+    "soal": "Serangga yang memiliki peran penting dalam penyerbukan bunga",
+    "jawaban": "Lebah"
+  },
+  {
+    "soal": "Ikan predator yang memiliki deretan gigi yang terus berganti",
+    "jawaban": "Hiu"
+  },
+  {
+    "soal": "Hewan yang memiliki belalai panjang untuk mengambil makanan",
+    "jawaban": "Gajah"
+  },
+  {
+    "soal": "Burung yang tidak memiliki sayap yang berfungsi untuk terbang, berasal dari Selandia Baru",
+    "jawaban": "Kiwi"
+  },
+  {
+    "soal": "Hewan yang memiliki bau badan yang khas karena kelenjar musk",
+    "jawaban": "Rusa Musk"
+  },
+  {
+    "soal": "Hewan amfibi yang kulitnya kasar dan berbintil-bintil",
+    "jawaban": "Kodok"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk mengangkat beban jauh lebih berat dari dirinya",
+    "jawaban": "Semut"
+  },
+  {
+    "soal": "Hewan laut yang memiliki lapisan lemak tebal untuk bertahan di suhu dingin",
+    "jawaban": "Anjing Laut"
+  },
+  {
+    "soal": "Hewan yang memiliki punuk untuk menyimpan lemak sebagai cadangan energi",
+    "jawaban": "Unta"
+  },
+  {
+    "soal": "Burung yang memiliki penglihatan malam yang luar biasa",
+    "jawaban": "Burung Hantu"
+  },
+  {
+    "soal": "Hewan mamalia yang bisa terbang dan aktif di malam hari",
+    "jawaban": "Kelelawar"
+  },
+  {
+    "soal": "Ikan yang memiliki organ yang bisa menghasilkan cahaya di laut dalam",
+    "jawaban": "Anglerfish"
+  },
+  {
+    "soal": "Hewan yang memiliki sisik dan lidah bercabang, merayap di tanah",
+    "jawaban": "Ular"
+  },
+  {
+    "soal": "Hewan yang sangat setia pada pasangannya hingga mati",
+    "jawaban": "Angsa"
+  },
+  {
+    "soal": "Serangga yang bisa berjalan di atas air",
+    "jawaban": "Anggang-anggang"
+  },
+  {
+    "soal": "Hewan yang memiliki kantung untuk membawa anaknya, berasal dari Tasmania",
+    "jawaban": "Tasmanian Devil"
+  },
+  {
+    "soal": "Ikan yang bentuknya panjang seperti pita dan hidup di laut dalam",
+    "jawaban": "Oarfish"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk mengubah tekstur kulitnya",
+    "jawaban": "Gurita"
+  },
+  {
+    "soal": "Burung yang memiliki kemampuan lari sangat cepat tapi tidak bisa terbang",
+    "jawaban": "Burung Unta"
+  },
+  {
+    "soal": "Hewan mamalia yang memiliki duri di seluruh tubuhnya",
+    "jawaban": "Landak"
+  },
+  {
+    "soal": "Hewan yang memiliki jari-jari sangat panjang dan hidup di Madagaskar",
+    "jawaban": "Aye-aye"
+  },
+  {
+    "soal": "Serangga yang sangat kuat dan sering dianggap sebagai hama di rumah",
+    "jawaban": "Kecoak"
+  },
+  {
+    "soal": "Ikan yang memiliki moncong seperti pedang",
+    "jawaban": "Ikan Pedang"
+  },
+  {
+    "soal": "Hewan yang memiliki pola garis-garis hitam pada wajahnya seperti topeng",
+    "jawaban": "Rakun"
+  },
+  {
+    "soal": "Burung yang memiliki bulu berwarna merah muda karena makan udang",
+    "jawaban": "Flamingo"
+  },
+  {
+    "soal": "Hewan yang memiliki cula di atas hidungnya",
+    "jawaban": "Badak"
+  },
+  {
+    "soal": "Hewan laut yang memiliki tempurung spiral dan tentakel",
+    "jawaban": "Nautilus"
+  },
+  {
+    "soal": "Hewan yang sangat suka menggali lubang di tanah untuk tempat tinggal",
+    "jawaban": "Kelinci"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk mengeluarkan suara nyaring di pohon",
+    "jawaban": "Tonggeret"
+  },
+  {
+    "soal": "Hewan yang memiliki kaki sangat panjang dan leher panjang",
+    "jawaban": "Jerapah"
+  },
+  {
+    "soal": "Ikan yang memiliki sirip yang menyerupai sayap burung",
+    "jawaban": "Ikan Pari"
+  },
+  {
+    "soal": "Hewan yang memiliki gading panjang dan melengkung",
+    "jawaban": "Gajah"
+  },
+  {
+    "soal": "Burung yang menjadi simbol kebijaksanaan",
+    "jawaban": "Burung Hantu"
+  },
+  {
+    "soal": "Hewan yang memiliki lidah yang bisa dijulurkan lebih panjang dari tubuhnya",
+    "jawaban": "Bunglon"
+  },
+  {
+    "soal": "Hewan laut yang memiliki kemampuan untuk menyemburkan air panas",
+    "jawaban": "Udang Pisto"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk mematung agar tidak terlihat musuh",
+    "jawaban": "Belalang Sembah"
+  },
+  {
+    "soal": "Serangga yang sangat berbahaya karena sengatannya bisa mematikan",
+    "jawaban": "Lebah Pembunuh"
+  },
+  {
+    "soal": "Hewan yang memiliki tanduk yang bercabang-cabang",
+    "jawaban": "Rusa"
+  },
+  {
+    "soal": "Ikan yang memiliki kemampuan untuk merayap di daratan",
+    "jawaban": "Ikan Glodok"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk menabung air di dalam kantung kemih",
+    "jawaban": "Kura-kura Gurun"
+  },
+  {
+    "soal": "Burung yang memiliki sayap sangat lebar untuk terbang di atas samudera",
+    "jawaban": "Albatros"
+  },
+  {
+    "soal": "Hewan mamalia yang memiliki sisik di punggungnya dan sangat keras",
+    "jawaban": "Armadillo"
+  },
+  {
+    "soal": "Hewan yang memiliki moncong panjang dan sangat suka makan rayap",
+    "jawaban": "Aardvark"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk meniru bentuk ranting pohon",
+    "jawaban": "Serangga Ranting"
+  },
+  {
+    "soal": "Ikan yang memiliki barisan gigi yang sangat tajam di dalam mulutnya yang lebar",
+    "jawaban": "Hiu Megalodon"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk berjalan di atas dua kaki belakangnya",
+    "jawaban": "Kera"
+  },
+  {
+    "soal": "Burung yang memiliki ekor sangat panjang dan indah, berasal dari Papua",
+    "jawaban": "Cendrawasih"
+  },
+  {
+    "soal": "Hewan yang memiliki pola totol-totol seperti macan tapi ukurannya kecil",
+    "jawaban": "Kucing Hutan"
+  },
+  {
+    "soal": "Hewan laut yang memiliki taring dan hidup di perairan dalam",
+    "jawaban": "Ikan Fangtooth"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk mencium mangsa dari jarak sangat jauh",
+    "jawaban": "Beruang"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk mengeluarkan bau busuk saat terancam",
+    "jawaban": "Walang Sangit"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk memanjat dinding dengan sangat cepat",
+    "jawaban": "Tokek"
+  },
+  {
+    "soal": "Ikan yang memiliki kemampuan untuk meloncat tinggi ke udara",
+    "jawaban": "Ikan Salmon"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk menahan napas sangat lama di dalam air",
+    "jawaban": "Penyu"
+  },
+  {
+    "soal": "Burung yang memiliki penglihatan sangat tajam untuk berburu mangsa kecil",
+    "jawaban": "Burung Alap-alap"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk meluncur di udara dari pohon ke pohon",
+    "jawaban": "Tupai Terbang"
+  },
+  {
+    "soal": "Hewan mamalia yang sangat menyukai air dan hidup di sungai-sungai Afrika",
+    "jawaban": "Kuda Nil"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk menghisap darah manusia",
+    "jawaban": "Kutu"
+  },
+  {
+    "soal": "Ikan yang memiliki kemampuan untuk menghasilkan getaran listrik",
+    "jawaban": "Ikan Pari Listrik"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk tidur berbulan-bulan selama musim dingin",
+    "jawaban": "Beruang Grizly"
+  },
+  {
+    "soal": "Burung yang memiliki sayap kecil dan tidak bisa terbang, berasal dari benua Australia",
+    "jawaban": "Emu"
+  },
+  {
+    "soal": "Hewan yang memiliki lidah yang sangat kasar untuk menjilati daging dari tulang",
+    "jawaban": "Harimau"
+  },
+  {
+    "soal": "Hewan laut yang memiliki kemampuan untuk mengubah warnanya secara instan",
+    "jawaban": "Sotong"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk membawa beban berat di punggungnya",
+    "jawaban": "Keledai"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk membangun sarang yang sangat rumit di bawah tanah",
+    "jawaban": "Rayap"
+  },
+  {
+    "soal": "Ikan yang memiliki kemampuan untuk mengeluarkan racun mematikan dari durinya",
+    "jawaban": "Ikan Lepu"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk lari dengan kecepatan tinggi di padang rumput",
+    "jawaban": "Zebra"
+  },
+  {
+    "soal": "Burung yang memiliki sayap yang bisa bergerak sangat cepat hingga terdengar suara mendengung",
+    "jawaban": "Burung Kolibri"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk berjalan di atas salju tanpa tenggelam",
+    "jawaban": "Kelinci Salju"
+  },
+  {
+    "soal": "Hewan mamalia yang memiliki gading spiral yang sangat panjang di kepalanya",
+    "jawaban": "Narwhal"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk mengeluarkan cahaya yang indah di malam hari",
+    "jawaban": "Kunang-kunang"
+  },
+  {
+    "soal": "Ikan yang memiliki kemampuan untuk menghisap tubuh mangsanya dengan mulut bundar",
+    "jawaban": "Ikan Lamprey"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk menggulung tubuhnya menjadi bola yang sangat keras",
+    "jawaban": "Trenggiling"
+  },
+  {
+    "soal": "Burung yang memiliki paruh yang sangat kuat untuk melubangi pohon",
+    "jawaban": "Burung Pelatuk"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk memanjat pohon dengan sangat lincah",
+    "jawaban": "Tupai"
+  },
+  {
+    "soal": "Hewan laut yang memiliki kemampuan untuk mengeluarkan suara nyanyian yang merdu",
+    "jawaban": "Paus Bungkuk"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk berdiri tegak di atas dua kaki untuk mengintai musuh",
+    "jawaban": "Meerkat"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk terbang dengan sangat stabil di udara",
+    "jawaban": "Capung"
+  },
+  {
+    "soal": "Ikan yang memiliki kemampuan untuk berenang melawan arus air yang sangat kuat",
+    "jawaban": "Salmon"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk menarik kepalanya masuk ke dalam tempurung",
+    "jawaban": "Kura-kura"
+  },
+  {
+    "soal": "Burung yang memiliki ekor sangat lebar yang bisa mengembang dengan warna-warni yang indah",
+    "jawaban": "Burung Merak"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk bertahan hidup di kondisi yang sangat ekstrem",
+    "jawaban": "Tardigrada"
+  },
+  {
+    "soal": "Hewan mamalia yang memiliki kemampuan untuk berenang sangat cepat di air es",
+    "jawaban": "Anjing Laut"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk melompat sangat jauh untuk menangkap mangsa",
+    "jawaban": "Kucing Besar"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk menyengat musuhnya dengan racun yang kuat",
+    "jawaban": "Tawon"
+  },
+  {
+    "soal": "Ikan yang memiliki kemampuan untuk menyamar di pasir dasar laut",
+    "jawaban": "Ikan Pari"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk mengenali dirinya sendiri di depan cermin",
+    "jawaban": "Lumba-lumba"
+  },
+  {
+    "soal": "Burung yang memiliki kemampuan untuk menempuh perjalanan ribuan mil saat migrasi",
+    "jawaban": "Burung Layang-layang"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk mendengarkan suara dari jarak yang sangat jauh",
+    "jawaban": "Gajah"
+  },
+  {
+    "soal": "Hewan laut yang memiliki kemampuan untuk menumbuhkan kembali lengannya yang putus",
+    "jawaban": "Bintang Laut"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk hidup sangat lama hingga ratusan tahun",
+    "jawaban": "Kura-kura Galapago"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk membawa makanan ke sarangnya dengan gotong royong",
+    "jawaban": "Semut"
+  },
+  {
+    "soal": "Ikan yang memiliki kemampuan untuk meloncat keluar dari air untuk mengambil serangga",
+    "jawaban": "Ikan Sumpit"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk bertahan hidup di padang pasir yang sangat panas",
+    "jawaban": "Kadal Berduri"
+  },
+  {
+    "soal": "Burung yang memiliki kemampuan untuk terbang di malam hari dengan sangat tenang",
+    "jawaban": "Burung Hantu"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk menghasilkan madu dari sari bunga",
+    "jawaban": "Lebah Madu"
+  },
+  {
+    "soal": "Hewan mamalia laut yang sangat bersahabat dan sering bermain dengan ombak",
+    "jawaban": "Lumba-lumba"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk memakan kayu rumah",
+    "jawaban": "Rayap"
+  },
+  {
+    "soal": "Ikan yang memiliki kemampuan untuk berenang di perairan yang sangat dalam dan gelap",
+    "jawaban": "Ikan Laut Dalam"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk merubah warna tubuhnya secara spontan",
+    "jawaban": "Bunglon"
+  },
+  {
+    "soal": "Burung yang memiliki paruh yang sangat tajam dan kuat untuk mencabik daging mangsa",
+    "jawaban": "Elang"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk menggali tanah dengan kaki depannya yang kuat",
+    "jawaban": "Tikus Mondok"
+  },
+  {
+    "soal": "Hewan laut yang memiliki kemampuan untuk bersembunyi di dalam cangkang kosong",
+    "jawaban": "Kelomang"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk berlari dengan kecepatan tinggi di atas pasir",
+    "jawaban": "Kadal Gurun"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk mengeluarkan suara nyaring saat musim kemarau",
+    "jawaban": "Garengpung"
+  },
+  {
+    "soal": "Ikan yang memiliki kemampuan untuk merayap di akar-akar pohon bakau",
+    "jawaban": "Ikan Tembakul"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk tidur sambil berpegangan tangan agar tidak hanyut",
+    "jawaban": "Berang-berang Laut"
+  },
+  {
+    "soal": "Burung yang memiliki kemampuan untuk mencuri makanan dari burung lain di udara",
+    "jawaban": "Burung Camar"
+  },
+  {
+    "soal": "Hewan yang memiliki kemampuan untuk mendaki gunung yang sangat tinggi",
+    "jawaban": "Yak"
+  },
+  {
+    "soal": "Hewan mamalia yang sangat ahli berenang dan memiliki ekor yang lebar",
+    "jawaban": "Manatee"
+  },
+  {
+    "soal": "Serangga yang memiliki kemampuan untuk menghasilkan sutra yang sangat halus",
+    "jawaban": "Ulat Sutra"
+  }
+]
