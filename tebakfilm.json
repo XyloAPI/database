@@ -1,88 +1,810 @@
-```json
 [
-  {"soal": "Film tentang singa muda bernama Simba", "jawaban": "The Lion King"},
-  {"soal": "Film superhero tentang pria kaya dengan baju zirah canggih", "jawaban": "Iron Man"},
-  {"soal": "Film tentang monster biru besar yang menakuti anak-anak", "jawaban": "Monsters Inc"},
-  {"soal": "Film tentang manusia kelelawar pelindung Gotham", "jawaban": "Batman"},
-  {"soal": "Film tentang kapal luar angkasa Millennium Falcon", "jawaban": "Star Wars"},
-  {"soal": "Film animasi tentang rumah yang diterbangkan balon", "jawaban": "Up"},
-  {"soal": "Film tentang pembalap Formula 1 legendaris Niki Lauda", "jawaban": "Rush"},
-  {"soal": "Film superhero tentang dewa petir dari Asgard", "jawaban": "Thor"},
-  {"soal": "Film tentang petualangan di dunia Pandora", "jawaban": "Avatar"},
-  {"soal": "Film animasi tentang emosi di dalam kepala seorang anak", "jawaban": "Inside Out"},
-  {"soal": "Film tentang manusia semut yang bisa mengecil", "jawaban": "Ant-Man"},
-  {"soal": "Film tentang zombie yang menyerang seluruh dunia", "jawaban": "World War Z"},
-  {"soal": "Film animasi tentang naga dan anak Viking", "jawaban": "How to Train Your Dragon"},
-  {"soal": "Film tentang pesulap dengan trik sulap mematikan", "jawaban": "The Prestige"},
-  {"soal": "Film tentang pembunuh bayaran bernama John Wick", "jawaban": "John Wick"},
-  {"soal": "Film animasi tentang rusa kutub dan manusia salju Olaf", "jawaban": "Frozen 2"},
-  {"soal": "Film tentang dunia sihir dengan makhluk Fantastic Beasts", "jawaban": "Fantastic Beasts"},
-  {"soal": "Film tentang petualangan arkeolog Indiana Jones", "jawaban": "Indiana Jones"},
-  {"soal": "Film superhero tentang dokter yang menguasai sihir", "jawaban": "Doctor Strange"},
-  {"soal": "Film tentang remaja yang bertarung sampai mati di arena", "jawaban": "The Hunger Games"},
-  {"soal": "Film animasi tentang mobil balap merah bernama Lightning McQueen", "jawaban": "Cars"},
-  {"soal": "Film tentang monster raksasa gorila di pulau misterius", "jawaban": "King Kong"},
-  {"soal": "Film tentang pria yang bisa berkomunikasi dengan alien symbiote", "jawaban": "Venom"},
-  {"soal": "Film animasi tentang ayam yang ingin kabur dari peternakan", "jawaban": "Chicken Run"},
-  {"soal": "Film tentang hiu putih raksasa yang meneror pantai", "jawaban": "Jaws"},
-  {"soal": "Film tentang robot dari masa depan yang memburu manusia", "jawaban": "Terminator"},
-  {"soal": "Film animasi tentang lebah pekerja bernama Barry", "jawaban": "Bee Movie"},
-  {"soal": "Film tentang petinju yang dilatih oleh Rocky Balboa", "jawaban": "Creed"},
-  {"soal": "Film tentang anak kecil yang sendirian saat Natal", "jawaban": "Home Alone"},
-  {"soal": "Film superhero tentang kerajaan Wakanda", "jawaban": "Black Panther"},
-  {"soal": "Film tentang ilmuwan yang menciptakan monster hijau besar", "jawaban": "Hulk"},
-  {"soal": "Film animasi tentang kura-kura ninja pecinta pizza", "jawaban": "Teenage Mutant Ninja Turtles"},
-  {"soal": "Film tentang kapal luar angkasa Nostromo dan alien mematikan", "jawaban": "Alien"},
-  {"soal": "Film tentang anak laki-laki yang berteman dengan beruang madu", "jawaban": "The Jungle Book"},
-  {"soal": "Film tentang perjalanan waktu menggunakan DeLorean", "jawaban": "Back to the Future"},
-  {"soal": "Film superhero tentang pemanah anggota Avengers", "jawaban": "Hawkeye"},
-  {"soal": "Film tentang agen FBI mengejar pembunuh berantai Hannibal Lecter", "jawaban": "The Silence of the Lambs"},
-  {"soal": "Film animasi tentang bocah Meksiko yang suka musik", "jawaban": "Coco"},
-  {"soal": "Film tentang perampokan kasino besar di Las Vegas", "jawaban": "Ocean's Eleven"},
-  {"soal": "Film tentang manusia mutan dengan cakar adamantium", "jawaban": "Wolverine"},
-  {"soal": "Film animasi tentang burung biru dan babi hijau", "jawaban": "Angry Birds"},
-  {"soal": "Film tentang kapal luar angkasa yang menjelajahi galaksi", "jawaban": "Star Trek"},
-  {"soal": "Film tentang tentara yang harus menyelamatkan prajurit Ryan", "jawaban": "Saving Private Ryan"},
-  {"soal": "Film superhero tentang tim penjaga galaksi", "jawaban": "Guardians of the Galaxy"},
-  {"soal": "Film animasi tentang putri laut bernama Ariel", "jawaban": "The Little Mermaid"},
-  {"soal": "Film tentang penyelamatan astronot yang terjebak di Mars", "jawaban": "The Martian"},
-  {"soal": "Film tentang robot Transformers yang berubah jadi mobil", "jawaban": "Transformers"},
-  {"soal": "Film animasi tentang bocah yang masuk dunia monster", "jawaban": "Monsters University"},
-  {"soal": "Film tentang petualangan di hutan bersama Dwayne Johnson", "jawaban": "Jumanji"},
-  {"soal": "Film tentang balapan mobil dengan Dominic Toretto", "jawaban": "Fast Five"},
-  {"soal": "Film superhero tentang manusia air dari Atlantis", "jawaban": "Aquaman"},
-  {"soal": "Film tentang pencurian mimpi dengan teknologi khusus", "jawaban": "Inception"},
-  {"soal": "Film animasi tentang robot kesehatan bernama Baymax", "jawaban": "Big Hero 6"},
-  {"soal": "Film tentang dunia penuh dinosaurus yang kembali kacau", "jawaban": "Jurassic World"},
-  {"soal": "Film tentang pemburu vampir setengah manusia", "jawaban": "Blade"},
-  {"soal": "Film animasi tentang petualangan Elsa dan Anna", "jawaban": "Frozen"},
-  {"soal": "Film tentang perampokan bank oleh badut kriminal Joker", "jawaban": "The Dark Knight"},
-  {"soal": "Film tentang remaja yang masuk labirin mematikan", "jawaban": "Maze Runner"},
-  {"soal": "Film animasi tentang monster laut dan persahabatan", "jawaban": "Luca"},
-  {"soal": "Film tentang agen rahasia Ethan Hunt", "jawaban": "Mission Impossible"},
-  {"soal": "Film tentang boneka koboi bernama Woody", "jawaban": "Toy Story 2"},
-  {"soal": "Film tentang petualangan Bilbo Baggins ke gunung naga", "jawaban": "The Hobbit"},
-  {"soal": "Film superhero tentang pria tercepat di dunia", "jawaban": "The Flash"},
-  {"soal": "Film tentang keluarga yang diburu monster buta", "jawaban": "A Quiet Place"},
-  {"soal": "Film animasi tentang putri pemberani dari Skotlandia", "jawaban": "Brave"},
-  {"soal": "Film tentang pria yang bisa membaca pikiran perempuan", "jawaban": "What Women Want"},
-  {"soal": "Film tentang remaja penyihir dengan bekas luka petir", "jawaban": "Harry Potter"},
-  {"soal": "Film animasi tentang kelinci polisi bernama Judy", "jawaban": "Zootopia"},
-  {"soal": "Film tentang manusia pasir dan laba-laba merah biru", "jawaban": "Spider-Man 3"},
-  {"soal": "Film tentang petualangan seekor beruang bernama Paddington", "jawaban": "Paddington"},
-  {"soal": "Film tentang pembalasan dendam gladiator Romawi", "jawaban": "Gladiator"},
-  {"soal": "Film animasi tentang dinosaurus kecil bernama Littlefoot", "jawaban": "The Land Before Time"},
-  {"soal": "Film tentang pembobolan brankas di Italia", "jawaban": "The Italian Job"},
-  {"soal": "Film tentang anak laki-laki yang bisa melihat hantu", "jawaban": "The Sixth Sense"},
-  {"soal": "Film animasi tentang rusa kutub Sven", "jawaban": "Frozen"},
-  {"soal": "Film tentang monster Godzilla menghancurkan kota", "jawaban": "Godzilla"},
-  {"soal": "Film tentang agen rahasia dengan mobil Aston Martin", "jawaban": "Skyfall"},
-  {"soal": "Film animasi tentang peri kecil dan debu ajaib", "jawaban": "Tinker Bell"},
-  {"soal": "Film tentang petualangan keluarga Parr", "jawaban": "Incredibles 2"},
-  {"soal": "Film tentang dunia mimpi dan monster Freddy Krueger", "jawaban": "A Nightmare on Elm Street"},
-  {"soal": "Film animasi tentang seekor siput balap", "jawaban": "Turbo"},
-  {"soal": "Film tentang anak genius yang membuat robot", "jawaban": "Big Hero 6"},
-  {"soal": "Film tentang manusia laba-laba dari multiverse", "jawaban": "Spider-Man No Way Home"},
-  {"soal": "Film animasi tentang putri Polinesia yang berlayar di lautan", "jawaban": "Moana"}
+  {
+    "soal": "Film animasi tentang mainan yang hidup saat pemiliknya pergi",
+    "jawaban": "Toy Story"
+  },
+  {
+    "soal": "Film tentang kapal mewah yang menabrak gunung es di Atlantik",
+    "jawaban": "Titanic"
+  },
+  {
+    "soal": "Film superhero dengan pria berkostum laba-laba yang bisa memanjat gedung",
+    "jawaban": "Spider-Man"
+  },
+  {
+    "soal": "Film animasi tentang ikan badut yang mencari anaknya di lautan",
+    "jawaban": "Finding Nemo"
+  },
+  {
+    "soal": "Film horor tentang boneka Annabelle yang dirasuki iblis",
+    "jawaban": "Annabelle"
+  },
+  {
+    "soal": "Film tentang bajak laut Karibia dengan kapten Jack Sparrow",
+    "jawaban": "Pirates of the Caribbean"
+  },
+  {
+    "soal": "Film animasi Jepang tentang gadis yang tersesat di dunia roh",
+    "jawaban": "Spirited Away"
+  },
+  {
+    "soal": "Film tentang dinosaurus yang dihidupkan kembali di sebuah taman",
+    "jawaban": "Jurassic Park"
+  },
+  {
+    "soal": "Film horor tentang badut menakutkan bernama Pennywise",
+    "jawaban": "IT"
+  },
+  {
+    "soal": "Film tentang cincin ajaib yang harus dihancurkan di gunung api",
+    "jawaban": "Lord of the Rings"
+  },
+  {
+    "soal": "Film animasi tentang robot pembersih sampah yang jatuh cinta",
+    "jawaban": "WALL-E"
+  },
+  {
+    "soal": "Film tentang penyihir muda yang bersekolah di Hogwarts",
+    "jawaban": "Harry Potter"
+  },
+  {
+    "soal": "Film tentang boxer miskin yang mendapat kesempatan bertanding juara",
+    "jawaban": "Rocky"
+  },
+  {
+    "soal": "Film animasi tentang putri berambut panjang yang terkurung di menara",
+    "jawaban": "Tangled"
+  },
+  {
+    "soal": "Film tentang hacker yang menemukan bahwa dunia ini simulasi komputer",
+    "jawaban": "The Matrix"
+  },
+  {
+    "soal": "Film tentang seorang pria yang terdampar sendirian di pulau terpencil",
+    "jawaban": "Cast Away"
+  },
+  {
+    "soal": "Film animasi Disney tentang putri es yang bisa membekukan segalanya",
+    "jawaban": "Frozen"
+  },
+  {
+    "soal": "Film tentang alien yang ingin menelepon rumahnya",
+    "jawaban": "ET"
+  },
+  {
+    "soal": "Film tentang gladiator yang membalas dendam pada kaisar Roma",
+    "jawaban": "Gladiator"
+  },
+  {
+    "soal": "Film animasi tentang keluarga superhero yang menyembunyikan kekuatan",
+    "jawaban": "The Incredibles"
+  },
+  {
+    "soal": "Film tentang kapal selam nuklir dan perburuan bawah laut",
+    "jawaban": "The Hunt for Red October"
+  },
+  {
+    "soal": "Film tentang agen rahasia Inggris dengan kode 007",
+    "jawaban": "James Bond"
+  },
+  {
+    "soal": "Film horor tentang keluarga yang pindah ke hotel terpencil di musim dingin",
+    "jawaban": "The Shining"
+  },
+  {
+    "soal": "Film animasi tentang tikus yang bermimpi jadi chef di Paris",
+    "jawaban": "Ratatouille"
+  },
+  {
+    "soal": "Film tentang mimpi di dalam mimpi dengan totem berputar",
+    "jawaban": "Inception"
+  },
+  {
+    "soal": "Film tentang panda gemuk yang menjadi Dragon Warrior",
+    "jawaban": "Kung Fu Panda"
+  },
+  {
+    "soal": "Film tentang detektif dan sidekicknya yang memecahkan kasus di London",
+    "jawaban": "Sherlock Holmes"
+  },
+  {
+    "soal": "Film tentang manusia serigala dan vampir yang berperang",
+    "jawaban": "Underworld"
+  },
+  {
+    "soal": "Film animasi tentang ogre hijau yang tinggal di rawa",
+    "jawaban": "Shrek"
+  },
+  {
+    "soal": "Film tentang balap mobil ilegal di jalanan kota",
+    "jawaban": "Fast and Furious"
+  },
+  {
+    "soal": "Film tentang pria IQ rendah yang terlibat dalam banyak peristiwa sejarah AS",
+    "jawaban": "Forrest Gump"
+  },
+  {
+    "soal": "Film tentang keluarga mafia Corleone yang dipimpin oleh The Don",
+    "jawaban": "The Godfather"
+  },
+  {
+    "soal": "Film tentang perjuangan seorang bankir yang dipenjara secara salah di Shawshank",
+    "jawaban": "The Shawshank Redemption"
+  },
+  {
+    "soal": "Film tentang ksatria kegelapan yang melawan Joker di Gotham City",
+    "jawaban": "The Dark Knight"
+  },
+  {
+    "soal": "Film tentang dua pembunuh bayaran yang membicarakan burger di awal cerita",
+    "jawaban": "Pulp Fiction"
+  },
+  {
+    "soal": "Film tentang daftar nama orang Yahudi yang diselamatkan dari kamp Nazi",
+    "jawaban": "Schindler's List"
+  },
+  {
+    "soal": "Film tentang perjalanan astronot melewati lubang cacing untuk mencari planet baru",
+    "jawaban": "Interstellar"
+  },
+  {
+    "soal": "Film tentang makhluk biru di planet Pandora yang mempertahankan tanahnya",
+    "jawaban": "Avatar"
+  },
+  {
+    "soal": "Film tentang seorang komedian gagal yang perlahan menjadi kriminal gila",
+    "jawaban": "Joker"
+  },
+  {
+    "soal": "Film tentang bersatunya para pahlawan untuk melawan Thanos",
+    "jawaban": "Avengers: Endgame"
+  },
+  {
+    "soal": "Film Korea tentang keluarga miskin yang menyusup ke rumah keluarga kaya",
+    "jawaban": "Parasite"
+  },
+  {
+    "soal": "Film animasi tentang singa kecil yang ayahnya dibunuh oleh pamannya",
+    "jawaban": "The Lion King"
+  },
+  {
+    "soal": "Film animasi tentang kakek tua yang menerbangkan rumahnya dengan ribuan balon",
+    "jawaban": "Up"
+  },
+  {
+    "soal": "Film animasi tentang bocah yang pergi ke dunia kematian saat hari raya Meksiko",
+    "jawaban": "Coco"
+  },
+  {
+    "soal": "Film animasi tentang emosi-emosi di dalam kepala seorang gadis kecil",
+    "jawaban": "Inside Out"
+  },
+  {
+    "soal": "Film animasi tentang gadis Polinesia yang berlayar untuk mengembalikan jantung dewi",
+    "jawaban": "Moana"
+  },
+  {
+    "soal": "Film animasi tentang gadis Cina yang menyamar jadi pria untuk ikut perang",
+    "jawaban": "Mulan"
+  },
+  {
+    "soal": "Film animasi tentang pencuri jalanan yang menemukan lampu ajaib",
+    "jawaban": "Aladdin"
+  },
+  {
+    "soal": "Film animasi tentang kutukan pangeran yang menjadi monster buruk rupa",
+    "jawaban": "Beauty and the Beast"
+  },
+  {
+    "soal": "Film animasi tentang putri duyung yang ingin menjadi manusia",
+    "jawaban": "The Little Mermaid"
+  },
+  {
+    "soal": "Film tentang boneka yang hidup dan pergi ke dunia nyata bersama Ken",
+    "jawaban": "Barbie"
+  },
+  {
+    "soal": "Film tentang fisikawan yang menciptakan bom atom pertama",
+    "jawaban": "Oppenheimer"
+  },
+  {
+    "soal": "Film tentang sekelompok mainan yang terjebak di tempat penitipan anak",
+    "jawaban": "Toy Story 3"
+  },
+  {
+    "soal": "Film horor tentang keluarga yang diteror oleh hantu di rumah tua mereka",
+    "jawaban": "The Conjuring"
+  },
+  {
+    "soal": "Film tentang pembunuh bertopeng hantu yang meneror kota Woodsboro",
+    "jawaban": "Scream"
+  },
+  {
+    "soal": "Film horor tentang rekaman video yang bisa membunuh penontonnya dalam 7 hari",
+    "jawaban": "The Ring"
+  },
+  {
+    "soal": "Film tentang seorang pria yang terus mengulang hari yang sama",
+    "jawaban": "Groundhog Day"
+  },
+  {
+    "soal": "Film tentang arkeolog yang mencari tabut perjanjian yang hilang",
+    "jawaban": "Raiders of the Lost Ark"
+  },
+  {
+    "soal": "Film tentang pertarungan antar bintang dan ksatria Jedi",
+    "jawaban": "Star Wars"
+  },
+  {
+    "soal": "Film tentang cyborg dari masa depan yang dikirim untuk membunuh Sarah Connor",
+    "jawaban": "The Terminator"
+  },
+  {
+    "soal": "Film tentang polisi masa depan yang bertugas memburu replika manusia",
+    "jawaban": "Blade Runner"
+  },
+  {
+    "soal": "Film tentang seekor hiu putih raksasa yang meneror pantai Amity",
+    "jawaban": "Jaws"
+  },
+  {
+    "soal": "Film horor tentang gadis yang kerasukan iblis dan kepalanya berputar",
+    "jawaban": "The Exorcist"
+  },
+  {
+    "soal": "Film tentang seorang pengacara yang membela pria kulit hitam di Alabama",
+    "jawaban": "To Kill a Mockingbird"
+  },
+  {
+    "soal": "Film tentang pilot jet tempur berbakat dengan panggilan Maverick",
+    "jawaban": "Top Gun"
+  },
+  {
+    "soal": "Film tentang seorang pemuda yang pergi ke masa lalu dengan mobil DeLorean",
+    "jawaban": "Back to the Future"
+  },
+  {
+    "soal": "Film tentang perampokan bank yang dipimpin oleh pria bertopeng badut",
+    "jawaban": "The Dark Knight"
+  },
+  {
+    "soal": "Film tentang perjuangan tentara AS menyelamatkan seorang prajurit di Normandia",
+    "jawaban": "Saving Private Ryan"
+  },
+  {
+    "soal": "Film horor tentang pembunuh yang menyerang korbannya di dalam mimpi",
+    "jawaban": "A Nightmare on Elm Street"
+  },
+  {
+    "soal": "Film horor tentang topeng hoki dan perkemahan Crystal Lake",
+    "jawaban": "Friday the 13th"
+  },
+  {
+    "soal": "Film tentang detektif yang mencari pembunuh berantai berdasarkan 7 dosa mematikan",
+    "jawaban": "Se7en"
+  },
+  {
+    "soal": "Film tentang seorang pria yang tidak tahu bahwa hidupnya adalah acara TV",
+    "jawaban": "The Truman Show"
+  },
+  {
+    "soal": "Film tentang persahabatan antara bocah dan alien yang tertinggal",
+    "jawaban": "E.T. the Extra-Terrestrial"
+  },
+  {
+    "soal": "Film tentang robot canggih yang dikirim kembali untuk melindungi John Connor",
+    "jawaban": "Terminator 2: Judgment Day"
+  },
+  {
+    "soal": "Film tentang petualangan hobbit bernama Bilbo Baggins",
+    "jawaban": "The Hobbit"
+  },
+  {
+    "soal": "Film tentang pembunuh bayaran yang anjingnya dibunuh lalu dia balas dendam",
+    "jawaban": "John Wick"
+  },
+  {
+    "soal": "Film tentang sekelompok pesulap yang merampok bank saat pertunjukan",
+    "jawaban": "Now You See Me"
+  },
+  {
+    "soal": "Film tentang kecerdasan buatan di sebuah rumah yang menipu pembuatnya",
+    "jawaban": "Ex Machina"
+  },
+  {
+    "soal": "Film tentang astronot yang tertinggal sendirian di planet Mars",
+    "jawaban": "The Martian"
+  },
+  {
+    "soal": "Film tentang petualangan di dunia mimpi yang terbagi dalam beberapa level",
+    "jawaban": "Inception"
+  },
+  {
+    "soal": "Film tentang dua penyulap yang saling bersaing ketat",
+    "jawaban": "The Prestige"
+  },
+  {
+    "soal": "Film tentang pahlawan Afrika dengan kostum macan hitam",
+    "jawaban": "Black Panther"
+  },
+  {
+    "soal": "Film tentang pahlawan wanita dari suku Amazon",
+    "jawaban": "Wonder Woman"
+  },
+  {
+    "soal": "Film tentang monster raksasa Jepang yang menyerang kota",
+    "jawaban": "Godzilla"
+  },
+  {
+    "soal": "Film tentang sekelompok orang yang terjebak di dalam labirin raksasa",
+    "jawaban": "The Maze Runner"
+  },
+  {
+    "soal": "Film tentang permainan bertahan hidup yang mematikan di masa depan",
+    "jawaban": "The Hunger Games"
+  },
+  {
+    "soal": "Film tentang robot raksasa yang melawan monster laut (Kaiju)",
+    "jawaban": "Pacific Rim"
+  },
+  {
+    "soal": "Film tentang tentara yang menyamar jadi alien di planet lain",
+    "jawaban": "Avatar"
+  },
+  {
+    "soal": "Film tentang perjalanan ke luar angkasa dengan monolit misterius",
+    "jawaban": "2001: A Space Odyssey"
+  },
+  {
+    "soal": "Film tentang petinju yang bangkit kembali setelah kekalahan",
+    "jawaban": "Cinderella Man"
+  },
+  {
+    "soal": "Film tentang pria yang menua secara terbalik",
+    "jawaban": "The Curious Case of Benjamin Button"
+  },
+  {
+    "soal": "Film tentang agen rahasia yang amnesia dan diburu organisasi sendiri",
+    "jawaban": "The Bourne Identity"
+  },
+  {
+    "soal": "Film tentang perampokan kasino di Las Vegas oleh 11 orang",
+    "jawaban": "Ocean's Eleven"
+  },
+  {
+    "soal": "Film tentang pembalap jalanan di Tokyo yang ahli drifting",
+    "jawaban": "The Fast and the Furious: Tokyo Drift"
+  },
+  {
+    "soal": "Film horor tentang sekelompok anak muda yang diteror gergaji mesin",
+    "jawaban": "The Texas Chain Saw Massacre"
+  },
+  {
+    "soal": "Film tentang alien berbentuk cairan hitam yang menempel pada manusia",
+    "jawaban": "Venom"
+  },
+  {
+    "soal": "Film tentang perang saudara pahlawan Marvel karena perbedaan pendapat",
+    "jawaban": "Captain America: Civil War"
+  },
+  {
+    "soal": "Film tentang pahlawan yang bisa mengecil seukuran semut",
+    "jawaban": "Ant-Man"
+  },
+  {
+    "soal": "Film tentang dokter bedah saraf yang menjadi penyihir hebat",
+    "jawaban": "Doctor Strange"
+  },
+  {
+    "soal": "Film tentang dewa petir dari Asgard",
+    "jawaban": "Thor"
+  },
+  {
+    "soal": "Film tentang pahlawan berkostum kelelawar yang melawan Penguin",
+    "jawaban": "Batman Returns"
+  },
+  {
+    "soal": "Film animasi tentang dunia binatang yang bertingkah seperti manusia",
+    "jawaban": "Zootopia"
+  },
+  {
+    "soal": "Film animasi tentang naga terakhir dan gadis pejuang",
+    "jawaban": "Raya and the Last Dragon"
+  },
+  {
+    "soal": "Film animasi tentang mobil balap merah bernama Lightning McQueen",
+    "jawaban": "Cars"
+  },
+  {
+    "soal": "Film animasi tentang gajah kecil bertelinga lebar yang bisa terbang",
+    "jawaban": "Dumbo"
+  },
+  {
+    "soal": "Film animasi tentang rusa kecil yang ibunya diburu manusia",
+    "jawaban": "Bambi"
+  },
+  {
+    "soal": "Film animasi tentang boneka kayu yang ingin jadi anak laki-laki nyata",
+    "jawaban": "Pinocchio"
+  },
+  {
+    "soal": "Film animasi tentang petualangan di negeri ajaib setelah mengikuti kelinci",
+    "jawaban": "Alice in Wonderland"
+  },
+  {
+    "soal": "Film animasi tentang penjahat yang mengadopsi tiga anak yatim",
+    "jawaban": "Despicable Me"
+  },
+  {
+    "soal": "Film animasi tentang makhluk kuning kecil yang suka pisang",
+    "jawaban": "Minions"
+  },
+  {
+    "soal": "Film animasi tentang petualangan anjing bernama Bolt yang merasa punya kekuatan",
+    "jawaban": "Bolt"
+  },
+  {
+    "soal": "Film tentang pertempuran besar antara Sparta dan Persia",
+    "jawaban": "300"
+  },
+  {
+    "soal": "Film tentang pahlawan yang bisa berlari sangat cepat",
+    "jawaban": "The Flash"
+  },
+  {
+    "soal": "Film tentang detektif yang menyamar di sekolah menengah",
+    "jawaban": "21 Jump Street"
+  },
+  {
+    "soal": "Film tentang sekelompok pria yang kehilangan teman saat pesta bujang di Vegas",
+    "jawaban": "The Hangover"
+  },
+  {
+    "soal": "Film tentang hantu yang membantu istrinya setelah dia meninggal",
+    "jawaban": "Ghost"
+  },
+  {
+    "soal": "Film tentang seorang pengusaha yang terdampar di pulau dan berteman dengan bola voli",
+    "jawaban": "Cast Away"
+  },
+  {
+    "soal": "Film tentang serangan alien pada hari kemerdekaan Amerika",
+    "jawaban": "Independence Day"
+  },
+  {
+    "soal": "Film tentang monster yang keluar dari perut manusia di kapal luar angkasa",
+    "jawaban": "Alien"
+  },
+  {
+    "soal": "Film tentang predator yang berburu manusia di hutan",
+    "jawaban": "Predator"
+  },
+  {
+    "soal": "Film horor tentang hotel yang kamarnya dihantui angka 1408",
+    "jawaban": "1408"
+  },
+  {
+    "soal": "Film tentang dua detektif narkoba di Miami",
+    "jawaban": "Bad Boys"
+  },
+  {
+    "soal": "Film tentang sopir taksi yang mengalami gangguan mental",
+    "jawaban": "Taxi Driver"
+  },
+  {
+    "soal": "Film tentang pecatur jenius wanita yang bertanding di dunia pria",
+    "jawaban": "The Queen's Gambit"
+  },
+  {
+    "soal": "Film tentang sekelompok tentara yang terjebak di garis belakang musuh",
+    "jawaban": "Lone Survivor"
+  },
+  {
+    "soal": "Film tentang perang dunia pertama yang diambil dengan teknik one-shot",
+    "jawaban": "1917"
+  },
+  {
+    "soal": "Film tentang evakuasi tentara di pantai Prancis saat perang dunia kedua",
+    "jawaban": "Dunkirk"
+  },
+  {
+    "soal": "Film tentang seorang koki yang berjualan makanan di truk",
+    "jawaban": "Chef"
+  },
+  {
+    "soal": "Film tentang musisi jazz dan aktris yang jatuh cinta di LA",
+    "jawaban": "La La Land"
+  },
+  {
+    "soal": "Film tentang biografi Freddie Mercury dan band Queen",
+    "jawaban": "Bohemian Rhapsody"
+  },
+  {
+    "soal": "Film tentang kehidupan Elvis Presley",
+    "jawaban": "Elvis"
+  },
+  {
+    "soal": "Film tentang penemuan Facebook oleh Mark Zuckerberg",
+    "jawaban": "The Social Network"
+  },
+  {
+    "soal": "Film tentang pialang saham yang hidup mewah dari penipuan",
+    "jawaban": "The Wolf of Wall Street"
+  },
+  {
+    "soal": "Film tentang tawanan perang yang melarikan diri dari kamp Jerman",
+    "jawaban": "The Great Escape"
+  },
+  {
+    "soal": "Film tentang penembak jitu Amerika yang paling mematikan",
+    "jawaban": "American Sniper"
+  },
+  {
+    "soal": "Film tentang agen rahasia yang menggunakan payung sebagai senjata",
+    "jawaban": "Kingsman"
+  },
+  {
+    "soal": "Film tentang dunia setelah kiamat di mana air sangat langka",
+    "jawaban": "Mad Max: Fury Road"
+  },
+  {
+    "soal": "Film tentang planet kera di mana monyet menjadi lebih pintar dari manusia",
+    "jawaban": "Planet of the Apes"
+  },
+  {
+    "soal": "Film tentang seorang pria yang tinggal di bandara karena negaranya konflik",
+    "jawaban": "The Terminal"
+  },
+  {
+    "soal": "Film tentang pengadilan pembunuh berantai Ted Bundy",
+    "jawaban": "Extremely Wicked, Shockingly Evil and Vile"
+  },
+  {
+    "soal": "Film tentang petualangan mencari harta karun dengan peta di balik deklarasi kemerdekaan",
+    "jawaban": "National Treasure"
+  },
+  {
+    "soal": "Film tentang perampokan bank dengan musik sebagai pemandu mengemudi",
+    "jawaban": "Baby Driver"
+  },
+  {
+    "soal": "Film tentang guru musik yang jiwanya terpisah dari tubuhnya",
+    "jawaban": "Soul"
+  },
+  {
+    "soal": "Film tentang monster yang bekerja menakuti anak-anak untuk energi",
+    "jawaban": "Monsters, Inc."
+  },
+  {
+    "soal": "Film tentang anak laki-laki yang berteman dengan naga hitam",
+    "jawaban": "How to Train Your Dragon"
+  },
+  {
+    "soal": "Film tentang pertempuran ksatria di tembok raksasa Cina",
+    "jawaban": "The Great Wall"
+  },
+  {
+    "soal": "Film tentang pahlawan yang mendapatkan kekuatan dari cincin hijau",
+    "jawaban": "Green Lantern"
+  },
+  {
+    "soal": "Film tentang vampir yang jatuh cinta pada manusia di sekolah",
+    "jawaban": "Twilight"
+  },
+  {
+    "soal": "Film tentang manusia yang bisa berubah menjadi serigala saat bulan purnama",
+    "jawaban": "The Wolfman"
+  },
+  {
+    "soal": "Film tentang boneka pembunuh bernama Chucky",
+    "jawaban": "Child's Play"
+  },
+  {
+    "soal": "Film tentang sekelompok orang yang selamat dari kiamat zombie di mall",
+    "jawaban": "Dawn of the Dead"
+  },
+  {
+    "soal": "Film tentang hiu prasejarah raksasa yang muncul kembali",
+    "jawaban": "The Meg"
+  },
+  {
+    "soal": "Film tentang kapal luar angkasa yang mencari pencipta manusia",
+    "jawaban": "Prometheus"
+  },
+  {
+    "soal": "Film tentang keluarga yang tidak boleh bersuara agar tidak dimakan monster",
+    "jawaban": "A Quiet Place"
+  },
+  {
+    "soal": "Film tentang rasisme di Amerika melalui kacamata seorang pelayan",
+    "jawaban": "The Butler"
+  },
+  {
+    "soal": "Film tentang seorang ibu yang mencari keadilan untuk putrinya lewat papan iklan",
+    "jawaban": "Three Billboards Outside Ebbing, Missouri"
+  },
+  {
+    "soal": "Film tentang persahabatan antara majikan lumpuh dan pengasuhnya",
+    "jawaban": "The Intouchables"
+  },
+  {
+    "soal": "Film tentang agen rahasia Ethan Hunt yang melakukan misi mustahil",
+    "jawaban": "Mission: Impossible"
+  },
+  {
+    "soal": "Film tentang pahlawan super yang merupakan dewa dari mitologi Yunani",
+    "jawaban": "Hercules"
+  },
+  {
+    "soal": "Film tentang pencuri yang masuk ke mimpi orang untuk mencuri rahasia",
+    "jawaban": "Inception"
+  },
+  {
+    "soal": "Film tentang naga yang menjaga tumpukan emas di bawah gunung",
+    "jawaban": "The Hobbit: The Desolation of Smaug"
+  },
+  {
+    "soal": "Film tentang ksatria yang mencari cawan suci",
+    "jawaban": "Monty Python and the Holy Grail"
+  },
+  {
+    "soal": "Film tentang monster yang hidup di bawah tempat tidur",
+    "jawaban": "Little Monsters"
+  },
+  {
+    "soal": "Film tentang kota yang dilanda badai tornado raksasa",
+    "jawaban": "Twister"
+  },
+  {
+    "soal": "Film tentang letusan gunung berapi yang menghancurkan kota",
+    "jawaban": "Volcano"
+  },
+  {
+    "soal": "Film tentang meteor raksasa yang akan menabrak bumi",
+    "jawaban": "Armageddon"
+  },
+  {
+    "soal": "Film tentang kiamat yang terjadi menurut ramalan suku Maya",
+    "jawaban": "2012"
+  },
+  {
+    "soal": "Film tentang perjuangan bertahan hidup di tengah badai salju",
+    "jawaban": "The Grey"
+  },
+  {
+    "soal": "Film tentang perjuangan mendaki gunung tertinggi di dunia",
+    "jawaban": "Everest"
+  },
+  {
+    "soal": "Film tentang pertarungan antara Batman dan Superman",
+    "jawaban": "Batman v Superman: Dawn of Justice"
+  },
+  {
+    "soal": "Film tentang sekelompok penjahat yang dikumpulkan untuk misi pemerintah",
+    "jawaban": "Suicide Squad"
+  },
+  {
+    "soal": "Film tentang pahlawan yang memakai baju besi merah dan emas",
+    "jawaban": "Iron Man"
+  },
+  {
+    "soal": "Film tentang tentara yang mendapatkan kekuatan super dari serum",
+    "jawaban": "Captain America: The First Avenger"
+  },
+  {
+    "soal": "Film tentang pahlawan hijau yang sangat kuat saat marah",
+    "jawaban": "The Incredible Hulk"
+  },
+  {
+    "soal": "Film tentang pahlawan Marvel yang merupakan seorang pemanah jitu",
+    "jawaban": "Hawkeye"
+  },
+  {
+    "soal": "Film tentang agen Rusia yang menjadi anggota Avengers",
+    "jawaban": "Black Widow"
+  },
+  {
+    "soal": "Film tentang pahlawan yang merupakan raja dari Atlantis",
+    "jawaban": "Aquaman"
+  },
+  {
+    "soal": "Film tentang pahlawan yang memiliki kecepatan cahaya",
+    "jawaban": "Justice League"
+  },
+  {
+    "soal": "Film tentang sekelompok pahlawan yang melindungi galaksi",
+    "jawaban": "Guardians of the Galaxy"
+  },
+  {
+    "soal": "Film tentang pohon kecil yang hanya bisa bicara 'I am Groot'",
+    "jawaban": "Guardians of the Galaxy"
+  },
+  {
+    "soal": "Film tentang rakun yang ahli senjata dan strategi",
+    "jawaban": "Guardians of the Galaxy"
+  },
+  {
+    "soal": "Film tentang hantu yang membantu seorang bocah yang bisa melihat orang mati",
+    "jawaban": "The Sixth Sense"
+  },
+  {
+    "soal": "Film tentang seorang pria yang menemukan bahwa dia adalah anak dewa laut",
+    "jawaban": "Percy Jackson & The Olympians: The Lightning Thief"
+  },
+  {
+    "soal": "Film tentang ksatria bertopeng yang melawan ketidakadilan di Spanyol",
+    "jawaban": "The Mask of Zorro"
+  },
+  {
+    "soal": "Film tentang petualangan seorang wartawan dan anjingnya mencari rahasia kapal",
+    "jawaban": "The Adventures of Tintin"
+  },
+  {
+    "soal": "Film tentang anak laki-laki yang tinggal bersama serigala di hutan",
+    "jawaban": "The Jungle Book"
+  },
+  {
+    "soal": "Film tentang persahabatan antara rubah dan anjing pemburu",
+    "jawaban": "The Fox and the Hound"
+  },
+  {
+    "soal": "Film tentang anjing yang setia menunggu tuannya di stasiun",
+    "jawaban": "Hachi: A Dog's Tale"
+  },
+  {
+    "soal": "Film tentang petualangan di dunia cokelat milik Willy Wonka",
+    "jawaban": "Charlie and the Chocolate Factory"
+  },
+  {
+    "soal": "Film tentang agen yang menyamar menjadi pengasuh anak-anak",
+    "jawaban": "The Pacifier"
+  },
+  {
+    "soal": "Film tentang kera raksasa yang memanjat gedung Empire State",
+    "jawaban": "King Kong"
+  },
+  {
+    "soal": "Film tentang perjalanan ke pusat bumi",
+    "jawaban": "Journey to the Center of the Earth"
+  },
+  {
+    "soal": "Film tentang anak kecil yang ditinggal sendirian di rumah saat Natal",
+    "jawaban": "Home Alone"
+  },
+  {
+    "soal": "Film tentang persahabatan antara manusia dan serigala di zaman es",
+    "jawaban": "Alpha"
+  },
+  {
+    "soal": "Film tentang pahlawan yang menggunakan palu Mjolnir",
+    "jawaban": "Thor"
+  },
+  {
+    "soal": "Film tentang sekelompok wanita yang merampok pameran perhiasan",
+    "jawaban": "Ocean's 8"
+  },
+  {
+    "soal": "Film tentang musisi buta yang sangat berbakat",
+    "jawaban": "Ray"
+  },
+  {
+    "soal": "Film tentang pengusiran setan di sebuah perkebunan tua",
+    "jawaban": "The Conjuring"
+  },
+  {
+    "soal": "Film tentang kapal luar angkasa yang terjebak di dekat lubang hitam",
+    "jawaban": "Interstellar"
+  },
+  {
+    "soal": "Film tentang kehidupan Stephen Hawking",
+    "jawaban": "The Theory of Everything"
+  },
+  {
+    "soal": "Film tentang penjelajahan suku Aztec mencari kota emas",
+    "jawaban": "El Dorado"
+  },
+  {
+    "soal": "Film tentang anjing yang tersesat dan mencari jalan pulang sejauh ratusan mil",
+    "jawaban": "A Dog's Way Home"
+  }
 ]
-```
