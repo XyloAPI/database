@@ -1,0 +1,626 @@
+[
+  {
+    "soal": "Dijuluki Bapak Proklamator dan merupakan Presiden pertama RI.",
+    "jawaban": "Soekarno"
+  },
+  {
+    "soal": "Dijuluki Bapak Koperasi Indonesia dan merupakan pahlawan nasional asal Sumatera Barat.",
+    "jawaban": "Mohammad Hatta"
+  },
+  {
+    "soal": "Pahlawan nasional asal Surabaya yang gugur dalam pertempuran 10 November 1945. Namanya diabadikan sebagai nama sebuah kapal perang dan universitas.",
+    "jawaban": "Bung Tomo"
+  },
+  {
+    "soal": "Pahlawan asal Kalimantan Timur yang melawan penjajah Belanda di Kutai. Dikenal dengan perang gerilyanya.",
+    "jawaban": "Sultan Hasanuddin"
+  },
+  {
+    "soal": "Dijuluki Singa Podium karena orasinya yang berapi-api. Tokoh Tiga Serangkai bersama Soekarno dan Hatta.",
+    "jawaban": "Sutan Syahrir"
+  },
+  {
+    "soal": "Pahlawan wanita dari Aceh yang memimpin perang gerilya melawan Belanda. Dijuluki Ratu Atjeh.",
+    "jawaban": "Cut Nyak Dhien"
+  },
+  {
+    "soal": "Pahlawan wanita asal Aceh, istri dari Teuku Umar, yang melanjutkan perjuangan setelah suaminya gugur.",
+    "jawaban": "Cut Meutia"
+  },
+  {
+    "soal": "Pahlawan nasional dari Maluku yang dijuluki Kapitan Pattimura.",
+    "jawaban": "Thomas Matulessy"
+  },
+  {
+    "soal": "Pahlawan dari Sulawesi Selatan yang dijuluki Ayam Jantan dari Timur. Melawan Belanda dalam Perang Makassar.",
+    "jawaban": "Sultan Hasanuddin"
+  },
+  {
+    "soal": "Pahlawan dari Jawa Barat yang memimpin Perang Diponegoro (1825-1830). Dijuluki Pangeran dari Yogyakarta.",
+    "jawaban": "Pangeran Diponegoro"
+  },
+  {
+    "soal": "Pahlawan nasional yang dikenal sebagai Bapak Pendidikan Nasional. Tokoh Taman Siswa.",
+    "jawaban": "Ki Hajar Dewantara"
+  },
+  {
+    "soal": "Pahlawan nasional asal Sumatera Utara yang dijuluki Singa Podium karena pidatonya yang hebat.",
+    "jawaban": "Sutan Syahrir"
+  },
+  {
+    "soal": "Pahlawan wanita dari Sumatera Barat yang ditangkap dan diasingkan karena perjuangan melawan Belanda.",
+    "jawaban": "Rasuna Said"
+  },
+  {
+    "soal": "Pahlawan nasional asal Jakarta yang memimpin tentara kerajaan Demak melawan Portugis di Malaka.",
+    "jawaban": "Fatahillah"
+  },
+  {
+    "soal": "Pahlawan dari Gorontalo yang memimpin Perang Tondano melawan VOC.",
+    "jawaban": "Nani Wartabone"
+  },
+  {
+    "soal": "Pahlawan perempuan dari Maluku yang dikenal karena keberaniannya melawan Belanda.",
+    "jawaban": "Martha Christina Tiahahu"
+  },
+  {
+    "soal": "Pahlawan dari Papua yang berjuang mempertahankan kemerdekaan Indonesia dari Belanda.",
+    "jawaban": "Frans Kaisiepo"
+  },
+  {
+    "soal": "Pahlawan dari Sumatera Selatan yang melawan Inggris di Palembang. Dikenal dengan sebutan Sultan Mahmud Badaruddin II.",
+    "jawaban": "Sultan Mahmud Badaruddin II"
+  },
+  {
+    "soal": "Pahlawan nasional asal Lampung yang berjuang melawan kolonial Belanda di tanah Lampung.",
+    "jawaban": "Radin Inten II"
+  },
+  {
+    "soal": "Pahlawan dari Kalimantan Tengah yang memimpin perjuangan Dayak melawan penjajah.",
+    "jawaban": "Tjilik Riwut"
+  },
+  {
+    "soal": "Pahlawan asal Nusa Tenggara Barat, tokoh Pejuang Lombok melawan Belanda.",
+    "jawaban": "Sultan Kaharuddin"
+  },
+  {
+    "soal": "Pahlawan wanita asal Jawa Barat yang berjuang melawan Belanda di Priangan.",
+    "jawaban": "Dewi Sartika"
+  },
+  {
+    "soal": "Pahlawan nasional yang dijuluki Bapak Demokrasi Indonesia. Perdana Menteri pertama Indonesia.",
+    "jawaban": "Sutan Syahrir"
+  },
+  {
+    "soal": "Pahlawan yang memimpin pertempuran 10 November 1945 di Surabaya sehingga diperingati sebagai Hari Pahlawan.",
+    "jawaban": "Bung Tomo"
+  },
+  {
+    "soal": "Pahlawan wanita asal Sulawesi Selatan yang berjuang melawan Belanda. Namanya diabadikan sebagai nama jalan.",
+    "jawaban": "Opu Daeng Risaju"
+  },
+  {
+    "soal": "Tokoh pergerakan Indonesia dari Sumatra Barat, dikenal sebagai Bapak Pendidikan Minangkabau.",
+    "jawaban": "Muhammad Sjafei"
+  },
+  {
+    "soal": "Pahlawan wanita asal Aceh yang bersama suaminya melawan Belanda dalam Perang Aceh.",
+    "jawaban": "Cut Meutia"
+  },
+  {
+    "soal": "Pendiri Nahdlatul Ulama (NU) dan pahlawan nasional asal Jawa Timur.",
+    "jawaban": "KH. Hasyim Asy'ari"
+  },
+  {
+    "soal": "Pendiri Muhammadiyah dan pahlawan nasional asal Yogyakarta.",
+    "jawaban": "KH. Ahmad Dahlan"
+  },
+  {
+    "soal": "Pahlawan nasional asal Sulawesi Tenggara yang memimpin perlawanan terhadap Belanda.",
+    "jawaban": "Sultan Haluoleo"
+  },
+  {
+    "soal": "Pahlawan dari Jambi yang memimpin Perang Jambi melawan Belanda.",
+    "jawaban": "Sultan Thaha Syaifuddin"
+  },
+  {
+    "soal": "Pahlawan asal Bangka Belitung yang dikenal dalam perlawanan melawan penjajah.",
+    "jawaban": "Depati Bahrin"
+  },
+  {
+    "soal": "Pahlawan wanita dari Sumatera Utara yang berjuang melalui bidang pendidikan.",
+    "jawaban": "Siti Rahmah"
+  },
+  {
+    "soal": "Pahlawan dari Riau yang dikenal dengan perlawanan melawan penjajah di Indragiri.",
+    "jawaban": "Sultan Syarif Kasim II"
+  },
+  {
+    "soal": "Pahlawan dari Kalimantan Barat yang memimpin perlawanan Suku Dayak melawan Belanda.",
+    "jawaban": "Pangeran Antasari"
+  },
+  {
+    "soal": "Dikenal sebagai Bapak Ilmu Kedokteran Modern. Sumpahnya dijadikan dasar etika kedokteran dunia.",
+    "jawaban": "Hippocrates"
+  },
+  {
+    "soal": "Penggagas teori relativitas dan dianggap sebagai ilmuwan terbesar abad ke-20.",
+    "jawaban": "Albert Einstein"
+  },
+  {
+    "soal": "Penyusun teori evolusi dengan bukunya 'On the Origin of Species'.",
+    "jawaban": "Charles Darwin"
+  },
+  {
+    "soal": "Sang Proklamator Kemerdekaan Amerika Serikat sekaligus Presiden ke-3 AS.",
+    "jawaban": "Thomas Jefferson"
+  },
+  {
+    "soal": "Pria yang membebaskan Haiti dari penjajahan Prancis dan dihormati sebagai ayah pendiri Haiti.",
+    "jawaban": "Toussaint Louverture"
+  },
+  {
+    "soal": "Pemimpin gerakan kemerdekaan India dengan filosofi non-kekerasan. Dijuluki Mahatma.",
+    "jawaban": "Mahatma Gandhi"
+  },
+  {
+    "soal": "Perempuan pertama penerima Nobel Perdamaian, dikenal sebagai Bapak Palang Merah.",
+    "jawaban": "Florence Nightingale"
+  },
+  {
+    "soal": "Pemimpin Revolusi Kuba dengan atribut janggut dan cerutu yang khas.",
+    "jawaban": "Fidel Castro"
+  },
+  {
+    "soal": "Tokoh utama penemu golongan darah ABO.",
+    "jawaban": "Karl Landsteiner"
+  },
+  {
+    "soal": "Pendiri kerajaan Macedonia dan salah satu panglima perang terhebat sepanjang masa.",
+    "jawaban": "Alexander Agung"
+  },
+  {
+    "soal": "Pahlawan Filipina yang dijuluki 'Pambansang Bayani' dan ditembak mati di Bagumbayan.",
+    "jawaban": "Jose Rizal"
+  },
+  {
+    "soal": "Ikon gerakan hak suara perempuan di Inggris yang memimpin Women's Social and Political Union.",
+    "jawaban": "Emmeline Pankhurst"
+  },
+  {
+    "soal": "Penemu vaksin polio yang menolak mematenkan temuannya.",
+    "jawaban": "Jonas Salk"
+  },
+  {
+    "soal": "Pemimpin Ghana yang mempelopori gerakan Pan-Afrika dan kemerdekaan negaranya dari Inggris.",
+    "jawaban": "Kwame Nkrumah"
+  },
+  {
+    "soal": "Pendiri Kongres Nasional Afrika (ANC) dan Presiden kulit hitam pertama Afrika Selatan.",
+    "jawaban": "Nelson Mandela"
+  },
+  {
+    "soal": "Pemimpin Pakistan yang dijuluki 'Bapak Bangsa' dan merumuskan teori negara dua bangsa.",
+    "jawaban": "Muhammad Ali Jinnah"
+  },
+  {
+    "soal": "Tokoh utama yang mengakhiri politik apartheid di Afrika Selatan, setelah mendekam di penjara 27 tahun.",
+    "jawaban": "Nelson Mandela"
+  },
+    {
+    "soal": "Dijuluki Bapak Proklamator dan merupakan Presiden pertama RI.",
+    "jawaban": "Soekarno"
+  },
+  {
+    "soal": "Dijuluki Bapak Koperasi Indonesia dan wakil presiden pertama RI.",
+    "jawaban": "Mohammad Hatta"
+  },
+  {
+    "soal": "Pahlawan asal Surabaya yang membakar semangat arek-arek Suroboyo dalam pertempuran 10 November 1945.",
+    "jawaban": "Bung Tomo"
+  },
+  {
+    "soal": "Pahlawan dari Maluku yang dijuluki Kapitan Pattimura.",
+    "jawaban": "Thomas Matulessy"
+  },
+  {
+    "soal": "Pahlawan dari Sulawesi Selatan yang dijuluki Ayam Jantan dari Timur.",
+    "jawaban": "Sultan Hasanuddin"
+  },
+  {
+    "soal": "Pahlawan wanita dari Aceh yang memimpin perang gerilya melawan Belanda hingga ditangkap dan diasingkan.",
+    "jawaban": "Cut Nyak Dhien"
+  },
+  {
+    "soal": "Pahlawan wanita dari Aceh, istri Teuku Umar, yang terus berjuang setelah suaminya gugur.",
+    "jawaban": "Cut Meutia"
+  },
+  {
+    "soal": "Pemimpin Perang Diponegoro (1825-1830) melawan Belanda.",
+    "jawaban": "Pangeran Diponegoro"
+  },
+  {
+    "soal": "Bapak Pendidikan Nasional dan pendiri Taman Siswa.",
+    "jawaban": "Ki Hajar Dewantara"
+  },
+  {
+    "soal": "Tokoh Tiga Serangkai bersama Soekarno-Hatta, dijuluki Singa Podium.",
+    "jawaban": "Sutan Syahrir"
+  },
+  {
+    "soal": "Pahlawan asal Sumatera Barat yang memperjuangkan pendidikan dengan konsep ruang kelas terbuka.",
+    "jawaban": "Mohammad Sjafei"
+  },
+  {
+    "soal": "Pahlawan wanita dari Sumatera Barat yang gigih melawan Belanda, namanya diabadikan sebagai nama universitas.",
+    "jawaban": "Rasuna Said"
+  },
+  {
+    "soal": "Pahlawan asal Jakarta yang mengusir Portugis dari Sunda Kelapa dan mengganti namanya menjadi Jayakarta.",
+    "jawaban": "Fatahillah"
+  },
+  {
+    "soal": "Pahlawan dari Papua yang turut memperjuangkan Irian Barat kembali ke pangkuan NKRI.",
+    "jawaban": "Frans Kaisiepo"
+  },
+  {
+    "soal": "Pahlawan wanita dari Maluku yang gugur di usia muda karena kekejaman Belanda.",
+    "jawaban": "Martha Christina Tiahahu"
+  },
+  {
+    "soal": "Pendiri Muhammadiyah dan tokoh pembaharu Islam di Indonesia.",
+    "jawaban": "KH. Ahmad Dahlan"
+  },
+  {
+    "soal": "Pendiri Nahdlatul Ulama (NU) dan pahlawan nasional asal Jombang.",
+    "jawaban": "KH. Hasyim Asy'ari"
+  },
+  {
+    "soal": "Sultan dari Kesultanan Palembang yang melawan Inggris dan Belanda.",
+    "jawaban": "Sultan Mahmud Badaruddin II"
+  },
+  {
+    "soal": "Pahlawan dari Jambi yang memimpin perlawanan terhadap Belanda selama 42 tahun.",
+    "jawaban": "Sultan Thaha Syaifuddin"
+  },
+  {
+    "soal": "Pahlawan dari Kalimantan Selatan yang memimpin Perang Banjar.",
+    "jawaban": "Pangeran Antasari"
+  },
+  {
+    "soal": "Pahlawan dari Kalimantan Tengah yang dikenal sebagai tokoh Dayak modern.",
+    "jawaban": "Tjilik Riwut"
+  },
+  {
+    "soal": "Pahlawan asal Banten yang memimpin Perang Banten melawan VOC.",
+    "jawaban": "Sultan Ageng Tirtayasa"
+  },
+  {
+    "soal": "Pahlawan asal Gorontalo yang memproklamasikan kemerdekaan Gorontalo dari Belanda pada 23 Januari 1942.",
+    "jawaban": "Nani Wartabone"
+  },
+  {
+    "soal": "Pahlawan asal Lombok yang memimpin perang melawan Belanda di Nusa Tenggara Barat.",
+    "jawaban": "Sultan Kaharuddin"
+  },
+  {
+    "soal": "Pahlawan dari Riau yang dikenal sebagai tokoh Kesultanan Siak dan pejuang kemerdekaan.",
+    "jawaban": "Sultan Syarif Kasim II"
+  },
+  {
+    "soal": "Pahlawan dari Lampung yang melawan Belanda dengan strategi perang gerilya.",
+    "jawaban": "Radin Inten II"
+  },
+  {
+    "soal": "Pahlawan wanita dari Jawa Barat yang mendirikan sekolah untuk perempuan pertama di Indonesia.",
+    "jawaban": "Dewi Sartika"
+  },
+  {
+    "soal": "Pahlawan wanita dari Sulawesi Selatan yang berjuang melawan Belanda melalui organisasi perempuan.",
+    "jawaban": "Opu Daeng Risaju"
+  },
+  {
+    "soal": "Pahlawan asal Bangka Belitung yang memimpin perlawanan terhadap Jepang.",
+    "jawaban": "Depati Bahrin"
+  },
+  {
+    "soal": "Pahlawan dari Sulawesi Tenggara yang dijuluki Sultan Haluoleo.",
+    "jawaban": "Sultan Haluoleo"
+  },
+  {
+    "soal": "Disebut Bapak BJ Habibie karena jasanya di bidang teknologi penerbangan.",
+    "jawaban": "BJ Habibie"
+  },
+  {
+    "soal": "Perdana Menteri Indonesia pertama dan salah satu pendiri Sekolah Tinggi Hukum (STH) yang kelak jadi UI.",
+    "jawaban": "Sutan Syahrir"
+  },
+  {
+    "soal": "Tokoh muda yang ikut menculik Soekarno-Hatta ke Rengasdengklok untuk mempercepat proklamasi.",
+    "jawaban": "Chairul Saleh"
+  },
+  {
+    "soal": "Menteri Penerangan pertama Indonesia yang juga ahli pidato dan menciptakan lagu 'Halo Halo Bandung'.",
+    "jawaban": "Muhammad Natsir"
+  },
+  {
+    "soal": "Wakil presiden ketiga RI yang juga pemimpin KAMI (Kesatuan Aksi Mahasiswa Indonesia).",
+    "jawaban": "Try Sutrisno"
+  },
+  {
+    "soal": "Pemimpin Gerakan 30 September (G30S) yang kemudian dijadikan pahlawan revolusi?.",
+    "jawaban": "Untung Syamsuri"
+  },
+  {
+    "soal": "Tokoh yang dijuluki Bapak Perkebunan Indonesia, pencetus sistem tanam paksa (cultur stelsel).",
+    "jawaban": "Johannes van den Bosch"
+  },
+  {
+    "soal": "Pahlawan dunia yang membebaskan India dari penjajahan Inggris dengan konsep ahimsa (tanpa kekerasan).",
+    "jawaban": "Mahatma Gandhi"
+  },
+  {
+    "soal": "Ikon anti-apartheid dan presiden kulit hitam pertama Afrika Selatan.",
+    "jawaban": "Nelson Mandela"
+  },
+  {
+    "soal": "Pemimpin Revolusi Kuba yang berkuasa selama hampir 50 tahun.",
+    "jawaban": "Fidel Castro"
+  },
+  {
+    "soal": "Jenderal yang menjadi pemimpin Prancis selama Perang Dunia II dan kemudian presiden.",
+    "jawaban": "Charles de Gaulle"
+  },
+  {
+    "soal": "Pahlawan Filipina yang menulis novel Noli Me Tangere dan El Filibusterismo.",
+    "jawaban": "Jose Rizal"
+  },
+  {
+    "soal": "Pendiri Pakistan sekaligus penggagas teori dua negara.",
+    "jawaban": "Muhammad Ali Jinnah"
+  },
+  {
+    "soal": "Pemimpin Vietnam Utara yang mengusir Prancis dan Amerika Serikat.",
+    "jawaban": "Ho Chi Minh"
+  },
+  {
+    "soal": "Penyusun teori relativitas dan salah satu ilmuwan terbesar sepanjang masa.",
+    "jawaban": "Albert Einstein"
+  },
+  {
+    "soal": "Pencetus teori evolusi dalam buku On the Origin of Species.",
+    "jawaban": "Charles Darwin"
+  },
+  {
+    "soal": "Penemu vaksin polio yang menolak hak paten.",
+    "jawaban": "Jonas Salk"
+  },
+  {
+    "soal": "Penemu vaksin rabies dan pasteurisasi.",
+    "jawaban": "Louis Pasteur"
+  },
+  {
+    "soal": "Perempuan pertama peraih Nobel Perdamaian, pendiri Palang Merah.",
+    "jawaban": "Florence Nightingale"
+  },
+  {
+    "soal": "Pemimpin Hak Sipil AS yang berpidato 'I Have a Dream'.",
+    "jawaban": "Martin Luther King Jr."
+  },
+  {
+    "soal": "Presiden Amerika Serikat yang menghapus perbudakan dan tewas ditembak.",
+    "jawaban": "Abraham Lincoln"
+  },
+  {
+    "soal": "Perempuan pertama presiden di dunia, menjabat di Sri Lanka pada 1960.",
+    "jawaban": "Sirimavo Bandaranaike"
+  },
+  {
+    "soal": "Bapak Kedokteran Modern, pencetus Sumpah Hippocrates.",
+    "jawaban": "Hippocrates"
+  },
+  {
+    "soal": "Penemu golongan darah ABO.",
+    "jawaban": "Karl Landsteiner"
+  },
+  {
+    "soal": "Panglima perang Macedonia yang menaklukkan Persia hingga Mesir.",
+    "jawaban": "Alexander Agung"
+  },
+  {
+    "soal": "Penemu lampu pijar dan fonograf.",
+    "jawaban": "Thomas Alva Edison"
+  },
+  {
+    "soal": "Ilmuwan yang menemukan radium dan polonium, dua kali peraih Nobel.",
+    "jawaban": "Marie Curie"
+  },
+  {
+    "soal": "Pahlawan Myanmar (Burma) yang berjuang melawan Inggris, dijuluki Bogyoke.",
+    "jawaban": "Aung San"
+  },
+  {
+    "soal": "Pemimpin Ghana yang pertama kali memerdekakan negara Afrika dari kolonialisme modern.",
+    "jawaban": "Kwame Nkrumah"
+  },
+  {
+    "soal": "Pendiri Kongres Nasional Afrika (ANC) yang kemudian dipenjara di Pulau Robben.",
+    "jawaban": "Nelson Mandela"
+  },
+  {
+    "soal": "Permaisuri Prusia yang tajam analisis politik dan memerintah setelah suaminya wafat.",
+    "jawaban": "Catherine the Great"
+  },
+  {
+    "soal": "Pahlawan Skotlandia yang memperjuangkan kemerdekaan dari Inggris, diperankan oleh Mel Gibson di film Braveheart.",
+    "jawaban": "William Wallace"
+  },
+  {
+    "soal": "Tokoh perang salib dari Perancis yang kemudian menjadi santo.",
+    "jawaban": "Jean d'Arc"
+  },
+  {
+    "soal": "Ilmuwan yang pertama kali mengemukakan teori heliosentris (matahari sebagai pusat tata surya).",
+    "jawaban": "Nicolaus Copernicus"
+  },
+  {
+    "soal": "Pangeran Rusia yang mengusir bangsa Mongol dari Moskow.",
+    "jawaban": "Dmitry Donskoy"
+  },
+  {
+    "soal": "Pemimpin Ethiopia yang mengalahkan Italia dalam Perang Adwa.",
+    "jawaban": "Menelik II"
+  },
+  {
+    "soal": "Sultan Mesir yang merebut kembali Yerusalem dari pasukan Salib.",
+    "jawaban": "Saladin"
+  },
+  {
+    "soal": "Raja Sparta yang gugur melawan Persia di celah Thermopylae.",
+    "jawaban": "Leonidas"
+  },
+  {
+    "soal": "Panglima perang Mongol yang membangun kekaisaran terbesar sepanjang sejarah.",
+    "jawaban": "Genghis Khan"
+  },
+  {
+    "soal": "Penulis buku The Communist Manifesto dan ideolog komunis.",
+    "jawaban": "Karl Marx"
+  },
+  {
+    "soal": "Ilmuwan yang menemukan hukum gravitasi dari kejadian apel jatuh.",
+    "jawaban": "Isaac Newton"
+  },
+  {
+    "soal": "Penemu mesin cetak pertama di Eropa.",
+    "jawaban": "Johannes Gutenberg"
+  },
+  {
+    "soal": "Ratu Mesir yang terkenal karena kecantikan dan intrik politiknya, bunuh diri dengan ular.",
+    "jawaban": "Cleopatra"
+  },
+  {
+    "soal": "Filsuf Yunani yang mengajarkan Alexander Agung.",
+    "jawaban": "Aristoteles"
+  },
+  {
+    "soal": "Filsuf Yunani yang dihukum mati dengan minum racun karena dianggap merusak pemuda.",
+    "jawaban": "Socrates"
+  },
+  {
+    "soal": "Pencetus metode ilmiah modern dan filsuf Prancis.",
+    "jawaban": "Rene Descartes"
+  },
+  {
+    "soal": "Penemu undang-undang gerak planet (hukum Kepler).",
+    "jawaban": "Johannes Kepler"
+  },
+  {
+    "soal": "Penemu teleskop pertama yang digunakan untuk mengamati bintang.",
+    "jawaban": "Galileo Galilei"
+  },
+  {
+    "soal": "Bapak Psikoanalisis, pencetus teori id, ego, superego.",
+    "jawaban": "Sigmund Freud"
+  },
+  {
+    "soal": "Pencipta lagu Indonesia Raya sekaligus pahlawan nasional.",
+    "jawaban": "Wage Rudolf Soepratman"
+  },
+  {
+    "soal": "Pahlawan yang berjuluk 'Sang Merah Putih', pengibar bendera pertama saat proklamasi.",
+    "jawaban": "Suwiryo"
+  },
+  {
+    "soal": "Pemuda yang membacakan teks proklamasi setelah Soekarno-Hatta.",
+    "jawaban": "Sayuti Melik"
+  },
+  {
+    "soal": "Perumus konsep Pancasila selain Soekarno, yaitu dalam sidang BPUPKI.",
+    "jawaban": "Mohammad Yamin"
+  },
+  {
+    "soal": "Anggota BPUPKI yang mengusulkan dasar negara 'Ketuhanan dengan kewajiban menjalankan syariat Islam bagi pemeluknya'.",
+    "jawaban": "Ki Bagus Hadikusumo"
+  },
+  {
+    "soal": "Pahlawan yang memimpin pemberontakan petani Banten pada 1888 melawan Belanda.",
+    "jawaban": "Syaikh Nawawi Al-Bantani"
+  },
+  {
+    "soal": "Ulama besar asal Aceh yang gugur melawan Belanda dalam Perang Aceh.",
+    "jawaban": "Teuku Umar"
+  },
+  {
+    "soal": "Pahlawan nasional asal Madura yang melawan Belanda di Bangkalan.",
+    "jawaban": "Trunojoyo"
+  },
+  {
+    "soal": "Pendiri Kesultanan Demak sekaligus penyebar Islam di Jawa.",
+    "jawaban": "Raden Patah"
+  },
+  {
+    "soal": "Wali Songo yang menyebarkan Islam melalui wayang dan gamelan.",
+    "jawaban": "Sunan Kalijaga"
+  },
+  {
+    "soal": "Wali Songo yang dikenal dengan metode dakwah melalui seni bangunan (Masjid Agung Demak).",
+    "jawaban": "Sunan Ampel"
+  },
+  {
+    "soal": "Pengeran dari Cirebon yang ikut mendirikan Kesultanan Mataram.",
+    "jawaban": "Panembahan Senopati"
+  },
+  {
+    "soal": "Pahlawan asal Palembang yang berjuluk 'Raden Kian Santang'.",
+    "jawaban": "Raden Kian Santang (tokoh legenda)"
+  },
+  {
+    "soal": "Penyusun kitab Sutasoma yang mengandung semboyan 'Bhinneka Tunggal Ika'.",
+    "jawaban": "Empu Tantular"
+  },
+  {
+    "soal": "Raja Majapahit yang mempersatukan Nusantara dan mengirim ekspedisi Pamalayu.",
+    "jawaban": "Kertanegara"
+  },
+  {
+    "soal": "Patih Majapahit yang menulis kakawin Negarakertagama.",
+    "jawaban": "Mpu Prapanca"
+  },
+  {
+    "soal": "Perdana Menteri Majapahit terkenal yang juga tokoh utama dalam film 'Gajah Mada'.",
+    "jawaban": "Gajah Mada"
+  },
+  {
+    "soal": "Pendiri Kerajaan Singasari sekaligus pendiri aliran Tantrayana.",
+    "jawaban": "Ken Arok"
+  },
+  {
+    "soal": "Ratu Kerajaan Kalinyamat yang gigih melawan Portugis.",
+    "jawaban": "Ratu Kalinyamat"
+  },
+  {
+    "soal": "Pimpinan pasukan Perang Padri dari kaum ulama di Sumatera Barat.",
+    "jawaban": "Tuanku Imam Bonjol"
+  },
+  {
+    "soal": "Pahlawan dari Tanah Batak yang memimpin perlawanan Singamangaraja XII.",
+    "jawaban": "Sisingamangaraja XII"
+  },
+  {
+    "soal": "Pahlawan dari Maluku Utara yang dijuluki Sultan Baabullah, pengusir Portugis dari Ternate.",
+    "jawaban": "Sultan Baabullah"
+  },
+  {
+    "soal": "Perempuan Belanda yang bergabung dengan perjuangan kemerdekaan Indonesia, dikenal sebagai 'Mme. Greet'.",
+    "jawaban": "Mevrouw Greet"
+  },
+  {
+    "soal": "Jenderal TNI yang gugur dalam Perang Kemerdekaan di Maguwo, Yogyakarta.",
+    "jawaban": "Jenderal Sudirman"
+  },
+  {
+    "soal": "Panglima besar pertama TNI yang tetap memimpin meski sakit paru paru.",
+    "jawaban": "Jenderal Sudirman"
+  }
+]
