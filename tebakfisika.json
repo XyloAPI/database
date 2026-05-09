@@ -1,0 +1,782 @@
+[
+  {
+    "soal": "Rumus gaya menurut Hukum Newton II adalah?",
+    "jawaban": "F = m × a"
+  },
+  {
+    "soal": "Rumus usaha (W) adalah?",
+    "jawaban": "W = F × s"
+  },
+  {
+    "soal": "Rumus energi kinetik adalah?",
+    "jawaban": "Ek = ½ m v²"
+  },
+  {
+    "soal": "Rumus energi potensial gravitasi adalah?",
+    "jawaban": "Ep = m g h"
+  },
+  {
+    "soal": "Rumus daya (P) adalah?",
+    "jawaban": "P = W / t"
+  },
+  {
+    "soal": "Rumus tekanan (P) pada zat padat adalah?",
+    "jawaban": "P = F / A"
+  },
+  {
+    "soal": "Rumus massa jenis (ρ) adalah?",
+    "jawaban": "ρ = m / V"
+  },
+  {
+    "soal": "Rumus kecepatan (v) dalam gerak lurus beraturan adalah?",
+    "jawaban": "v = s / t"
+  },
+  {
+    "soal": "Rumus percepatan (a) dalam GLBB adalah?",
+    "jawaban": "a = (v₂ - v₁) / t"
+  },
+  {
+    "soal": "Hukum Newton I disebut juga hukum?",
+    "jawaban": "Kelembaman"
+  },
+  {
+    "soal": "Gaya yang melawan gerak benda pada permukaan disebut?",
+    "jawaban": "Gaya gesek"
+  },
+  {
+    "soal": "Percepatan gravitasi Bumi (g) kira-kira adalah?",
+    "jawaban": "9,8 m/s²"
+  },
+  {
+    "soal": "Hukum Kepler I menyatakan orbit planet berbentuk?",
+    "jawaban": "Elips"
+  },
+  {
+    "soal": "Gaya gravitasi antara dua benda berbanding terbalik dengan?",
+    "jawaban": "Kuadrat jarak"
+  },
+  {
+    "soal": "Satuan gaya dalam SI adalah?",
+    "jawaban": "Newton"
+  },
+  {
+    "soal": "Satuan tekanan dalam SI adalah?",
+    "jawaban": "Pascal"
+  },
+  {
+    "soal": "Satuan energi dalam SI adalah?",
+    "jawaban": "Joule"
+  },
+  {
+    "soal": "Satuan daya dalam SI adalah?",
+    "jawaban": "Watt"
+  },
+  {
+    "soal": "Satuan muatan listrik dalam SI adalah?",
+    "jawaban": "Coulomb"
+  },
+  {
+    "soal": "Satuan kuat arus listrik dalam SI adalah?",
+    "jawaban": "Ampere"
+  },
+  {
+    "soal": "Satuan tegangan listrik dalam SI adalah?",
+    "jawaban": "Volt"
+  },
+  {
+    "soal": "Satuan hambatan listrik dalam SI adalah?",
+    "jawaban": "Ohm"
+  },
+  {
+    "soal": "Kecepatan cahaya dalam ruang hampa (c) adalah?",
+    "jawaban": "3 × 10⁸ m/s"
+  },
+  {
+    "soal": "Hukum Ohm: V = ?",
+    "jawaban": "I × R"
+  },
+  {
+    "soal": "Rumus hambatan pada kawat penghantar?",
+    "jawaban": "R = ρ L / A"
+  },
+  {
+    "soal": "Rumus daya listrik adalah?",
+    "jawaban": "P = V × I"
+  },
+  {
+    "soal": "Rumus energi listrik adalah?",
+    "jawaban": "W = V × I × t"
+  },
+  {
+    "soal": "Hukum Kirchhoff arus (KCL) menyatakan jumlah arus yang masuk titik cabang sama dengan?",
+    "jawaban": "Arus yang keluar"
+  },
+  {
+    "soal": "Hukum Kirchhoff tegangan (KVL) menyatakan jumlah tegangan dalam loop tertutup sama dengan?",
+    "jawaban": "Nol"
+  },
+  {
+    "soal": "Rangkaian seri hambatan: R_total = ?",
+    "jawaban": "R₁ + R₂ + R₃ + ..."
+  },
+  {
+    "soal": "Rangkaian paralel hambatan: 1/R_total = ?",
+    "jawaban": "1/R₁ + 1/R₂ + 1/R₃ + ..."
+  },
+  {
+    "soal": "Muatan elektron (e) adalah?",
+    "jawaban": "1,6 × 10⁻¹⁹ C"
+  },
+  {
+    "soal": "Alat untuk mengukur kuat arus listrik adalah?",
+    "jawaban": "Amperemeter"
+  },
+  {
+    "soal": "Alat untuk mengukur tegangan listrik adalah?",
+    "jawaban": "Voltmeter"
+  },
+  {
+    "soal": "Alat untuk mengukur hambatan listrik adalah?",
+    "jawaban": "Ohmmeter"
+  },
+  {
+    "soal": "Hukum Coulomb menyatakan gaya listrik sebanding dengan?",
+    "jawaban": "Hasil kali muatan dibagi kuadrat jarak"
+  },
+  {
+    "soal": "Medan listrik didefinisikan sebagai gaya per?",
+    "jawaban": "Satuan muatan"
+  },
+  {
+    "soal": "Kapasitor adalah komponen yang menyimpan?",
+    "jawaban": "Muatan listrik"
+  },
+  {
+    "soal": "Rumus kapasitansi kapasitor adalah?",
+    "jawaban": "C = Q / V"
+  },
+  {
+    "soal": "Induktor adalah komponen yang menyimpan?",
+    "jawaban": "Energi magnetik"
+  },
+  {
+    "soal": "Transformator berfungsi untuk mengubah?",
+    "jawaban": "Tegangan AC"
+  },
+  {
+    "soal": "Rumus efisiensi transformator adalah?",
+    "jawaban": "(V_s × I_s) / (V_p × I_p) × 100%"
+  },
+  {
+    "soal": "Sumber tegangan DC contohnya?",
+    "jawaban": "Baterai"
+  },
+  {
+    "soal": "Sumber tegangan AC contohnya?",
+    "jawaban": "Generator"
+  },
+  {
+    "soal": "Frekuensi listrik PLN di Indonesia adalah?",
+    "jawaban": "50 Hz"
+  },
+  {
+    "soal": "Tegangan listrik rumah tangga di Indonesia adalah?",
+    "jawaban": "220 V"
+  },
+  {
+    "soal": "Fenomena induksi elektromagnetik ditemukan oleh?",
+    "jawaban": "Michael Faraday"
+  },
+  {
+    "soal": "Hukum Faraday tentang induksi menyatakan GGL induksi sebanding dengan?",
+    "jawaban": "Laju perubahan fluks magnetik"
+  },
+  {
+    "soal": "Hukum Lenz menyatakan arah arus induksi sedemikian rupa sehingga?",
+    "jawaban": "Melawan penyebabnya"
+  },
+  {
+    "soal": "Gaya Lorentz adalah gaya pada?",
+    "jawaban": "Muatan yang bergerak dalam medan magnet"
+  },
+  {
+    "soal": "Kaedah tangan kanan digunakan untuk menentukan?",
+    "jawaban": "Arah medan magnet atau gaya Lorentz"
+  },
+  {
+    "soal": "Spektrum gelombang elektromagnetik memiliki panjang gelombang terpanjang?",
+    "jawaban": "Gelombang radio"
+  },
+  {
+    "soal": "Spektrum gelombang elektromagnetik memiliki frekuensi tertinggi?",
+    "jawaban": "Sinar gamma"
+  },
+  {
+    "soal": "Warna cahaya tampak dengan panjang gelombang terpanjang adalah?",
+    "jawaban": "Merah"
+  },
+  {
+    "soal": "Warna cahaya tampak dengan panjang gelombang terpendek adalah?",
+    "jawaban": "Ungu"
+  },
+  {
+    "soal": "Cahaya matahari yang terurai menjadi warna-warna disebut?",
+    "jawaban": "Pelangi atau dispersi"
+  },
+  {
+    "soal": "Lensa cekung bersifat?",
+    "jawaban": "Menyebarkan cahaya"
+  },
+  {
+    "soal": "Lensa cembung bersifat?",
+    "jawaban": "Mengumpulkan cahaya"
+  },
+  {
+    "soal": "Cermin cekung bersifat?",
+    "jawaban": "Mengumpulkan cahaya"
+  },
+  {
+    "soal": "Cermin cembung bersifat?",
+    "jawaban": "Menyebarkan cahaya"
+  },
+  {
+    "soal": "Bayangan yang tidak dapat ditangkap layar disebut?",
+    "jawaban": "Bayangan maya"
+  },
+  {
+    "soal": "Bayangan yang dapat ditangkap layar disebut?",
+    "jawaban": "Bayangan nyata"
+  },
+  {
+    "soal": "Cacat mata miopi (rabun jauh) dibantu dengan lensa?",
+    "jawaban": "Cekung (negatif)"
+  },
+  {
+    "soal": "Cacat mata hipermetropi (rabun dekat) dibantu dengan lensa?",
+    "jawaban": "Cembung (positif)"
+  },
+  {
+    "soal": "Cacat mata presbiopi (mata tua) dibantu dengan lensa?",
+    "jawaban": "Bifokal"
+  },
+  {
+    "soal": "Indeks bias air adalah?",
+    "jawaban": "1,33"
+  },
+  {
+    "soal": "Indeks bias intan adalah?",
+    "jawaban": "2,42"
+  },
+  {
+    "soal": "Hukum Snellius tentang pembiasan menghubungkan?",
+    "jawaban": "n₁ sin θ₁ = n₂ sin θ₂"
+  },
+  {
+    "soal": "Sudut kritis adalah sudut datang yang menghasilkan sudut bias?",
+    "jawaban": "90°"
+  },
+  {
+    "soal": "Fenomena serat optik memanfaatkan?",
+    "jawaban": "Pemantulan internal total"
+  },
+  {
+    "soal": "Bunyi adalah gelombang?",
+    "jawaban": "Longitudinal"
+  },
+  {
+    "soal": "Cahaya adalah gelombang?",
+    "jawaban": "Elektromagnetik"
+  },
+  {
+    "soal": "Gelombang transversal contohnya?",
+    "jawaban": "Gelombang tali"
+  },
+  {
+    "soal": "Gelombang longitudinal contohnya?",
+    "jawaban": "Gelombang bunyi"
+  },
+  {
+    "soal": "Cepat rambat bunyi di udara pada suhu 25°C kira-kira?",
+    "jawaban": "340 m/s"
+  },
+  {
+    "soal": "Bunyi pantul yang terdengar setelah bunyi asli disebut?",
+    "jawaban": "Gema"
+  },
+  {
+    "soal": "Bunyi pantul yang memperkuat bunyi asli disebut?",
+    "jawaban": "Gaung"
+  },
+  {
+    "soal": "Frekuensi bunyi di atas 20.000 Hz disebut?",
+    "jawaban": "Ultrasonik"
+  },
+  {
+    "soal": "Frekuensi bunyi di bawah 20 Hz disebut?",
+    "jawaban": "Infrasonik"
+  },
+  {
+    "soal": "Kuat lemahnya bunyi ditentukan oleh?",
+    "jawaban": "Amplitudo"
+  },
+  {
+    "soal": "Tinggi rendahnya bunyi ditentukan oleh?",
+    "jawaban": "Frekuensi"
+  },
+  {
+    "soal": "Efek Doppler adalah perubahan frekuensi karena?",
+    "jawaban": "Gerak relatif sumber-pendengar"
+  },
+  {
+    "soal": "Rumus frekuensi dalam efek Doppler untuk pendengar diam sumber bergerak?",
+    "jawaban": "f_p = (v/(v ± v_s)) f_s"
+  },
+  {
+    "soal": "Intensitas bunyi berbanding terbalik dengan?",
+    "jawaban": "Kuadrat jarak"
+  },
+  {
+    "soal": "Taraf intensitas bunyi satuan?",
+    "jawaban": "Desibel (dB)"
+  },
+  {
+    "soal": "Hukum Boyle menyatakan bahwa volume gas berbanding terbalik dengan?",
+    "jawaban": "Tekanan (pada suhu tetap)"
+  },
+  {
+    "soal": "Hukum Charles menyatakan bahwa volume gas sebanding dengan?",
+    "jawaban": "Suhu mutlak"
+  },
+  {
+    "soal": "Hukum Gay-Lussac menyatakan bahwa tekanan gas sebanding dengan?",
+    "jawaban": "Suhu mutlak"
+  },
+  {
+    "soal": "Persamaan gas ideal: PV = ?",
+    "jawaban": "nRT"
+  },
+  {
+    "soal": "Konstanta gas umum R adalah?",
+    "jawaban": "8,314 J/(mol·K)"
+  },
+  {
+    "soal": "Suhu 0°C = ? K",
+    "jawaban": "273 K"
+  },
+  {
+    "soal": "Suhu 100°C = ? K",
+    "jawaban": "373 K"
+  },
+  {
+    "soal": "Perubahan wujud dari padat ke cair disebut?",
+    "jawaban": "Melebur"
+  },
+  {
+    "soal": "Perubahan wujud dari cair ke padat disebut?",
+    "jawaban": "Membeku"
+  },
+  {
+    "soal": "Perubahan wujud dari cair ke gas disebut?",
+    "jawaban": "Menguap"
+  },
+  {
+    "soal": "Perubahan wujud dari gas ke cair disebut?",
+    "jawaban": "Mengembun"
+  },
+  {
+    "soal": "Perubahan wujud dari padat ke gas disebut?",
+    "jawaban": "Menyublim"
+  },
+  {
+    "soal": "Perubahan wujud dari gas ke padat disebut?",
+    "jawaban": "Mengkristal (deposisi)"
+  },
+  {
+    "soal": "Kalor jenis air adalah?",
+    "jawaban": "4200 J/kg°C"
+  },
+  {
+    "soal": "Kalor lebur es adalah?",
+    "jawaban": "336.000 J/kg"
+  },
+  {
+    "soal": "Rumus kalor untuk perubahan suhu: Q = ?",
+    "jawaban": "m × c × ΔT"
+  },
+  {
+    "soal": "Rumus kalor untuk perubahan wujud: Q = ?",
+    "jawaban": "m × L"
+  },
+  {
+    "soal": "Hukum ke-0 Termodinamika tentang?",
+    "jawaban": "Kesetimbangan termal"
+  },
+  {
+    "soal": "Hukum I Termodinamika: ΔU = ?",
+    "jawaban": "Q - W"
+  },
+  {
+    "soal": "Hukum II Termodinamika tentang?",
+    "jawaban": "Entropi selalu naik"
+  },
+  {
+    "soal": "Proses termodinamika dengan suhu tetap disebut?",
+    "jawaban": "Isotermal"
+  },
+  {
+    "soal": "Proses termodinamika dengan tekanan tetap disebut?",
+    "jawaban": "Isobarik"
+  },
+  {
+    "soal": "Proses termodinamika dengan volume tetap disebut?",
+    "jawaban": "Isokhorik"
+  },
+  {
+    "soal": "Proses termodinamika tanpa pertukaran kalor disebut?",
+    "jawaban": "Adiabatik"
+  },
+  {
+    "soal": "Efisiensi mesin Carnot: η = ?",
+    "jawaban": "1 - T_c/T_h"
+  },
+  {
+    "soal": "Energi dalam gas ideal monoatomik: U = ?",
+    "jawaban": "(3/2)nRT"
+  },
+  {
+    "soal": "Titik didih air pada tekanan 1 atm adalah?",
+    "jawaban": "100°C"
+  },
+  {
+    "soal": "Titik beku air pada tekanan 1 atm adalah?",
+    "jawaban": "0°C"
+  },
+  {
+    "soal": "Tekanan 1 atm = ... Pa?",
+    "jawaban": "101.325 Pa"
+  },
+  {
+    "soal": "Alat ukur tekanan udara disebut?",
+    "jawaban": "Barometer"
+  },
+  {
+    "soal": "Hukum Pascal menyatakan tekanan zat cair dalam ruang tertutup diteruskan?",
+    "jawaban": "Ke segala arah"
+  },
+  {
+    "soal": "Hukum Archimedes menyatakan gaya apung sama dengan?",
+    "jawaban": "Berat zat cair yang dipindahkan"
+  },
+  {
+    "soal": "Kapilaritas adalah naik turunnya zat cair dalam?",
+    "jawaban": "Pipa kapiler"
+  },
+  {
+    "soal": "Tegangan permukaan zat cair menyebabkan?",
+    "jawaban": "Permukaan seperti selaput elastis"
+  },
+  {
+    "soal": "Viskositas adalah ukuran?",
+    "jawaban": "Kekentalan zat cair"
+  },
+  {
+    "soal": "Debit air (Q) dirumuskan sebagai?",
+    "jawaban": "Q = A × v"
+  },
+  {
+    "soal": "Asas kontinuitas pada fluida: A₁v₁ = ?",
+    "jawaban": "A₂v₂"
+  },
+  {
+    "soal": "Persamaan Bernoulli untuk fluida ideal: P + ½ρv² + ρgh = ?",
+    "jawaban": "Konstan"
+  },
+  {
+    "soal": "Gaya angkat pesawat terbang memanfaatkan Hukum?",
+    "jawaban": "Bernoulli"
+  },
+  {
+    "soal": "Venturimeter adalah alat ukur?",
+    "jawaban": "Kecepatan aliran fluida"
+  },
+  {
+    "soal": "Benda terapung jika massa jenis benda?",
+    "jawaban": "Lebih kecil dari massa jenis fluida"
+  },
+  {
+    "soal": "Benda tenggelam jika massa jenis benda?",
+    "jawaban": "Lebih besar dari massa jenis fluida"
+  },
+  {
+    "soal": "Benda melayang jika massa jenis benda?",
+    "jawaban": "Sama dengan massa jenis fluida"
+  },
+  {
+    "soal": "Usaha yang dilakukan gaya gravitasi tidak tergantung pada?",
+    "jawaban": "Lintasan"
+  },
+  {
+    "soal": "Energi mekanik adalah jumlah?",
+    "jawaban": "Energi kinetik dan potensial"
+  },
+  {
+    "soal": "Hukum kekekalan energi mekanik berlaku jika?",
+    "jawaban": "Hanya gaya konservatif yang bekerja"
+  },
+  {
+    "soal": "Impuls adalah hasil kali?",
+    "jawaban": "Gaya dengan selang waktu"
+  },
+  {
+    "soal": "Momentum adalah hasil kali?",
+    "jawaban": "Massa dengan kecepatan"
+  },
+  {
+    "soal": "Tumbukan lenting sempurna memiliki koefisien restitusi?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Tumbukan tidak lenting sama sekali memiliki koefisien restitusi?",
+    "jawaban": "0"
+  },
+  {
+    "soal": "Torsi (momen gaya) adalah hasil kali?",
+    "jawaban": "Gaya dengan lengan momen"
+  },
+  {
+    "soal": "Momen inersia adalah ukuran?",
+    "jawaban": "Kelembaman benda berotasi"
+  },
+  {
+    "soal": "Momen inersia partikel titik: I = ?",
+    "jawaban": "m × r²"
+  },
+  {
+    "soal": "Momen inersia silinder pejal terhadap sumbunya?",
+    "jawaban": "½ m R²"
+  },
+  {
+    "soal": "Momen inersia bola pejal terhadap sumbunya?",
+    "jawaban": "⅖ m R²"
+  },
+  {
+    "soal": "Hukum Newton untuk rotasi: τ = ?",
+    "jawaban": "I × α"
+  },
+  {
+    "soal": "Energi kinetik rotasi: Ek_rot = ?",
+    "jawaban": "½ I ω²"
+  },
+  {
+    "soal": "Momentum sudut (L) dirumuskan?",
+    "jawaban": "I × ω"
+  },
+  {
+    "soal": "Hukum kekekalan momentum sudut berlaku jika?",
+    "jawaban": "Torsi luar sama dengan nol"
+  },
+  {
+    "soal": "Penemu hukum gravitasi universal adalah?",
+    "jawaban": "Isaac Newton"
+  },
+  {
+    "soal": "Penemu hukum gerak planet (Kepler) adalah?",
+    "jawaban": "Johannes Kepler"
+  },
+  {
+    "soal": "Penemu teori relativitas adalah?",
+    "jawaban": "Albert Einstein"
+  },
+  {
+    "soal": "Penemu radioaktivitas adalah?",
+    "jawaban": "Henri Becquerel"
+  },
+  {
+    "soal": "Penemu sinar-X adalah?",
+    "jawaban": "Wilhelm Röntgen"
+  },
+  {
+    "soal": "Penemu elektron adalah?",
+    "jawaban": "J.J. Thomson"
+  },
+  {
+    "soal": "Penemu inti atom adalah?",
+    "jawaban": "Ernest Rutherford"
+  },
+  {
+    "soal": "Penemu neutron adalah?",
+    "jawaban": "James Chadwick"
+  },
+  {
+    "soal": "Penemu efek fotolistrik (teori) adalah?",
+    "jawaban": "Albert Einstein"
+  },
+  {
+    "soal": "Penemu model atom Bohr adalah?",
+    "jawaban": "Niels Bohr"
+  },
+  {
+    "soal": "Penemu medan elektromagnetik adalah?",
+    "jawaban": "James Clerk Maxwell"
+  },
+  {
+    "soal": "Penemu induksi elektromagnetik adalah?",
+    "jawaban": "Michael Faraday"
+  },
+  {
+    "soal": "Penemu hukum Ohm adalah?",
+    "jawaban": "Georg Simon Ohm"
+  },
+  {
+    "soal": "Penemu hukum Coulomb adalah?",
+    "jawaban": "Charles Augustin de Coulomb"
+  },
+  {
+    "soal": "Penemu hukum Pascal adalah?",
+    "jawaban": "Blaise Pascal"
+  },
+  {
+    "soal": "Penemu hukum Archimedes adalah?",
+    "jawaban": "Archimedes"
+  },
+  {
+    "soal": "Penemu barometer adalah?",
+    "jawaban": "Evangelista Torricelli"
+  },
+  {
+    "soal": "Penemu termometer adalah?",
+    "jawaban": "Galileo Galilei"
+  },
+  {
+    "soal": "Satuan suhu dalam SI adalah?",
+    "jawaban": "Kelvin"
+  },
+  {
+    "soal": "Termometer skala Celsius ke Kelvin: K = ?",
+    "jawaban": "C + 273"
+  },
+  {
+    "soal": "Termometer skala Celsius ke Fahrenheit: F = ?",
+    "jawaban": "(9/5)C + 32"
+  },
+  {
+    "soal": "Termometer skala Fahrenheit ke Celsius: C = ?",
+    "jawaban": "(5/9)(F - 32)"
+  },
+  {
+    "soal": "Radioisotop digunakan dalam bidang kedokteran untuk?",
+    "jawaban": "Terapi dan diagnosis"
+  },
+  {
+    "soal": "Waktu paruh adalah?",
+    "jawaban": "Waktu yang dibutuhkan zat radioaktif meluruh menjadi setengahnya"
+  },
+  {
+    "soal": "Reaksi fisi nuklir adalah?",
+    "jawaban": "Pembelahan inti atom berat"
+  },
+  {
+    "soal": "Reaksi fusi nuklir adalah?",
+    "jawaban": "Penggabungan inti atom ringan"
+  },
+  {
+    "soal": "Bom atom memanfaatkan reaksi?",
+    "jawaban": "Fisi"
+  },
+  {
+    "soal": "Matahari memanfaatkan reaksi?",
+    "jawaban": "Fusi"
+  },
+  {
+    "soal": "Sinar radioaktif yang bermuatan positif adalah?",
+    "jawaban": "Sinar alfa (α)"
+  },
+  {
+    "soal": "Sinar radioaktif yang bermuatan negatif adalah?",
+    "jawaban": "Sinar beta (β)"
+  },
+  {
+    "soal": "Sinar radioaktif yang tidak bermuatan adalah?",
+    "jawaban": "Sinar gamma (γ)"
+  },
+  {
+    "soal": "Daya tembus sinar radioaktif terbesar adalah?",
+    "jawaban": "Sinar gamma"
+  },
+  {
+    "soal": "Daya ionisasi sinar radioaktif terbesar adalah?",
+    "jawaban": "Sinar alfa"
+  },
+  {
+    "soal": "Alat yang digunakan untuk mendeteksi radiasi adalah?",
+    "jawaban": "Geiger counter"
+  },
+  {
+    "soal": "Kesetaraan massa-energi Einstein: E = ?",
+    "jawaban": "m c²"
+  },
+  {
+    "soal": "Foton adalah partikel penyusun?",
+    "jawaban": "Cahaya"
+  },
+  {
+    "soal": "Energi foton: E = ?",
+    "jawaban": "h × f"
+  },
+  {
+    "soal": "Konstanta Planck (h) nilainya?",
+    "jawaban": "6,63 × 10⁻³⁴ J·s"
+  },
+  {
+    "soal": "Panjang gelombang de Broglie untuk partikel: λ = ?",
+    "jawaban": "h / (m v)"
+  },
+  {
+    "soal": "Prinsip ketidakpastian Heisenberg: Δx Δp ≥ ?",
+    "jawaban": "h / (4π)"
+  },
+  {
+    "soal": "Bilangan kuantum utama (n) menentukan?",
+    "jawaban": "Tingkat energi elektron"
+  },
+  {
+    "soal": "Efek fotolistrik adalah?",
+    "jawaban": "Efek terlepasnya elektron karena cahaya"
+  },
+  {
+    "soal": "Fungsi kerja adalah?",
+    "jawaban": "Energi minimum untuk melepaskan elektron"
+  },
+  {
+    "soal": "Laser adalah singkatan dari?",
+    "jawaban": "Light Amplification by Stimulated Emission of Radiation"
+  },
+  {
+    "soal": "Superkonduktor memiliki hambatan listrik?",
+    "jawaban": "Nol"
+  },
+  {
+    "soal": "Semikonduktor memiliki hambatan antara?",
+    "jawaban": "Konduktor dan isolator"
+  },
+  {
+    "soal": "Dioda berfungsi sebagai?",
+    "jawaban": "Penyearah arus"
+  },
+  {
+    "soal": "Transistor berfungsi sebagai?",
+    "jawaban": "Penguat dan sakelar"
+  },
+  {
+    "soal": "Partikel penyusun atom adalah?",
+    "jawaban": "Proton, elektron, neutron"
+  },
+  {
+    "soal": "Fisika kuantum mempelajari?",
+    "jawaban": "Perilaku partikel subatomik"
+  },
+  {
+    "soal": "Fisika klasik mempelajari?",
+    "jawaban": "Benda makroskopik"
+  }
+]
