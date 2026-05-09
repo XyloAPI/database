@@ -1,0 +1,534 @@
+[
+  {
+    "soal": "Upacara pembakaran mayat di Bali disebut?",
+    "jawaban": "Ngaben"
+  },
+  {
+    "soal": "Upacara potong gigi di Bali disebut?",
+    "jawaban": "Mepandes"
+  },
+  {
+    "soal": "Upacara melasti di Bali adalah upacara?",
+    "jawaban": "Pensucian diri ke laut"
+  },
+  {
+    "soal": "Upacara tabuik di Sumatera Barat adalah upacara?",
+    "jawaban": "Peringatan Asura (Hasan-Husein)"
+  },
+  {
+    "soal": "Upacara kasada di Gunung Bromo dilakukan oleh suku?",
+    "jawaban": "Tengger"
+  },
+  {
+    "soal": "Upacara larung sesaji di Gunung Bromo bertujuan untuk?",
+    "jawaban": "Menghormati leluhur"
+  },
+  {
+    "soal": "Upacara sekaten di Yogyakarta dan Solo diadakan untuk memperingati?",
+    "jawaban": "Maulid Nabi Muhammad SAW"
+  },
+  {
+    "soal": "Upacara ngaben biasanya diiringi dengan musik?",
+    "jawaban": "Gamelan Bali"
+  },
+  {
+    "soal": "Upacara perang ketupat di Bali dilakukan di desa?",
+    "jawaban": "Kapal"
+  },
+  {
+    "soal": "Upacara seren taun di Jawa Barat adalah upacara?",
+    "jawaban": "Syukuran panen padi"
+  },
+  {
+    "soal": "Upacara ruwatan di Jawa bertujuan untuk?",
+    "jawaban": "Membersihkan diri dari sial"
+  },
+  {
+    "soal": "Upacara mapag sri di Jawa Barat adalah upacara?",
+    "jawaban": "Menyambut padi"
+  },
+  {
+    "soal": "Upacara mappalette bola di Sulawesi Selatan adalah?",
+    "jawaban": "Tradisi gotong royong memindahkan rumah"
+  },
+  {
+    "soal": "Upacara mappacci di Sulawesi Selatan adalah?",
+    "jawaban": "Tradisi pembersihan diri sebelum pernikahan"
+  },
+  {
+    "soal": "Upacara mapandes di Bali adalah upacara?",
+    "jawaban": "Potong gigi"
+  },
+  {
+    "soal": "Upacara metatah di Bali adalah upacara?",
+    "jawaban": "Potong gigi"
+  },
+  {
+    "soal": "Tari Saman berasal dari provinsi?",
+    "jawaban": "Aceh"
+  },
+  {
+    "soal": "Tari Saman menggunakan media?",
+    "jawaban": "Tepuk tangan dan tepuk dada"
+  },
+  {
+    "soal": "Tari Kecak berasal dari pulau?",
+    "jawaban": "Bali"
+  },
+  {
+    "soal": "Tari Kecak biasanya mengisahkan?",
+    "jawaban": "Ramayana"
+  },
+  {
+    "soal": "Tari Pendet berasal dari pulau?",
+    "jawaban": "Bali"
+  },
+  {
+    "soal": "Tari Piring berasal dari provinsi?",
+    "jawaban": "Sumatera Barat"
+  },
+  {
+    "soal": "Tari Piring menggunakan properti?",
+    "jawaban": "Piring"
+  },
+  {
+    "soal": "Tari Tor-Tor berasal dari provinsi?",
+    "jawaban": "Sumatera Utara"
+  },
+  {
+    "soal": "Tari Tor-Tor adalah tarian suku?",
+    "jawaban": "Batak"
+  },
+  {
+    "soal": "Tari Jaipong berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Tari Jaipong diciptakan oleh?",
+    "jawaban": "Gugum Gumbira"
+  },
+  {
+    "soal": "Tari Legong berasal dari pulau?",
+    "jawaban": "Bali"
+  },
+  {
+    "soal": "Tari Barong berasal dari pulau?",
+    "jawaban": "Bali"
+  },
+  {
+    "soal": "Tari Topeng Betawi berasal dari provinsi?",
+    "jawaban": "DKI Jakarta"
+  },
+  {
+    "soal": "Tari Gambyong berasal dari provinsi?",
+    "jawaban": "Jawa Tengah"
+  },
+  {
+    "soal": "Tari Serimpi berasal dari provinsi?",
+    "jawaban": "DIY Yogyakarta"
+  },
+  {
+    "soal": "Tari Bedhaya berasal dari provinsi?",
+    "jawaban": "DIY Yogyakarta"
+  },
+  {
+    "soal": "Tari Cokek berasal dari provinsi?",
+    "jawaban": "DKI Jakarta/Betawi"
+  },
+  {
+    "soal": "Tari Gending Sriwijaya berasal dari provinsi?",
+    "jawaban": "Sumatera Selatan"
+  },
+  {
+    "soal": "Tari Baksa Kembang berasal dari provinsi?",
+    "jawaban": "Kalimantan Selatan"
+  },
+  {
+    "soal": "Tari Remo berasal dari provinsi?",
+    "jawaban": "Jawa Timur"
+  },
+  {
+    "soal": "Alat musik Angklung berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Angklung telah diakui UNESCO sebagai?",
+    "jawaban": "Warisan Budaya Takbenda"
+  },
+  {
+    "soal": "Alat musik Gamelan berasal dari pulau?",
+    "jawaban": "Jawa"
+  },
+  {
+    "soal": "Alat musik Kolintang berasal dari provinsi?",
+    "jawaban": "Sulawesi Utara"
+  },
+  {
+    "soal": "Alat musik Sasando berasal dari provinsi?",
+    "jawaban": "Nusa Tenggara Timur"
+  },
+  {
+    "soal": "Alat musik Tifa berasal dari provinsi?",
+    "jawaban": "Papua dan Maluku"
+  },
+  {
+    "soal": "Alat musik Kecapi berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Alat musik Suling Sunda berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Alat musik Gong berasal dari pulau?",
+    "jawaban": "Jawa dan Bali"
+  },
+  {
+    "soal": "Alat musik Kendang dimainkan dengan cara?",
+    "jawaban": "Dipukul"
+  },
+  {
+    "soal": "Alat musik Bonang termasuk dalam keluarga?",
+    "jawaban": "Gamelan"
+  },
+  {
+    "soal": "Alat musik Siter dimainkan dengan cara?",
+    "jawaban": "Dipetik"
+  },
+  {
+    "soal": "Alat musik Rebab dimainkan dengan cara?",
+    "jawaban": "Digesek"
+  },
+  {
+    "soal": "Wayang Kulit berasal dari pulau?",
+    "jawaban": "Jawa"
+  },
+  {
+    "soal": "Wayang Kulit mengisahkan cerita?",
+    "jawaban": "Mahabharata dan Ramayana"
+  },
+  {
+    "soal": "Dalang adalah sebutan untuk?",
+    "jawaban": "Pemain wayang"
+  },
+  {
+    "soal": "Wayang Golek berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Wayang Wong adalah wayang yang dimainkan oleh?",
+    "jawaban": "Manusia"
+  },
+  {
+    "soal": "Wayang Kulit telah diakui UNESCO sebagai?",
+    "jawaban": "Warisan Budaya Takbenda"
+  },
+  {
+    "soal": "Rumah adat Honai berasal dari provinsi?",
+    "jawaban": "Papua"
+  },
+  {
+    "soal": "Rumah adat Gadang berasal dari provinsi?",
+    "jawaban": "Sumatera Barat"
+  },
+  {
+    "soal": "Rumah adat Joglo berasal dari provinsi?",
+    "jawaban": "Jawa Tengah"
+  },
+  {
+    "soal": "Rumah adat Panggung berasal dari provinsi?",
+    "jawaban": "Kepulauan Riau"
+  },
+  {
+    "soal": "Rumah adat Limas berasal dari provinsi?",
+    "jawaban": "Sumatera Selatan"
+  },
+  {
+    "soal": "Rumah adat Tongkonan berasal dari provinsi?",
+    "jawaban": "Sulawesi Selatan"
+  },
+  {
+    "soal": "Rumah adat Balai Batak berasal dari provinsi?",
+    "jawaban": "Sumatera Utara"
+  },
+  {
+    "soal": "Rumah adat Kebaya berasal dari provinsi?",
+    "jawaban": "DKI Jakarta (Betawi)"
+  },
+  {
+    "soal": "Rumah adat Lamin berasal dari provinsi?",
+    "jawaban": "Kalimantan Timur"
+  },
+  {
+    "soal": "Rumah adat Bolon berasal dari provinsi?",
+    "jawaban": "Sumatera Utara (Batak)"
+  },
+  {
+    "soal": "Rumah adat Kasepuhan berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Senjata tradisional Keris berasal dari pulau?",
+    "jawaban": "Jawa"
+  },
+  {
+    "soal": "Senjata tradisional Rencong berasal dari provinsi?",
+    "jawaban": "Aceh"
+  },
+  {
+    "soal": "Senjata tradisional Mandau berasal dari provinsi?",
+    "jawaban": "Kalimantan"
+  },
+  {
+    "soal": "Senjata tradisional Badik berasal dari provinsi?",
+    "jawaban": "Sulawesi Selatan"
+  },
+  {
+    "soal": "Senjata tradisional Golok berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Senjata tradisional Tombak banyak digunakan oleh suku?",
+    "jawaban": "Batak"
+  },
+  {
+    "soal": "Senjata tradisional Kujang berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Senjata tradisional Parang ditemukan di banyak daerah di?",
+    "jawaban": "Indonesia Timur"
+  },
+  {
+    "soal": "Pakaian adat Ulee Balang berasal dari provinsi?",
+    "jawaban": "Aceh"
+  },
+  {
+    "soal": "Pakaian adat Bundo Kanduang berasal dari provinsi?",
+    "jawaban": "Sumatera Barat"
+  },
+  {
+    "soal": "Pakaian adat Kebaya dan Batik berasal dari pulau?",
+    "jawaban": "Jawa"
+  },
+  {
+    "soal": "Pakaian adat Ulos berasal dari provinsi?",
+    "jawaban": "Sumatera Utara"
+  },
+  {
+    "soal": "Pakaian adat Sasak berasal dari provinsi?",
+    "jawaban": "Nusa Tenggara Barat"
+  },
+  {
+    "soal": "Pakaian adat Bodo berasal dari provinsi?",
+    "jawaban": "Sulawesi Selatan"
+  },
+  {
+    "soal": "Pakaian adat Koteka berasal dari provinsi?",
+    "jawaban": "Papua"
+  },
+  {
+    "soal": "Pakaian adat Dodot berasal dari provinsi?",
+    "jawaban": "Jawa Tengah"
+  },
+  {
+    "soal": "Pakaian adat Belanga berasal dari provinsi?",
+    "jawaban": "Jambi"
+  },
+  {
+    "soal": "Makanan tradisional Rendang berasal dari provinsi?",
+    "jawaban": "Sumatera Barat"
+  },
+  {
+    "soal": "Makanan tradisional Pempek berasal dari provinsi?",
+    "jawaban": "Sumatera Selatan"
+  },
+  {
+    "soal": "Makanan tradisional Gudeg berasal dari provinsi?",
+    "jawaban": "DIY Yogyakarta"
+  },
+  {
+    "soal": "Makanan tradisional Sate Lilit berasal dari pulau?",
+    "jawaban": "Bali"
+  },
+  {
+    "soal": "Makanan tradisional Rawon berasal dari provinsi?",
+    "jawaban": "Jawa Timur"
+  },
+  {
+    "soal": "Makanan tradisional Soto Banjar berasal dari provinsi?",
+    "jawaban": "Kalimantan Selatan"
+  },
+  {
+    "soal": "Makanan tradisional Papeda berasal dari provinsi?",
+    "jawaban": "Papua dan Maluku"
+  },
+  {
+    "soal": "Makanan tradisional Bika Ambon berasal dari provinsi?",
+    "jawaban": "Sumatera Utara (Medan)"
+  },
+  {
+    "soal": "Makanan tradisional Kerak Telor berasal dari provinsi?",
+    "jawaban": "DKI Jakarta"
+  },
+  {
+    "soal": "Makanan tradisional Klepon berasal dari pulau?",
+    "jawaban": "Jawa"
+  },
+  {
+    "soal": "Minuman tradisional Bajigur berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Minuman tradisional Bandrek berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Minuman tradisional Wedang Jahe berasal dari pulau?",
+    "jawaban": "Jawa"
+  },
+  {
+    "soal": "Minuman tradisional Tuak banyak ditemukan di daerah?",
+    "jawaban": "Sumatera Utara dan Sulawesi"
+  },
+  {
+    "soal": "Permainan tradisional Congklak dimainkan dengan?",
+    "jawaban": "Bijian dan papan berlubang"
+  },
+  {
+    "soal": "Permainan tradisional Egrang menggunakan?",
+    "jawaban": "Bambu tinggi"
+  },
+  {
+    "soal": "Permainan tradisional Gasing dimainkan dengan cara?",
+    "jawaban": "Diputar"
+  },
+  {
+    "soal": "Permainan tradisional Layang-layang disebut juga?",
+    "jawaban": "Wau"
+  },
+  {
+    "soal": "Permainan tradisional Gobak Sodor dimainkan secara?",
+    "jawaban": "Beregu"
+  },
+  {
+    "soal": "Permainan tradisional Bekel menggunakan bola dan?",
+    "jawaban": "Bijian"
+  },
+  {
+    "soal": "Lomba perahu naga biasanya diadakan di?",
+    "jawaban": "Kalimantan"
+  },
+  {
+    "soal": "Karapan sapi adalah tradisi dari provinsi?",
+    "jawaban": "Jawa Timur (Madura)"
+  },
+  {
+    "soal": "Pasola adalah tradisi perang-perangan dari provinsi?",
+    "jawaban": "Nusa Tenggara Timur (Sumba)"
+  },
+  {
+    "soal": "Kasada adalah upacara adat masyarakat?",
+    "jawaban": "Tengger"
+  },
+  {
+    "soal": "Batik telah diakui UNESCO sebagai?",
+    "jawaban": "Warisan Budaya Takbenda"
+  },
+  {
+    "soal": "Motif batik Parang berasal dari daerah?",
+    "jawaban": "Solo dan Yogyakarta"
+  },
+  {
+    "soal": "Motif batik Mega Mendung berasal dari daerah?",
+    "jawaban": "Cirebon"
+  },
+  {
+    "soal": "Motif batik Kawung berasal dari daerah?",
+    "jawaban": "Solo dan Yogyakarta"
+  },
+  {
+    "soal": "Kerajinan perak terkenal dari Kota?",
+    "jawaban": "Kota Gede (Yogyakarta)"
+  },
+  {
+    "soal": "Kerajinan ukir kayu terkenal dari daerah?",
+    "jawaban": "Jepara"
+  },
+  {
+    "soal": "Kerajinan anyaman bambu terkenal dari daerah?",
+    "jawaban": "Tasikmalaya"
+  },
+  {
+    "soal": "Kerajinan tenun ikat terkenal dari provinsi?",
+    "jawaban": "Nusa Tenggara Timur"
+  },
+  {
+    "soal": "Kerajinan songket terkenal dari provinsi?",
+    "jawaban": "Sumatera Selatan (Palembang)"
+  },
+  {
+    "soal": "Kerajinan gerabah terkenal dari daerah?",
+    "jawaban": "Kasongan (Yogyakarta)"
+  },
+  {
+    "soal": "Tradisi Megengan di Jawa dilakukan sebelum bulan?",
+    "jawaban": "Ramadhan"
+  },
+  {
+    "soal": "Tradisi Nyadran di Jawa adalah?",
+    "jawaban": "Ziarah kubur sebelum Ramadhan"
+  },
+  {
+    "soal": "Tradisi Padusan di Jawa adalah?",
+    "jawaban": "Mandi bersih menjelang Ramadhan"
+  },
+  {
+    "soal": "Tradisi Dugderan di Semarang adalah tanda?",
+    "jawaban": "Awal bulan Ramadhan"
+  },
+  {
+    "soal": "Tradisi Lomban di Jepara adalah?",
+    "jawaban": "Larung sesaji ke laut"
+  },
+  {
+    "soal": "Tradisi Malemming di Banyuwangi adalah?",
+    "jawaban": "Upacara bersih desa"
+  },
+  {
+    "soal": "Tradisi Petik Laut di Muncar adalah?",
+    "jawaban": "Syukuran nelayan"
+  },
+  {
+    "soal": "Tradisi Ngasa di Bali adalah?",
+    "jawaban": "Puasa bagi umat Hindu"
+  },
+  {
+    "soal": "Tradisi Nyepi di Bali adalah hari?",
+    "jawaban": "Hari diam, tidak beraktivitas"
+  },
+  {
+    "soal": "Tradisi Omed-Omedan di Bali adalah?",
+    "jawaban": "Tradisi tarik menarik"
+  },
+  {
+    "soal": "Tradisi Rebo Wekasan di Jawa adalah?",
+    "jawaban": "Menolak bala di bulan Safar"
+  },
+  {
+    "soal": "Tradisi Wuku Talu di Bali adalah?",
+    "jawaban": "Upacara keselamatan"
+  },
+  {
+    "soal": "Tradisi Gugur Gunung di Yogyakarta adalah?",
+    "jawaban": "Kerja bakti bersama"
+  },
+  {
+    "soal": "Tradisi Sadranan di Jawa adalah?",
+    "jawaban": "Ziarah kubur"
+  },
+  {
+    "soal": "Tradisi Meron di Sukolilo Pati?",
+    "jawaban": "Gunungan hasil bumi"
+  }
+]
