@@ -1,0 +1,458 @@
+[
+  {
+    "soal": "Ibu kota Indonesia adalah?",
+    "jawaban": "Jakarta"
+  },
+  {
+    "soal": "Ibu kota provinsi Jawa Barat adalah?",
+    "jawaban": "Bandung"
+  },
+  {
+    "soal": "Ibu kota provinsi Jawa Timur adalah?",
+    "jawaban": "Surabaya"
+  },
+  {
+    "soal": "Ibu kota provinsi Jawa Tengah adalah?",
+    "jawaban": "Semarang"
+  },
+  {
+    "soal": "Ibu kota provinsi Sumatera Utara adalah?",
+    "jawaban": "Medan"
+  },
+  {
+    "soal": "Ibu kota provinsi Sumatera Selatan adalah?",
+    "jawaban": "Palembang"
+  },
+  {
+    "soal": "Ibu kota provinsi Sulawesi Selatan adalah?",
+    "jawaban": "Makassar"
+  },
+  {
+    "soal": "Ibu kota provinsi Kalimantan Timur adalah?",
+    "jawaban": "Samarinda"
+  },
+  {
+    "soal": "Ibu kota provinsi Papua adalah?",
+    "jawaban": "Jayapura"
+  },
+  {
+    "soal": "Ibu kota provinsi Bali adalah?",
+    "jawaban": "Denpasar"
+  },
+  {
+    "soal": "Ibu kota provinsi Nusa Tenggara Barat adalah?",
+    "jawaban": "Mataram"
+  },
+  {
+    "soal": "Ibu kota provinsi Nusa Tenggara Timur adalah?",
+    "jawaban": "Kupang"
+  },
+  {
+    "soal": "Ibu kota provinsi Kalimantan Barat adalah?",
+    "jawaban": "Pontianak"
+  },
+  {
+    "soal": "Ibu kota provinsi Kalimantan Tengah adalah?",
+    "jawaban": "Palangkaraya"
+  },
+  {
+    "soal": "Ibu kota provinsi Kalimantan Selatan adalah?",
+    "jawaban": "Banjarmasin"
+  },
+  {
+    "soal": "Ibu kota provinsi Kalimantan Utara adalah?",
+    "jawaban": "Tanjung Selor"
+  },
+  {
+    "soal": "Ibu kota provinsi Sulawesi Utara adalah?",
+    "jawaban": "Manado"
+  },
+  {
+    "soal": "Ibu kota provinsi Sulawesi Tengah adalah?",
+    "jawaban": "Palu"
+  },
+  {
+    "soal": "Ibu kota provinsi Sulawesi Tenggara adalah?",
+    "jawaban": "Kendari"
+  },
+  {
+    "soal": "Ibu kota provinsi Gorontalo adalah?",
+    "jawaban": "Gorontalo"
+  },
+  {
+    "soal": "Ibu kota provinsi Maluku adalah?",
+    "jawaban": "Ambon"
+  },
+  {
+    "soal": "Ibu kota provinsi Maluku Utara adalah?",
+    "jawaban": "Sofifi"
+  },
+  {
+    "soal": "Ibu kota provinsi Papua Barat adalah?",
+    "jawaban": "Manokwari"
+  },
+  {
+    "soal": "Ibu kota provinsi Papua Tengah adalah?",
+    "jawaban": "Nabire"
+  },
+  {
+    "soal": "Ibu kota provinsi Papua Selatan adalah?",
+    "jawaban": "Merauke"
+  },
+  {
+    "soal": "Ibu kota provinsi Papua Pegunungan adalah?",
+    "jawaban": "Wamena"
+  },
+  {
+    "soal": "Ibu kota provinsi Sumatera Barat adalah?",
+    "jawaban": "Padang"
+  },
+  {
+    "soal": "Ibu kota provinsi Jambi adalah?",
+    "jawaban": "Jambi"
+  },
+  {
+    "soal": "Ibu kota provinsi Bengkulu adalah?",
+    "jawaban": "Bengkulu"
+  },
+  {
+    "soal": "Ibu kota provinsi Lampung adalah?",
+    "jawaban": "Bandar Lampung"
+  },
+  {
+    "soal": "Ibu kota provinsi Kepulauan Riau adalah?",
+    "jawaban": "Tanjung Pinang"
+  },
+  {
+    "soal": "Ibu kota provinsi Kepulauan Bangka Belitung adalah?",
+    "jawaban": "Pangkal Pinang"
+  },
+  {
+    "soal": "Ibu kota provinsi Aceh adalah?",
+    "jawaban": "Banda Aceh"
+  },
+  {
+    "soal": "Ibu kota provinsi Riau adalah?",
+    "jawaban": "Pekanbaru"
+  },
+  {
+    "soal": "Ibu kota provinsi DI Yogyakarta adalah?",
+    "jawaban": "Yogyakarta"
+  },
+  {
+    "soal": "Ibu kota provinsi Banten adalah?",
+    "jawaban": "Serang"
+  },
+  {
+    "soal": "Ibu kota provinsi Sulawesi Barat adalah?",
+    "jawaban": "Mamuju"
+  },
+  {
+    "soal": "Gunung tertinggi di Indonesia adalah?",
+    "jawaban": "Puncak Jaya"
+  },
+  {
+    "soal": "Gunung tertinggi di Pulau Jawa adalah?",
+    "jawaban": "Semeru"
+  },
+  {
+    "soal": "Sungai terpanjang di Indonesia adalah?",
+    "jawaban": "Kapuas"
+  },
+  {
+    "soal": "Danau terbesar di Indonesia adalah?",
+    "jawaban": "Toba"
+  },
+  {
+    "soal": "Selat yang memisahkan Pulau Jawa dan Sumatra adalah?",
+    "jawaban": "Selat Sunda"
+  },
+  {
+    "soal": "Selat yang memisahkan Pulau Sumatra dan Semenanjung Malaka adalah?",
+    "jawaban": "Selat Malaka"
+  },
+  {
+    "soal": "Laut yang memisahkan Pulau Jawa dan Kalimantan adalah?",
+    "jawaban": "Laut Jawa"
+  },
+  {
+    "soal": "Samudra di sebelah barat Pulau Sumatra adalah?",
+    "jawaban": "Samudra Hindia"
+  },
+  {
+    "soal": "Samudra di sebelah utara Pulau Papua adalah?",
+    "jawaban": "Samudra Pasifik"
+  },
+  {
+    "soal": "Indonesia terletak di antara dua benua yaitu?",
+    "jawaban": "Asia dan Australia"
+  },
+  {
+    "soal": "Indonesia terletak di antara dua samudra yaitu?",
+    "jawaban": "Hindia dan Pasifik"
+  },
+  {
+    "soal": "Garis khatulistiwa melintasi pulau apa di Indonesia?",
+    "jawaban": "Kalimantan, Sulawesi, Sumatra"
+  },
+  {
+    "soal": "Indonesia memiliki iklim?",
+    "jawaban": "Tropis"
+  },
+  {
+    "soal": "Dua musim di Indonesia adalah?",
+    "jawaban": "Hujan dan kemarau"
+  },
+  {
+    "soal": "Angin muson barat menyebabkan musim?",
+    "jawaban": "Hujan"
+  },
+  {
+    "soal": "Angin muson timur menyebabkan musim?",
+    "jawaban": "Kemarau"
+  },
+  {
+    "soal": "Fauna tipe Asiatis (barat) contohnya?",
+    "jawaban": "Harimau, gajah, badak"
+  },
+  {
+    "soal": "Fauna tipe Australis (timur) contohnya?",
+    "jawaban": "Kangguru, kasuari, cendrawasih"
+  },
+  {
+    "soal": "Garis pemisah fauna Asiatis dan Australis disebut?",
+    "jawaban": "Garis Wallace"
+  },
+  {
+    "soal": "Garis pemisah flora dan fauna di Indonesia bagian barat dan tengah disebut?",
+    "jawaban": "Garis Weber"
+  },
+  {
+    "soal": "Suku bangsa terbesar di Indonesia adalah?",
+    "jawaban": "Jawa"
+  },
+  {
+    "soal": "Bahasa persatuan Indonesia adalah?",
+    "jawaban": "Bahasa Indonesia"
+  },
+  {
+    "soal": "Agama yang dianut mayoritas penduduk Indonesia adalah?",
+    "jawaban": "Islam"
+  },
+  {
+    "soal": "Rumah adat Jawa Barat adalah?",
+    "jawaban": "Rumah Jolopong"
+  },
+  {
+    "soal": "Rumah adat Sumatera Barat adalah?",
+    "jawaban": "Rumah Gadang"
+  },
+  {
+    "soal": "Rumah adat Betawi adalah?",
+    "jawaban": "Rumah Kebaya"
+  },
+  {
+    "soal": "Tari Saman berasal dari provinsi?",
+    "jawaban": "Aceh"
+  },
+  {
+    "soal": "Tari Pendet berasal dari pulau?",
+    "jawaban": "Bali"
+  },
+  {
+    "soal": "Tari Kecak berasal dari pulau?",
+    "jawaban": "Bali"
+  },
+  {
+    "soal": "Alat musik angklung berasal dari provinsi?",
+    "jawaban": "Jawa Barat"
+  },
+  {
+    "soal": "Alat musik gamelan berasal dari pulau?",
+    "jawaban": "Jawa"
+  },
+  {
+    "soal": "Semboyan negara Indonesia adalah?",
+    "jawaban": "Bhinneka Tunggal Ika"
+  },
+  {
+    "soal": "Lambang negara Indonesia adalah?",
+    "jawaban": "Garuda Pancasila"
+  },
+  {
+    "soal": "Dasar negara Indonesia adalah?",
+    "jawaban": "Pancasila"
+  },
+  {
+    "soal": "Bendera negara Indonesia adalah?",
+    "jawaban": "Merah Putih"
+  },
+  {
+    "soal": "Lagu kebangsaan Indonesia adalah?",
+    "jawaban": "Indonesia Raya"
+  },
+  {
+    "soal": "Hari kemerdekaan Indonesia diperingati setiap tanggal?",
+    "jawaban": "17 Agustus"
+  },
+  {
+    "soal": "Proklamasi kemerdekaan Indonesia dibacakan oleh?",
+    "jawaban": "Soekarno dan Hatta"
+  },
+  {
+    "soal": "Tempat pembacaan proklamasi kemerdekaan Indonesia adalah?",
+    "jawaban": "Jalan Pegangsaan Timur 56, Jakarta"
+  },
+  {
+    "soal": "Naskah proklamasi ditulis oleh?",
+    "jawaban": "Soekarno"
+  },
+  {
+    "soal": "Naskah proklamasi diketik oleh?",
+    "jawaban": "Sayuti Melik"
+  },
+  {
+    "soal": "Sumpah Pemuda diikrarkan pada tahun?",
+    "jawaban": "1928"
+  },
+  {
+    "soal": "Sumpah Pemuda tanggal?",
+    "jawaban": "28 Oktober"
+  },
+  {
+    "soal": "Tokoh tiga serangkai (tiga pendiri bangsa) adalah?",
+    "jawaban": "Soekarno, Hatta, Sutan Syahrir"
+  },
+  {
+    "soal": "Peristiwa Rengasdengklok bertujuan untuk?",
+    "jawaban": "Mendesak Soekarno-Hatta memproklamasikan kemerdekaan"
+  },
+  {
+    "soal": "Perang Diponegoro terjadi pada tahun?",
+    "jawaban": "1825-1830"
+  },
+  {
+    "soal": "Perang Padri terjadi di wilayah?",
+    "jawaban": "Sumatera Barat"
+  },
+  {
+    "soal": "Perang Aceh melawan Belanda dipimpin oleh?",
+    "jawaban": "Teuku Umar dan Cut Nyak Dhien"
+  },
+  {
+    "soal": "Organisasi Budi Utomo berdiri pada tahun?",
+    "jawaban": "1908"
+  },
+  {
+    "soal": "Organisasi Sumpah Pemuda adalah?",
+    "jawaban": "Indonesia Muda"
+  },
+  {
+    "soal": "VOC adalah kongsi dagang dari negara?",
+    "jawaban": "Belanda"
+  },
+  {
+    "soal": "VOC dibubarkan pada tahun?",
+    "jawaban": "1799"
+  },
+  {
+    "soal": "Sistem tanam paksa (cultuurstelsel) diterapkan oleh?",
+    "jawaban": "Belanda"
+  },
+  {
+    "soal": "Politik etis (balas budi) diterapkan Belanda pada tahun?",
+    "jawaban": "1901"
+  },
+  {
+    "soal": "Penjajahan Jepang di Indonesia berlangsung tahun?",
+    "jawaban": "1942-1945"
+  },
+  {
+    "soal": "BPUPKI dibentuk oleh Jepang pada tanggal?",
+    "jawaban": "1 Maret 1945"
+  },
+  {
+    "soal": "PPKI dibentuk pada tanggal?",
+    "jawaban": "7 Agustus 1945"
+  },
+  {
+    "soal": "Pemimpin redaksi surat kabar 'Indonesia Raya' yang terkenal adalah?",
+    "jawaban": "Bung Tomo"
+  },
+  {
+    "soal": "Aksi militer Belanda I (Agresi Militer Belanda I) terjadi tahun?",
+    "jawaban": "1947"
+  },
+  {
+    "soal": "Aksi militer Belanda II (Agresi Militer Belanda II) terjadi tahun?",
+    "jawaban": "1948"
+  },
+  {
+    "soal": "Perjanjian Linggarjati ditandatangani tahun?",
+    "jawaban": "1947"
+  },
+  {
+    "soal": "Perjanjian Renville ditandatangani tahun?",
+    "jawaban": "1948"
+  },
+  {
+    "soal": "Konferensi Meja Bundar (KMB) menghasilkan pengakuan kedaulatan Indonesia tahun?",
+    "jawaban": "1949"
+  },
+  {
+    "soal": "G30S/PKI terjadi pada tahun?",
+    "jawaban": "1965"
+  },
+  {
+    "soal": "Reformasi 1998 jatuhnya pemerintahan?",
+    "jawaban": "Soeharto"
+  },
+  {
+    "soal": "Contoh gunung api di Indonesia yang terkenal adalah?",
+    "jawaban": "Merapi"
+  },
+  {
+    "soal": "Contoh gunung api di Indonesia yang terkenal di Jawa Timur adalah?",
+    "jawaban": "Kelud"
+  },
+  {
+    "soal": "Contoh gunung api di Sumatera Utara adalah?",
+    "jawaban": "Sinabung"
+  },
+  {
+    "soal": "Pulau terbesar di Indonesia adalah?",
+    "jawaban": "Papua"
+  },
+  {
+    "soal": "Pulau terpadat di Indonesia adalah?",
+    "jawaban": "Jawa"
+  },
+  {
+    "soal": "Hasil tambang utama Indonesia adalah?",
+    "jawaban": "Minyak bumi, batu bara, gas alam"
+  },
+  {
+    "soal": "Hasil pertanian utama Indonesia adalah?",
+    "jawaban": "Padi"
+  },
+  {
+    "soal": "Hasil perkebunan utama Indonesia adalah?",
+    "jawaban": "Kelapa sawit, karet, kopi, teh"
+  },
+  {
+    "soal": "Indonesia adalah negara agraris karena?",
+    "jawaban": "Mayoritas penduduknya bercocok tanam"
+  },
+  {
+    "soal": "Indonesia adalah negara maritim karena?",
+    "jawaban": "Wilayah lautnya luas"
+  },
+  {
+    "soal": "Zona Ekonomi Eksklusif (ZEE) Indonesia adalah?",
+    "jawaban": "200 mil laut dari garis pantai"
+  },
+  {
+    "soal": "Laut teritorial Indonesia adalah?",
+    "jawaban": "12 mil laut dari garis pantai"
+  }
+]
