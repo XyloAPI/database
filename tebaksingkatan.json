@@ -1,0 +1,850 @@
+[
+  {
+    "soal": "KAI",
+    "jawaban": "Kereta Api Indonesia"
+  },
+  {
+    "soal": "MUI",
+    "jawaban": "Majelis Ulama Indonesia"
+  },
+  {
+    "soal": "PSSI",
+    "jawaban": "Persatuan Sepak Bola Seluruh Indonesia"
+  },
+  {
+    "soal": "KPK",
+    "jawaban": "Komisi Pemberantasan Korupsi"
+  },
+  {
+    "soal": "DPR",
+    "jawaban": "Dewan Perwakilan Rakyat"
+  },
+  {
+    "soal": "MPR",
+    "jawaban": "Majelis Permusyawaratan Rakyat"
+  },
+  {
+    "soal": "BPK",
+    "jawaban": "Badan Pemeriksa Keuangan"
+  },
+  {
+    "soal": "MA",
+    "jawaban": "Mahkamah Agung"
+  },
+  {
+    "soal": "MK",
+    "jawaban": "Mahkamah Konstitusi"
+  },
+  {
+    "soal": "KY",
+    "jawaban": "Komisi Yudisial"
+  },
+  {
+    "soal": "WHO",
+    "jawaban": "World Health Organization"
+  },
+  {
+    "soal": "UNESCO",
+    "jawaban": "United Nations Educational Scientific and Cultural Organization"
+  },
+  {
+    "soal": "IMF",
+    "jawaban": "International Monetary Fund"
+  },
+  {
+    "soal": "WTO",
+    "jawaban": "World Trade Organization"
+  },
+  {
+    "soal": "ASEAN",
+    "jawaban": "Association of Southeast Asian Nations"
+  },
+  {
+    "soal": "APEC",
+    "jawaban": "Asia Pacific Economic Cooperation"
+  },
+  {
+    "soal": "FIFA",
+    "jawaban": "Federation Internationale de Football Association"
+  },
+  {
+    "soal": "NATO",
+    "jawaban": "North Atlantic Treaty Organization"
+  },
+  {
+    "soal": "OPEC",
+    "jawaban": "Organization of Petroleum Exporting Countries"
+  },
+  {
+    "soal": "ILO",
+    "jawaban": "International Labour Organization"
+  },
+  {
+    "soal": "FAO",
+    "jawaban": "Food and Agriculture Organization"
+  },
+  {
+    "soal": "UNICEF",
+    "jawaban": "United Nations Children's Fund"
+  },
+  {
+    "soal": "UNDP",
+    "jawaban": "United Nations Development Programme"
+  },
+  {
+    "soal": "UNHCR",
+    "jawaban": "United Nations High Commissioner for Refugees"
+  },
+  {
+    "soal": "WIPO",
+    "jawaban": "World Intellectual Property Organization"
+  },
+  {
+    "soal": "ADB",
+    "jawaban": "Asian Development Bank"
+  },
+  {
+    "soal": "ABRI",
+    "jawaban": "Angkatan Bersenjata Republik Indonesia"
+  },
+  {
+    "soal": "TNI",
+    "jawaban": "Tentara Nasional Indonesia"
+  },
+  {
+    "soal": "POLRI",
+    "jawaban": "Kepolisian Republik Indonesia"
+  },
+  {
+    "soal": "AIDS",
+    "jawaban": "Acquired Immune Deficiency Syndrome"
+  },
+  {
+    "soal": "APBD",
+    "jawaban": "Anggaran Pendapatan dan Belanja Daerah"
+  },
+  {
+    "soal": "APBN",
+    "jawaban": "Anggaran Pendapatan dan Belanja Negara"
+  },
+  {
+    "soal": "ASI",
+    "jawaban": "Air Susu Ibu"
+  },
+  {
+    "soal": "BAPPENAS",
+    "jawaban": "Badan Perencanaan Pembangunan Nasional"
+  },
+  {
+    "soal": "BARESKRIM",
+    "jawaban": "Badan Reserse Kriminal"
+  },
+  {
+    "soal": "BBM",
+    "jawaban": "Bahan Bakar Minyak"
+  },
+  {
+    "soal": "BIN",
+    "jawaban": "Badan Intelijen Negara"
+  },
+  {
+    "soal": "BKPM",
+    "jawaban": "Badan Koordinasi Penanaman Modal"
+  },
+  {
+    "soal": "BKKBN",
+    "jawaban": "Badan Koordinasi Keluarga Berencana Nasional"
+  },
+  {
+    "soal": "BMKG",
+    "jawaban": "Badan Meteorologi Klimatologi dan Geofisika"
+  },
+  {
+    "soal": "BNI",
+    "jawaban": "Bank Nasional Indonesia"
+  },
+  {
+    "soal": "BNPT",
+    "jawaban": "Badan Nasional Penanggulangan Terorisme"
+  },
+  {
+    "soal": "BPBD",
+    "jawaban": "Badan Penanggulangan Bencana Daerah"
+  },
+  {
+    "soal": "BPJS",
+    "jawaban": "Badan Penyelenggara Jaminan Sosial"
+  },
+  {
+    "soal": "BRI",
+    "jawaban": "Bank Rakyat Indonesia"
+  },
+  {
+    "soal": "BSN",
+    "jawaban": "Badan Standardisasi Nasional"
+  },
+  {
+    "soal": "BTN",
+    "jawaban": "Bank Tabungan Negara"
+  },
+  {
+    "soal": "BUMN",
+    "jawaban": "Badan Usaha Milik Negara"
+  },
+  {
+    "soal": "BUMD",
+    "jawaban": "Badan Usaha Milik Daerah"
+  },
+  {
+    "soal": "BWI",
+    "jawaban": "Badan Wakaf Indonesia"
+  },
+  {
+    "soal": "CNN",
+    "jawaban": "Cable News Network"
+  },
+  {
+    "soal": "COVID",
+    "jawaban": "Coronavirus Disease"
+  },
+  {
+    "soal": "CPU",
+    "jawaban": "Central Processing Unit"
+  },
+  {
+    "soal": "CT",
+    "jawaban": "Computed Tomography"
+  },
+  {
+    "soal": "CV",
+    "jawaban": "Curriculum Vitae"
+  },
+  {
+    "soal": "DENSUS",
+    "jawaban": "Detasemen Khusus"
+  },
+  {
+    "soal": "DIY",
+    "jawaban": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "soal": "DPD",
+    "jawaban": "Dewan Perwakilan Daerah"
+  },
+  {
+    "soal": "DPO",
+    "jawaban": "Daftar Pencarian Orang"
+  },
+  {
+    "soal": "DPRD",
+    "jawaban": "Dewan Perwakilan Rakyat Daerah"
+  },
+  {
+    "soal": "DPT",
+    "jawaban": "Daftar Pemilih Tetap"
+  },
+  {
+    "soal": "DVD",
+    "jawaban": "Digital Versatile Disc"
+  },
+  {
+    "soal": "E-KTP",
+    "jawaban": "Elektronik Kartu Tanda Penduduk"
+  },
+  {
+    "soal": "EL NINO",
+    "jawaban": "El Nino Southern Oscillation"
+  },
+  {
+    "soal": "FBI",
+    "jawaban": "Federal Bureau of Investigation"
+  },
+  {
+    "soal": "FBR",
+    "jawaban": "Forum Betawi Rempug"
+  },
+  {
+    "soal": "FPI",
+    "jawaban": "Front Pembela Islam"
+  },
+  {
+    "soal": "GBHN",
+    "jawaban": "Garis Garis Besar Haluan Negara"
+  },
+  {
+    "soal": "GDPR",
+    "jawaban": "General Data Protection Regulation"
+  },
+  {
+    "soal": "GNP",
+    "jawaban": "Gross National Product"
+  },
+  {
+    "soal": "GPS",
+    "jawaban": "Global Positioning System"
+  },
+  {
+    "soal": "HAM",
+    "jawaban": "Hak Asasi Manusia"
+  },
+  {
+    "soal": "HGB",
+    "jawaban": "Hak Guna Bangunan"
+  },
+  {
+    "soal": "HGU",
+    "jawaban": "Hak Guna Usaha"
+  },
+  {
+    "soal": "HIV",
+    "jawaban": "Human Immunodeficiency Virus"
+  },
+  {
+    "soal": "HKI",
+    "jawaban": "Hak Kekayaan Intelektual"
+  },
+  {
+    "soal": "HPL",
+    "jawaban": "Hari Perkiraan Lahir"
+  },
+  {
+    "soal": "HPHT",
+    "jawaban": "Hari Pertama Haid Terakhir"
+  },
+  {
+    "soal": "HTML",
+    "jawaban": "HyperText Markup Language"
+  },
+  {
+    "soal": "HTTP",
+    "jawaban": "HyperText Transfer Protocol"
+  },
+  {
+    "soal": "ICW",
+    "jawaban": "Indonesia Corruption Watch"
+  },
+  {
+    "soal": "IDI",
+    "jawaban": "Ikatan Dokter Indonesia"
+  },
+  {
+    "soal": "IKN",
+    "jawaban": "Ibu Kota Nusantara"
+  },
+  {
+    "soal": "IMT",
+    "jawaban": "Indeks Massa Tubuh"
+  },
+  {
+    "soal": "IP",
+    "jawaban": "Internet Protocol"
+  },
+  {
+    "soal": "IPAL",
+    "jawaban": "Instalasi Pengolahan Air Limbah"
+  },
+  {
+    "soal": "IPK",
+    "jawaban": "Indeks Prestasi Kumulatif"
+  },
+  {
+    "soal": "IPTV",
+    "jawaban": "Internet Protocol Television"
+  },
+  {
+    "soal": "IQ",
+    "jawaban": "Intelligence Quotient"
+  },
+  {
+    "soal": "ISP",
+    "jawaban": "Internet Service Provider"
+  },
+  {
+    "soal": "IUP",
+    "jawaban": "Izin Usaha Pertambangan"
+  },
+  {
+    "soal": "JAS",
+    "jawaban": "Jawa Asli Solo"
+  },
+  {
+    "soal": "KBBI",
+    "jawaban": "Kamus Besar Bahasa Indonesia"
+  },
+  {
+    "soal": "Kemenkeu",
+    "jawaban": "Kementerian Keuangan"
+  },
+  {
+    "soal": "Kemenkes",
+    "jawaban": "Kementerian Kesehatan"
+  },
+  {
+    "soal": "Kemendikbud",
+    "jawaban": "Kementerian Pendidikan dan Kebudayaan"
+  },
+  {
+    "soal": "Kemensos",
+    "jawaban": "Kementerian Sosial"
+  },
+  {
+    "soal": "KIM",
+    "jawaban": "Kelompok Informasi Masyarakat"
+  },
+  {
+    "soal": "KNCU",
+    "jawaban": "Kongres Nasional Serikat Buruh"
+  },
+  {
+    "soal": "KONI",
+    "jawaban": "Komite Olahraga Nasional Indonesia"
+  },
+  {
+    "soal": "KP",
+    "jawaban": "Keputusan Presiden"
+  },
+  {
+    "soal": "KPA",
+    "jawaban": "Komisi Pemberantasan Aids"
+  },
+  {
+    "soal": "KPI",
+    "jawaban": "Komisi Penyiaran Indonesia"
+  },
+  {
+    "soal": "KPK",
+    "jawaban": "Komisi Pemberantasan Korupsi"
+  },
+  {
+    "soal": "KPN",
+    "jawaban": "Komisi Pemilihan Nasional"
+  },
+  {
+    "soal": "KPPU",
+    "jawaban": "Komisi Pengawas Persaingan Usaha"
+  },
+  {
+    "soal": "KPU",
+    "jawaban": "Komisi Pemilihan Umum"
+  },
+  {
+    "soal": "KUHAP",
+    "jawaban": "Kitab Undang-undang Hukum Acara Pidana"
+  },
+  {
+    "soal": "KUHP",
+    "jawaban": "Kitab Undang-undang Hukum Pidana"
+  },
+  {
+    "soal": "KUHPer",
+    "jawaban": "Kitab Undang-undang Hukum Perdata"
+  },
+  {
+    "soal": "LAPAN",
+    "jawaban": "Lembaga Penerbangan dan Antariksa Nasional"
+  },
+  {
+    "soal": "LIPI",
+    "jawaban": "Lembaga Ilmu Pengetahuan Indonesia"
+  },
+  {
+    "soal": "LHKPN",
+    "jawaban": "Laporan Harta Kekayaan Penyelenggara Negara"
+  },
+  {
+    "soal": "LJK",
+    "jawaban": "Lembaga Jasa Keuangan"
+  },
+  {
+    "soal": "LKE",
+    "jawaban": "Lembaga Kearsipan Eksternal"
+  },
+  {
+    "soal": "LKS",
+    "jawaban": "Lembar Kerja Siswa"
+  },
+  {
+    "soal": "LPDB",
+    "jawaban": "Lembaga Pengelola Dana Bergulir"
+  },
+  {
+    "soal": "LPR",
+    "jawaban": "Lembaga Penyiaran Publik"
+  },
+  {
+    "soal": "LPS",
+    "jawaban": "Lembaga Penjamin Simpanan"
+  },
+  {
+    "soal": "LSM",
+    "jawaban": "Lembaga Swadaya Masyarakat"
+  },
+  {
+    "soal": "MA",
+    "jawaban": "Mahkamah Agung"
+  },
+  {
+    "soal": "Masyarakat Ekonomi Eropa",
+    "jawaban": "MEE"
+  },
+  {
+    "soal": "MEGI",
+    "jawaban": "Masyarakat Ekonomi Global Islam"
+  },
+  {
+    "soal": "MenPAN RB",
+    "jawaban": "Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi"
+  },
+  {
+    "soal": "MEP",
+    "jawaban": "Musyawarah Perencanaan Pembangunan"
+  },
+  {
+    "soal": "MES",
+    "jawaban": "Masyarakat Ekonomi Syariah"
+  },
+  {
+    "soal": "MK",
+    "jawaban": "Mahkamah Konstitusi"
+  },
+  {
+    "soal": "MKD",
+    "jawaban": "Mahkamah Kehormatan Dewan"
+  },
+  {
+    "soal": "MP3EI",
+    "jawaban": "Masterplan Percepatan dan Perluasan Pembangunan Ekonomi Indonesia"
+  },
+  {
+    "soal": "MPR",
+    "jawaban": "Majelis Permusyawaratan Rakyat"
+  },
+  {
+    "soal": "MRT",
+    "jawaban": "Mass Rapid Transit"
+  },
+  {
+    "soal": "MUI",
+    "jawaban": "Majelis Ulama Indonesia"
+  },
+  {
+    "soal": "NASA",
+    "jawaban": "National Aeronautics and Space Administration"
+  },
+  {
+    "soal": "NGO",
+    "jawaban": "Non Governmental Organization"
+  },
+  {
+    "soal": "NKRI",
+    "jawaban": "Negara Kesatuan Republik Indonesia"
+  },
+  {
+    "soal": "NRE",
+    "jawaban": "Nuclear Reaction Energy"
+  },
+  {
+    "soal": "NTP",
+    "jawaban": "Nilai Tukar Petani"
+  },
+  {
+    "soal": "NU",
+    "jawaban": "Nahdlatul Ulama"
+  },
+  {
+    "soal": "OJK",
+    "jawaban": "Otoritas Jasa Keuangan"
+  },
+  {
+    "soal": "P3K",
+    "jawaban": "Pertolongan Pertama Pada Kecelakaan"
+  },
+  {
+    "soal": "PAUD",
+    "jawaban": "Pendidikan Anak Usia Dini"
+  },
+  {
+    "soal": "PBB",
+    "jawaban": "Perserikatan Bangsa Bangsa"
+  },
+  {
+    "soal": "PBNU",
+    "jawaban": "Pengurus Besar Nahdlatul Ulama"
+  },
+  {
+    "soal": "PBR",
+    "jawaban": "Partai Bintang Reformasi"
+  },
+  {
+    "soal": "PDI Perjuangan",
+    "jawaban": "Partai Demokrasi Indonesia Perjuangan"
+  },
+  {
+    "soal": "PEG",
+    "jawaban": "Pegawai"
+  },
+  {
+    "soal": "PEMDA",
+    "jawaban": "Pemerintah Daerah"
+  },
+  {
+    "soal": "PEMKOT",
+    "jawaban": "Pemerintah Kota"
+  },
+  {
+    "soal": "PEMPROV",
+    "jawaban": "Pemerintah Provinsi"
+  },
+  {
+    "soal": "PEPABRI",
+    "jawaban": "Persatuan Purnawirawan ABRI"
+  },
+  {
+    "soal": "PERADI",
+    "jawaban": "Perhimpunan Advokat Indonesia"
+  },
+  {
+    "soal": "PERURI",
+    "jawaban": "Perusahaan Umum Percetakan Uang Republik Indonesia"
+  },
+  {
+    "soal": "PGN",
+    "jawaban": "Perusahaan Gas Negara"
+  },
+  {
+    "soal": "PHDI",
+    "jawaban": "Parisada Hindu Dharma Indonesia"
+  },
+  {
+    "soal": "PII",
+    "jawaban": "Persatuan Insinyur Indonesia"
+  },
+  {
+    "soal": "PKB",
+    "jawaban": "Partai Kebangkitan Bangsa"
+  },
+  {
+    "soal": "PKBI",
+    "jawaban": "Perkumpulan Keluarga Berencana Indonesia"
+  },
+  {
+    "soal": "PKI",
+    "jawaban": "Partai Komunis Indonesia"
+  },
+  {
+    "soal": "PKK",
+    "jawaban": "Pembinaan Kesejahteraan Keluarga"
+  },
+  {
+    "soal": "PLN",
+    "jawaban": "Perusahaan Listrik Negara"
+  },
+  {
+    "soal": "PMI",
+    "jawaban": "Palang Merah Indonesia"
+  },
+  {
+    "soal": "PMS",
+    "jawaban": "Premenstrual Syndrome"
+  },
+  {
+    "soal": "PNS",
+    "jawaban": "Pegawai Negeri Sipil"
+  },
+  {
+    "soal": "POM",
+    "jawaban": "Pengawasan Obat dan Makanan"
+  },
+  {
+    "soal": "PON",
+    "jawaban": "Pekan Olahraga Nasional"
+  },
+  {
+    "soal": "PP",
+    "jawaban": "Peraturan Pemerintah"
+  },
+  {
+    "soal": "PPATK",
+    "jawaban": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
+  },
+  {
+    "soal": "PPKI",
+    "jawaban": "Panitia Persiapan Kemerdekaan Indonesia"
+  },
+  {
+    "soal": "PPL",
+    "jawaban": "Pestisida Pertanian Lapangan"
+  },
+  {
+    "soal": "PPLN",
+    "jawaban": "Panitia Pemilihan Luar Negeri"
+  },
+  {
+    "soal": "PPP",
+    "jawaban": "Partai Persatuan Pembangunan"
+  },
+  {
+    "soal": "PR",
+    "jawaban": "Pekerjaan Rumah"
+  },
+  {
+    "soal": "PT",
+    "jawaban": "Perseroan Terbatas"
+  },
+  {
+    "soal": "PTK",
+    "jawaban": "Penelitian Tindakan Kelas"
+  },
+  {
+    "soal": "PTSL",
+    "jawaban": "Pendaftaran Tanah Sistematis Lengkap"
+  },
+  {
+    "soal": "PWI",
+    "jawaban": "Persatuan Wartawan Indonesia"
+  },
+  {
+    "soal": "RAPBD",
+    "jawaban": "Rancangan Anggaran Pendapatan dan Belanja Daerah"
+  },
+  {
+    "soal": "RAPBN",
+    "jawaban": "Rancangan Anggaran Pendapatan dan Belanja Negara"
+  },
+  {
+    "soal": "RCTI",
+    "jawaban": "Rajawali Citra Televisi Indonesia"
+  },
+  {
+    "soal": "RDB",
+    "jawaban": "Rancangan Data Base"
+  },
+  {
+    "soal": "RDP",
+    "jawaban": "Rapat Dengar Pendapat"
+  },
+  {
+    "soal": "Rekom",
+    "jawaban": "Rekomendasi"
+  },
+  {
+    "soal": "RKA",
+    "jawaban": "Rencana Kerja dan Anggaran"
+  },
+  {
+    "soal": "RMI",
+    "jawaban": "Radio Moslem Indonesia"
+  },
+  {
+    "soal": "RMP",
+    "jawaban": "Rencana Makro Perencanaan"
+  },
+  {
+    "soal": "RRI",
+    "jawaban": "Radio Republik Indonesia"
+  },
+  {
+    "soal": "RS",
+    "jawaban": "Rumah Sakit"
+  },
+  {
+    "soal": "RSBI",
+    "jawaban": "Rumah Sakit Badan Layanan Umum"
+  },
+  {
+    "soal": "RSJ",
+    "jawaban": "Rumah Sakit Jiwa"
+  },
+  {
+    "soal": "RSK",
+    "jawaban": "Rumah Sakit Kusta"
+  },
+  {
+    "soal": "RSU",
+    "jawaban": "Rumah Sakit Umum"
+  },
+  {
+    "soal": "RSUD",
+    "jawaban": "Rumah Sakit Umum Daerah"
+  },
+  {
+    "soal": "SARA",
+    "jawaban": "Suku Agama Ras Antar golongan"
+  },
+  {
+    "soal": "SARS",
+    "jawaban": "Severe Acute Respiratory Syndrome"
+  },
+  {
+    "soal": "SATPAM",
+    "jawaban": "Satuan Pengamanan"
+  },
+  {
+    "soal": "SD",
+    "jawaban": "Sekolah Dasar"
+  },
+  {
+    "soal": "SDA",
+    "jawaban": "Sumber Daya Alam"
+  },
+  {
+    "soal": "SDM",
+    "jawaban": "Sumber Daya Manusia"
+  },
+  {
+    "soal": "Semen",
+    "jawaban": "Saran dan Masukan"
+  },
+  {
+    "soal": "SERDOS",
+    "jawaban": "Sertifikasi Dosen"
+  },
+  {
+    "soal": "SERKOM",
+    "jawaban": "Sertifikasi Kompetensi"
+  },
+  {
+    "soal": "SERPAN",
+    "jawaban": "Sertifikasi Panitia"
+  },
+  {
+    "soal": "SERPIL",
+    "jawaban": "Sertifikasi Pilkada"
+  },
+  {
+    "soal": "SES",
+    "jawaban": "Sekretariat Eksekutif"
+  },
+  {
+    "soal": "SESKAB",
+    "jawaban": "Sekretariat Kabinet"
+  },
+  {
+    "soal": "SESMEN",
+    "jawaban": "Sekretariat Menteri"
+  },
+  {
+    "soal": "SESNEG",
+    "jawaban": "Sekretariat Negara"
+  },
+  {
+    "soal": "SGPS",
+    "jawaban": "Satuan Gajah Pokok"
+  },
+  {
+    "soal": "SHP",
+    "jawaban": "Surat Keputusan Hakim"
+  },
+  {
+    "soal": "SIA",
+    "jawaban": "Sistem Informasi Administrasi"
+  },
+  {
+    "soal": "SIM",
+    "jawaban": "Surat Izin Mengemudi"
+  },
+  {
+    "soal": "SIMPATIK",
+    "jawaban": "Sistem Informasi Manajemen Pendidikan Terintegrasi"
+  }
+]
