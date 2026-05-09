@@ -1,0 +1,758 @@
+[
+  {
+    "soal": "Sumbu simetri dari fungsi kuadrat f(x) = x² - 4x + 3 adalah?",
+    "jawaban": "x = 2"
+  },
+  {
+    "soal": "Nilai maksimum dari fungsi f(x) = -x² + 4x - 1 adalah?",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Akar-akar persamaan kuadrat x² - 5x + 6 = 0 adalah?",
+    "jawaban": "2 dan 3"
+  },
+  {
+    "soal": "Persamaan kuadrat yang akar-akarnya -2 dan 4 adalah?",
+    "jawaban": "x² - 2x - 8 = 0"
+  },
+  {
+    "soal": "Nilai diskriminan dari persamaan 2x² - 3x + 1 = 0 adalah?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Akar-akar persamaan 2x² - 4x + 2 = 0 bersifat?",
+    "jawaban": "Kembar (real sama)"
+  },
+  {
+    "soal": "Jika x₁ dan x₂ adalah akar x² - 7x + 12 = 0, maka x₁ + x₂ = ?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Jika x₁ dan x₂ adalah akar x² + 5x - 14 = 0, maka x₁ × x₂ = ?",
+    "jawaban": "-14"
+  },
+  {
+    "soal": "Nilai dari 2 log 8 = ?",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Nilai dari 3 log 81 = ?",
+    "jawaban": "4"
+  },
+  {
+    "soal": "Nilai dari log 1000 = ?",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Nilai dari ln e⁵ = ?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Nilai dari 2 log 32 + 2 log 4 = ?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Nilai dari 3 log 54 - 3 log 2 = ?",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Bentuk logaritma dari 2⁵ = 32 adalah?",
+    "jawaban": "2 log 32 = 5"
+  },
+  {
+    "soal": "Nilai x yang memenuhi 2 log x = 4 adalah?",
+    "jawaban": "16"
+  },
+  {
+    "soal": "Nilai x yang memenuhi log (x-1) = 2 adalah?",
+    "jawaban": "101"
+  },
+  {
+    "soal": "Sederhanakan ½ log 16 = ?",
+    "jawaban": "-4"
+  },
+  {
+    "soal": "Nilai dari 2 log 3 × 3 log 16 = ?",
+    "jawaban": "4"
+  },
+  {
+    "soal": "Nilai dari ⁵ log 2 × ² log 25 = ?",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Nilai dari ³ log 81 + ³ log 9 = ?",
+    "jawaban": "6"
+  },
+  {
+    "soal": "Bentuk sederhana dari (a²b³)⁴ adalah?",
+    "jawaban": "a⁸b¹²"
+  },
+  {
+    "soal": "Nilai dari (2³)² = ?",
+    "jawaban": "64"
+  },
+  {
+    "soal": "Nilai dari (½)⁻³ = ?",
+    "jawaban": "8"
+  },
+  {
+    "soal": "Bentuk sederhana dari √18 + √50 - √72 = ?",
+    "jawaban": "2√2"
+  },
+  {
+    "soal": "Bentuk rasional dari 3/(√5 - √2) adalah?",
+    "jawaban": "√5 + √2"
+  },
+  {
+    "soal": "Nilai dari (√3 + √2)(√3 - √2) = ?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Nilai dari 5 log 125 - 5 log 25 = ?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Nilai dari (3⁴)/(3²) = ?",
+    "jawaban": "9"
+  },
+  {
+    "soal": "Nilai dari (2 × 10⁵) × (3 × 10²) dalam notasi ilmiah adalah?",
+    "jawaban": "6 × 10⁷"
+  },
+  {
+    "soal": "Sin 30° = ?",
+    "jawaban": "1/2"
+  },
+  {
+    "soal": "Cos 60° = ?",
+    "jawaban": "1/2"
+  },
+  {
+    "soal": "Tan 45° = ?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Sin 120° = ?",
+    "jawaban": "½√3"
+  },
+  {
+    "soal": "Cos 150° = ?",
+    "jawaban": "-½√3"
+  },
+  {
+    "soal": "Tan 135° = ?",
+    "jawaban": "-1"
+  },
+  {
+    "soal": "Sin 180° = ?",
+    "jawaban": "0"
+  },
+  {
+    "soal": "Cos 360° = ?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Sin² x + Cos² x = ?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Sec x adalah kebalikan dari?",
+    "jawaban": "Cos x"
+  },
+  {
+    "soal": "Cosec x adalah kebalikan dari?",
+    "jawaban": "Sin x"
+  },
+  {
+    "soal": "Cot x adalah kebalikan dari?",
+    "jawaban": "Tan x"
+  },
+  {
+    "soal": "Identitas 1 + tan² x = ?",
+    "jawaban": "sec² x"
+  },
+  {
+    "soal": "Identitas 1 + cot² x = ?",
+    "jawaban": "cosec² x"
+  },
+  {
+    "soal": "Limit x mendekati 2 dari (x² - 4)/(x - 2) = ?",
+    "jawaban": "4"
+  },
+  {
+    "soal": "Limit x mendekati 0 dari sin x / x = ?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Limit x mendekati 0 dari tan x / x = ?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Limit x mendekati ~ dari (3x² + 2x + 1)/(x² + 1) = ?",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Limit x mendekati 0 dari (1 - cos x)/x² = ?",
+    "jawaban": "1/2"
+  },
+  {
+    "soal": "Turunan dari f(x) = 3x² + 2x - 1 adalah?",
+    "jawaban": "f'(x) = 6x + 2"
+  },
+  {
+    "soal": "Turunan dari f(x) = 5x⁴ adalah?",
+    "jawaban": "20x³"
+  },
+  {
+    "soal": "Turunan dari f(x) = 2x³ - 4x² + 3x - 7 adalah?",
+    "jawaban": "6x² - 8x + 3"
+  },
+  {
+    "soal": "Turunan dari f(x) = sin x adalah?",
+    "jawaban": "cos x"
+  },
+  {
+    "soal": "Turunan dari f(x) = cos x adalah?",
+    "jawaban": "-sin x"
+  },
+  {
+    "soal": "Turunan dari f(x) = tan x adalah?",
+    "jawaban": "sec² x"
+  },
+  {
+    "soal": "Turunan dari f(x) = e^x adalah?",
+    "jawaban": "e^x"
+  },
+  {
+    "soal": "Turunan dari f(x) = ln x adalah?",
+    "jawaban": "1/x"
+  },
+  {
+    "soal": "Turunan dari f(x) = (2x + 3)⁵ menggunakan aturan rantai adalah?",
+    "jawaban": "10(2x + 3)⁴"
+  },
+  {
+    "soal": "Turunan dari f(x) = x² · sin x menggunakan aturan perkalian adalah?",
+    "jawaban": "2x sin x + x² cos x"
+  },
+  {
+    "soal": "Turunan dari f(x) = (x² + 1)/(x) adalah?",
+    "jawaban": "1 - 1/x²"
+  },
+  {
+    "soal": "Gradien garis singgung kurva f(x) = x² - 3x + 2 di titik x = 1 adalah?",
+    "jawaban": "-1"
+  },
+  {
+    "soal": "Integral ∫ 2x dx adalah?",
+    "jawaban": "x² + C"
+  },
+  {
+    "soal": "Integral ∫ (3x² + 4x - 1) dx adalah?",
+    "jawaban": "x³ + 2x² - x + C"
+  },
+  {
+    "soal": "Integral ∫ sin x dx adalah?",
+    "jawaban": "-cos x + C"
+  },
+  {
+    "soal": "Integral ∫ cos x dx adalah?",
+    "jawaban": "sin x + C"
+  },
+  {
+    "soal": "Integral ∫ sec² x dx adalah?",
+    "jawaban": "tan x + C"
+  },
+  {
+    "soal": "Integral ∫ (1/x) dx adalah?",
+    "jawaban": "ln |x| + C"
+  },
+  {
+    "soal": "Integral ∫ e^x dx adalah?",
+    "jawaban": "e^x + C"
+  },
+  {
+    "soal": "Integral ∫ (x³ + 2x²) dx dari 0 sampai 2 adalah?",
+    "jawaban": "28/3 atau 9,33"
+  },
+  {
+    "soal": "Luas daerah di bawah kurva y = x² dari x=0 sampai x=2 adalah?",
+    "jawaban": "8/3 satuan luas"
+  },
+  {
+    "soal": "Vektor posisi titik A(3, 4) adalah?",
+    "jawaban": "a = (3, 4)"
+  },
+  {
+    "soal": "Panjang vektor (3, 4) adalah?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Hasil perkalian skalar vektor a = (1, 2) dan b = (3, 4) adalah?",
+    "jawaban": "11"
+  },
+  {
+    "soal": "Sudut antara vektor (1, 0) dan (0, 1) adalah?",
+    "jawaban": "90°"
+  },
+  {
+    "soal": "Jika a = (2, -1) dan b = (4, 2), maka a + b = ?",
+    "jawaban": "(6, 1)"
+  },
+  {
+    "soal": "Jika a = (3, 2) dan b = (1, 5), maka a - b = ?",
+    "jawaban": "(2, -3)"
+  },
+  {
+    "soal": "Vektor satuan dari vektor (3, 4) adalah?",
+    "jawaban": "(3/5, 4/5)"
+  },
+  {
+    "soal": "Ordo matriks A = [1 2 3; 4 5 6] adalah?",
+    "jawaban": "2 × 3"
+  },
+  {
+    "soal": "Penjumlahan matriks [1 2; 3 4] + [5 6; 7 8] = ?",
+    "jawaban": "[6 8; 10 12]"
+  },
+  {
+    "soal": "Perkalian skalar 2 × [1 2; 3 4] = ?",
+    "jawaban": "[2 4; 6 8]"
+  },
+  {
+    "soal": "Determinan matriks [2 1; 3 4] adalah?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Determinan matriks [5 2; 3 1] adalah?",
+    "jawaban": "-1"
+  },
+  {
+    "soal": "Invers matriks [2 1; 3 4] adalah?",
+    "jawaban": "(1/5)[4 -1; -3 2]"
+  },
+  {
+    "soal": "Matriks identitas ordo 2 × 2 adalah?",
+    "jawaban": "[1 0; 0 1]"
+  },
+  {
+    "soal": "Transpose matriks [1 2; 3 4] adalah?",
+    "jawaban": "[1 3; 2 4]"
+  },
+  {
+    "soal": "Perkalian matriks [1 2] × [3; 4] = ?",
+    "jawaban": "[11]"
+  },
+  {
+    "soal": "Rata-rata (mean) dari data 4, 6, 8, 10, 12 adalah?",
+    "jawaban": "8"
+  },
+  {
+    "soal": "Median dari data 3, 5, 7, 9, 11 adalah?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Modus dari data 2, 3, 3, 4, 5, 5, 5, 6 adalah?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Jangkauan (range) data 12, 15, 18, 21, 24 adalah?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Simpangan rata-rata data 2, 4, 6, 8, 10 adalah?",
+    "jawaban": "2,4"
+  },
+  {
+    "soal": "Varians data 4, 6, 8, 10, 12 adalah?",
+    "jawaban": "8"
+  },
+  {
+    "soal": "Simpangan baku data 2, 4, 6, 8, 10 adalah?",
+    "jawaban": "2√2 atau sekitar 2,83"
+  },
+  {
+    "soal": "Kuartil bawah (Q1) data 5, 7, 9, 11, 13, 15, 17 adalah?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Kuartil atas (Q3) data 5, 7, 9, 11, 13, 15, 17 adalah?",
+    "jawaban": "15"
+  },
+  {
+    "soal": "Jangkauan interkuartil (IQR) dari data tersebut adalah?",
+    "jawaban": "8"
+  },
+  {
+    "soal": "Peluang muncul mata dadu genap pada pelemparan dadu adalah?",
+    "jawaban": "1/2"
+  },
+  {
+    "soal": "Peluang muncul angka pada pelemparan koin adalah?",
+    "jawaban": "1/2"
+  },
+  {
+    "soal": "Peluang muncul jumlah mata dadu 7 pada pelemparan dua dadu adalah?",
+    "jawaban": "1/6"
+  },
+  {
+    "soal": "Peluang muncul kedua sisi gambar pada pelemparan 2 koin adalah?",
+    "jawaban": "1/4"
+  },
+  {
+    "soal": "Seorang melempar dadu sebanyak 120 kali, frekuensi harapan muncul mata dadu 5 adalah?",
+    "jawaban": "20"
+  },
+  {
+    "soal": "Dari 5 orang akan dipilih 3 orang sebagai pengurus. Banyak cara adalah?",
+    "jawaban": "10"
+  },
+  {
+    "soal": "Banyak susunan huruf dari kata 'BUKU' adalah?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Banyak susunan duduk melingkar dari 5 orang adalah?",
+    "jawaban": "24"
+  },
+  {
+    "soal": "Nilai 5P3 = ?",
+    "jawaban": "60"
+  },
+  {
+    "soal": "Nilai 5C3 = ?",
+    "jawaban": "10"
+  },
+  {
+    "soal": "Persamaan lingkaran dengan pusat (0,0) dan jari-jari 5 adalah?",
+    "jawaban": "x² + y² = 25"
+  },
+  {
+    "soal": "Persamaan lingkaran dengan pusat (2, -3) dan jari-jari 4 adalah?",
+    "jawaban": "(x - 2)² + (y + 3)² = 16"
+  },
+  {
+    "soal": "Titik pusat lingkaran x² + y² - 4x + 6y - 3 = 0 adalah?",
+    "jawaban": "(2, -3)"
+  },
+  {
+    "soal": "Jari-jari lingkaran x² + y² + 2x - 4y - 4 = 0 adalah?",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Persamaan parabola dengan puncak (0,0) dan fokus (2,0) adalah?",
+    "jawaban": "y² = 8x"
+  },
+  {
+    "soal": "Persamaan elips dengan pusat (0,0), sumbu mayor 10, sumbu minor 8 adalah?",
+    "jawaban": "x²/25 + y²/16 = 1"
+  },
+  {
+    "soal": "Persamaan hiperbola dengan pusat (0,0), jarak fokus 10, sumbu nyata 6 adalah?",
+    "jawaban": "x²/9 - y²/16 = 1"
+  },
+  {
+    "soal": "Eksentrisitas elips x²/25 + y²/9 = 1 adalah?",
+    "jawaban": "4/5"
+  },
+  {
+    "soal": "Suku ke-10 dari barisan aritmatika 3, 7, 11, 15, ... adalah?",
+    "jawaban": "39"
+  },
+  {
+    "soal": "Suku ke-8 dari barisan geometri 2, 6, 18, 54, ... adalah?",
+    "jawaban": "4374"
+  },
+  {
+    "soal": "Jumlah 10 suku pertama deret aritmatika 1 + 3 + 5 + 7 + ... adalah?",
+    "jawaban": "100"
+  },
+  {
+    "soal": "Jumlah tak hingga deret geometri 9 + 3 + 1 + 1/3 + ... adalah?",
+    "jawaban": "13,5"
+  },
+  {
+    "soal": "Suku pertama barisan geometri adalah 4 dan rasio = 3. Suku ke-5 adalah?",
+    "jawaban": "324"
+  },
+  {
+    "soal": "Jumlah 5 suku pertama deret geometri 3 + 6 + 12 + 24 + ... adalah?",
+    "jawaban": "93"
+  },
+  {
+    "soal": "Beda barisan aritmatika 10, 7, 4, 1, -2, ... adalah?",
+    "jawaban": "-3"
+  },
+  {
+    "soal": "Rumus suku ke-n barisan aritmatika 2, 5, 8, 11, ... adalah?",
+    "jawaban": "Un = 3n - 1"
+  },
+  {
+    "soal": "Nilai dari ∑ (2n) dari n=1 sampai n=5 adalah?",
+    "jawaban": "30"
+  },
+  {
+    "soal": "Nilai dari ∑ (n²) dari n=1 sampai n=4 adalah?",
+    "jawaban": "30"
+  },
+  {
+    "soal": "Deret 1 + 2 + 3 + ... + 100 = ?",
+    "jawaban": "5050"
+  },
+  {
+    "soal": "Jarak titik (3,4) ke garis 3x + 4y - 25 = 0 adalah?",
+    "jawaban": "0"
+  },
+  {
+    "soal": "Persamaan garis yang melalui titik (1,2) dengan gradien 3 adalah?",
+    "jawaban": "y = 3x - 1"
+  },
+  {
+    "soal": "Gradien garis yang tegak lurus dengan garis y = 2x + 3 adalah?",
+    "jawaban": "-1/2"
+  },
+  {
+    "soal": "Jarak antara titik A(1,2) dan B(4,6) adalah?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Titik tengah antara titik (2,3) dan (6,9) adalah?",
+    "jawaban": "(4,6)"
+  },
+  {
+    "soal": "Persamaan garis yang melalui titik (0,0) dan tegak lurus dengan garis y = x adalah?",
+    "jawaban": "y = -x"
+  },
+  {
+    "soal": "Fungsi komposisi (f ∘ g)(x) jika f(x) = 2x + 1 dan g(x) = x² adalah?",
+    "jawaban": "2x² + 1"
+  },
+  {
+    "soal": "Invers fungsi f(x) = 2x - 3 adalah?",
+    "jawaban": "(x + 3)/2"
+  },
+  {
+    "soal": "Domain dari fungsi f(x) = √(x - 3) adalah?",
+    "jawaban": "x ≥ 3"
+  },
+  {
+    "soal": "Nilai maksimum fungsi f(x) = -2x² + 4x + 3 adalah?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Titik potong grafik f(x)=x²-2x-3 dengan sumbu X adalah?",
+    "jawaban": "(3,0) dan (-1,0)"
+  },
+  {
+    "soal": "Jenis akar persamaan x² + 2x + 5 = 0 adalah?",
+    "jawaban": "Imajiner (tidak real)"
+  },
+  {
+    "soal": "Jumlah kebalikan akar-akar x² - 5x + 6 = 0 adalah?",
+    "jawaban": "5/6"
+  },
+  {
+    "soal": "Persamaan kuadrat baru yang akar-akarnya 3 kali akar x² - 2x + 1 = 0 adalah?",
+    "jawaban": "x² - 6x + 9 = 0"
+  },
+  {
+    "soal": "Penyelesaian dari 2^(2x - 1) = 32 adalah?",
+    "jawaban": "x = 3"
+  },
+  {
+    "soal": "Penyelesaian dari 3^(x² - 4x + 3) = 1 adalah?",
+    "jawaban": "x = 1 atau x = 3"
+  },
+  {
+    "soal": "Penyelesaian dari log(2x - 1) = 1 adalah?",
+    "jawaban": "x = 5,5"
+  },
+  {
+    "soal": "Penyelesaian dari log x + log (x + 3) = log 10 adalah?",
+    "jawaban": "x = 2"
+  },
+  {
+    "soal": "Penyelesaian dari sin x = ½ untuk 0° ≤ x ≤ 360° adalah?",
+    "jawaban": "30° dan 150°"
+  },
+  {
+    "soal": "Penyelesaian dari cos x = -½ untuk 0° ≤ x ≤ 360° adalah?",
+    "jawaban": "120° dan 240°"
+  },
+  {
+    "soal": "Nilai tan 75° = ?",
+    "jawaban": "2 + √3"
+  },
+  {
+    "soal": "Nilai sin 15° = ?",
+    "jawaban": "(√6 - √2)/4"
+  },
+  {
+    "soal": "cos 2A = ? (dalam bentuk sin atau cos)",
+    "jawaban": "cos²A - sin²A"
+  },
+  {
+    "soal": "sin 2A = ?",
+    "jawaban": "2 sin A cos A"
+  },
+  {
+    "soal": "tan 2A = ?",
+    "jawaban": "2 tan A / (1 - tan²A)"
+  },
+  {
+    "soal": "Nilai dari cos 120° = ?",
+    "jawaban": "-1/2"
+  },
+  {
+    "soal": "Nilai dari sin 135° = ?",
+    "jawaban": "½√2"
+  },
+  {
+    "soal": "Nilai dari tan 300° = ?",
+    "jawaban": "-√3"
+  },
+  {
+    "soal": "Fungsi y = 2 sin 3x memiliki amplitudo?",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Fungsi y = sin 2x memiliki periode?",
+    "jawaban": "π"
+  },
+  {
+    "soal": "Limit x→0 dari (sin 2x)/(3x) = ?",
+    "jawaban": "2/3"
+  },
+  {
+    "soal": "Limit x→0 dari (tan 4x)/(2x) = ?",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Turunan pertama dari f(x) = 2x sin x adalah?",
+    "jawaban": "2 sin x + 2x cos x"
+  },
+  {
+    "soal": "Turunan pertama dari f(x) = cos² x adalah?",
+    "jawaban": "-2 cos x sin x"
+  },
+  {
+    "soal": "Turunan pertama dari f(x) = e^(2x) adalah?",
+    "jawaban": "2e^(2x)"
+  },
+  {
+    "soal": "Integral ∫ (4x³ + 2x) dx = ?",
+    "jawaban": "x⁴ + x² + C"
+  },
+  {
+    "soal": "Integral ∫ 2 sin x dx = ?",
+    "jawaban": "-2 cos x + C"
+  },
+  {
+    "soal": "Integral ∫ 3e^x dx = ?",
+    "jawaban": "3e^x + C"
+  },
+  {
+    "soal": "Integral ∫ (3/x) dx = ?",
+    "jawaban": "3 ln |x| + C"
+  },
+  {
+    "soal": "Hasil dari ∫₀¹ (x² + 1) dx = ?",
+    "jawaban": "4/3"
+  },
+  {
+    "soal": "Luas daerah yang dibatasi y = x³, sumbu X, x=0, x=2 adalah?",
+    "jawaban": "4 satuan luas"
+  },
+  {
+    "soal": "Volume benda putar dari y = x², sumbu X, x=0, x=2 diputar 360° adalah?",
+    "jawaban": "32π/5"
+  },
+  {
+    "soal": "Rata-rata harmonik dari 2, 4, 8 adalah?",
+    "jawaban": "24/7 atau sekitar 3,43"
+  },
+  {
+    "soal": "Rata-rata geometrik dari 4, 16, 64 adalah?",
+    "jawaban": "16"
+  },
+  {
+    "soal": "Simpangan kuartil data 5,7,9,11,13 adalah?",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Jika n(A) = 10, n(B)=8, n(A∩B)=3, maka n(A∪B)=?",
+    "jawaban": "15"
+  },
+  {
+    "soal": "Jika n(S)=50, n(A)=25, n(B)=20, n(A∩B)=10, maka n(A' ∩ B') = ?",
+    "jawaban": "15"
+  },
+  {
+    "soal": "Peluang kejadian A atau B jika A dan B saling lepas?",
+    "jawaban": "P(A) + P(B)"
+  },
+  {
+    "soal": "Peluang kejadian A dan B jika A dan B saling bebas?",
+    "jawaban": "P(A) × P(B)"
+  },
+  {
+    "soal": "Nilai 7! / 5! = ?",
+    "jawaban": "42"
+  },
+  {
+    "soal": "Banyak bilangan genap 2 angka berbeda dari angka 1,2,3,4,5 adalah?",
+    "jawaban": "8"
+  },
+  {
+    "soal": "Banyak cara memilih 2 buku dari 5 buku berbeda adalah?",
+    "jawaban": "10"
+  },
+  {
+    "soal": "Banyak cara duduk berjajar 5 orang di 5 kursi adalah?",
+    "jawaban": "120"
+  },
+  {
+    "soal": "Hasil kali matriks [1 2] × [3; 4] = ?",
+    "jawaban": "[11]"
+  },
+  {
+    "soal": "Matriks A = [2 1; 0 3]. Nilai |A| = ?",
+    "jawaban": "6"
+  },
+  {
+    "soal": "Matriks B = [1 2; 3 4]. Invers B adalah?",
+    "jawaban": "[-2 1; 1,5 -0,5]"
+  },
+  {
+    "soal": "Vektor a = (2, -1, 3) dan b = (1, 2, -1). a·b = ?",
+    "jawaban": "2 - 2 - 3 = -3"
+  },
+  {
+    "soal": "Proyeksi skalar vektor a pada b a = (3,4), b=(1,0) adalah?",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Jika a = (2,1) dan b = (1,2), sudut antara a dan b adalah?",
+    "jawaban": "36,87°"
+  },
+  {
+    "soal": "Persamaan garis singgung lingkaran x² + y² = 25 di titik (3,4) adalah?",
+    "jawaban": "3x+4y=25"
+  },
+  {
+    "soal": "Jarak pusat lingkaran x² + y² = 4 ke garis x + y = 4 adalah?",
+    "jawaban": "2√2"
+  },
+  {
+    "soal": "Koordinat titik puncak parabola y² = 12x adalah?",
+    "jawaban": "(0,0)"
+  },
+  {
+    "soal": "Fokus parabola y² = 8x adalah?",
+    "jawaban": "(2,0)"
+  },
+  {
+    "soal": "Persamaan direktris parabola y² = 12x adalah?",
+    "jawaban": "x = -3"
+  }
+]
