@@ -1,0 +1,674 @@
+[
+  {
+    "soal": "Unsur kimia dengan simbol 'Au'?",
+    "jawaban": "Emas"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Ag'?",
+    "jawaban": "Perak"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Fe'?",
+    "jawaban": "Besi"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Cu'?",
+    "jawaban": "Tembaga"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Pb'?",
+    "jawaban": "Timbal"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Sn'?",
+    "jawaban": "Timah"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Hg'?",
+    "jawaban": "Raksa"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Na'?",
+    "jawaban": "Natrium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'K'?",
+    "jawaban": "Kalium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Ca'?",
+    "jawaban": "Kalsium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Mg'?",
+    "jawaban": "Magnesium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Cl'?",
+    "jawaban": "Klorin"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'H'?",
+    "jawaban": "Hidrogen"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'O'?",
+    "jawaban": "Oksigen"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'N'?",
+    "jawaban": "Nitrogen"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'C'?",
+    "jawaban": "Karbon"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'S'?",
+    "jawaban": "Belerang"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'P'?",
+    "jawaban": "Fosfor"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'He'?",
+    "jawaban": "Helium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Ne'?",
+    "jawaban": "Neon"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Ar'?",
+    "jawaban": "Argon"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Kr'?",
+    "jawaban": "Kripton"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Xe'?",
+    "jawaban": "Xenon"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Rn'?",
+    "jawaban": "Radon"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Li'?",
+    "jawaban": "Litium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Be'?",
+    "jawaban": "Berilium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'B'?",
+    "jawaban": "Boron"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'F'?",
+    "jawaban": "Fluorin"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Al'?",
+    "jawaban": "Aluminium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Si'?",
+    "jawaban": "Silikon"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Ti'?",
+    "jawaban": "Titanium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Cr'?",
+    "jawaban": "Kromium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Mn'?",
+    "jawaban": "Mangan"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Co'?",
+    "jawaban": "Kobalt"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Ni'?",
+    "jawaban": "Nikel"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Zn'?",
+    "jawaban": "Seng"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Br'?",
+    "jawaban": "Bromin"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Sr'?",
+    "jawaban": "Stronsium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Pd'?",
+    "jawaban": "Palladium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Pt'?",
+    "jawaban": "Platina"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'U'?",
+    "jawaban": "Uranium"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Pu'?",
+    "jawaban": "Plutonium"
+  },
+  {
+    "soal": "Rumus kimia air?",
+    "jawaban": "H2O"
+  },
+  {
+    "soal": "Rumus kimia garam dapur?",
+    "jawaban": "NaCl"
+  },
+  {
+    "soal": "Rumus kimia asam sulfat?",
+    "jawaban": "H2SO4"
+  },
+  {
+    "soal": "Rumus kimia amonia?",
+    "jawaban": "NH3"
+  },
+  {
+    "soal": "Rumus kimia metana?",
+    "jawaban": "CH4"
+  },
+  {
+    "soal": "Rumus kimia karbon dioksida?",
+    "jawaban": "CO2"
+  },
+  {
+    "soal": "Rumus kimia etanol?",
+    "jawaban": "C2H5OH"
+  },
+  {
+    "soal": "Rumus kimia glukosa?",
+    "jawaban": "C6H12O6"
+  },
+  {
+    "soal": "Rumus kimia hidrogen peroksida?",
+    "jawaban": "H2O2"
+  },
+  {
+    "soal": "Rumus kimia natrium hidroksida?",
+    "jawaban": "NaOH"
+  },
+  {
+    "soal": "Rumus kimia kalsium karbonat?",
+    "jawaban": "CaCO3"
+  },
+  {
+    "soal": "Rumus kimia asam klorida?",
+    "jawaban": "HCl"
+  },
+  {
+    "soal": "Rumus kimia asam asetat (cuka)?",
+    "jawaban": "CH3COOH"
+  },
+  {
+    "soal": "Rumus kimia benzena?",
+    "jawaban": "C6H6"
+  },
+  {
+    "soal": "pH air murni pada suhu 25°C?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Logam cair pada suhu kamar (kecuali raksa)?",
+    "jawaban": "Gallium"
+  },
+  {
+    "soal": "Unsur paling melimpah di kerak bumi?",
+    "jawaban": "Oksigen"
+  },
+  {
+    "soal": "Unsur paling melimpah di alam semesta?",
+    "jawaban": "Hidrogen"
+  },
+  {
+    "soal": "Logam terkeras yang dikenal?",
+    "jawaban": "Wolfram"
+  },
+  {
+    "soal": "Logam dengan titik lebur tertinggi?",
+    "jawaban": "Wolfram (Tungsten)"
+  },
+  {
+    "soal": "Logam dengan konduktivitas listrik terbaik?",
+    "jawaban": "Perak"
+  },
+  {
+    "soal": "Unsur dengan nomor atom 1?",
+    "jawaban": "Hidrogen"
+  },
+  {
+    "soal": "Unsur dengan nomor atom 2?",
+    "jawaban": "Helium"
+  },
+  {
+    "soal": "Unsur dengan nomor atom 6?",
+    "jawaban": "Karbon"
+  },
+  {
+    "soal": "Unsur dengan nomor atom 8?",
+    "jawaban": "Oksigen"
+  },
+  {
+    "soal": "Unsur dengan nomor atom 11?",
+    "jawaban": "Natrium"
+  },
+  {
+    "soal": "Unsur dengan nomor atom 12?",
+    "jawaban": "Magnesium"
+  },
+  {
+    "soal": "Unsur dengan nomor atom 13?",
+    "jawaban": "Aluminium"
+  },
+  {
+    "soal": "Unsur dengan nomor atom 17?",
+    "jawaban": "Klorin"
+  },
+  {
+    "soal": "Reaksi antara asam dan basa menghasilkan garam dan air disebut?",
+    "jawaban": "Netralisasi"
+  },
+  {
+    "soal": "Zat yang mempercepat reaksi kimia tanpa ikut bereaksi disebut?",
+    "jawaban": "Katalis"
+  },
+  {
+    "soal": "Partikel terkecil dari suatu unsur yang masih memiliki sifat unsur tersebut?",
+    "jawaban": "Atom"
+  },
+  {
+    "soal": "Ikatan kimia yang terjadi karena pemakaian bersama pasangan elektron?",
+    "jawaban": "Ikatan kovalen"
+  },
+  {
+    "soal": "Ikatan kimia yang terjadi karena serah terima elektron?",
+    "jawaban": "Ikatan ion"
+  },
+  {
+    "soal": "Jenis reaksi kimia di mana suatu zat terurai menjadi dua zat atau lebih?",
+    "jawaban": "Reaksi penguraian"
+  },
+  {
+    "soal": "Jenis reaksi kimia di mana dua zat bergabung membentuk satu zat baru?",
+    "jawaban": "Reaksi penggabungan"
+  },
+  {
+    "soal": "Bapak kimia modern yang menyusun tabel periodik unsur?",
+    "jawaban": "Dmitri Mendeleev"
+  },
+  {
+    "soal": "Ilmuwan yang menemukan hukum kekekalan massa?",
+    "jawaban": "Antoine Lavoisier"
+  },
+  {
+    "soal": "Ilmuwan yang menemukan hukum perbandingan tetap?",
+    "jawaban": "Joseph Proust"
+  },
+  {
+    "soal": "Ilmuwan yang menemukan hukum perbandingan berganda?",
+    "jawaban": "John Dalton"
+  },
+  {
+    "soal": "Ilmuwan yang menemukan elektron?",
+    "jawaban": "J.J. Thomson"
+  },
+  {
+    "soal": "Ilmuwan yang menemukan inti atom?",
+    "jawaban": "Ernest Rutherford"
+  },
+  {
+    "soal": "Ilmuwan yang menemukan bahwa atom memiliki tingkat energi tertentu (model atom Bohr)?",
+    "jawaban": "Niels Bohr"
+  },
+  {
+    "soal": "Ilmuwan yang menemukan neutron?",
+    "jawaban": "James Chadwick"
+  },
+  {
+    "soal": "Jenis ikatan kimia pada logam disebut?",
+    "jawaban": "Ikatan logam"
+  },
+  {
+    "soal": "Gas yang digunakan dalam balon udara karena lebih ringan dari udara?",
+    "jawaban": "Helium"
+  },
+  {
+    "soal": "Gas yang mudah meledak jika bercampur oksigen, digunakan sebagai bahan bakar roket?",
+    "jawaban": "Hidrogen"
+  },
+  {
+    "soal": "Gas yang memberi warna hijau pada lampu neon?",
+    "jawaban": "Neon"
+  },
+  {
+    "soal": "Proses perubahan zat padat menjadi gas tanpa melalui cair?",
+    "jawaban": "Sublimasi"
+  },
+  {
+    "soal": "Proses perubahan gas menjadi padat tanpa melalui cair?",
+    "jawaban": "Deposisi"
+  },
+  {
+    "soal": "Larutan dengan pH < 7 bersifat?",
+    "jawaban": "Asam"
+  },
+  {
+    "soal": "Larutan dengan pH > 7 bersifat?",
+    "jawaban": "Basa"
+  },
+  {
+    "soal": "Indikator alami yang berubah warna menjadi merah dalam asam dan hijau dalam basa?",
+    "jawaban": "Kunyit"
+  },
+  {
+    "soal": "Indikator yang berwarna merah dalam asam dan biru dalam basa?",
+    "jawaban": "Lakmus"
+  },
+  {
+    "soal": "Logam yang paling reaktif dalam deret volta?",
+    "jawaban": "Litium"
+  },
+  {
+    "soal": "Logam yang paling tidak reaktif (mulia)?",
+    "jawaban": "Emas"
+  },
+  {
+    "soal": "Bahan tambahan pada bensin untuk meningkatkan bilangan oktan?",
+    "jawaban": "Tetra etil timbal"
+  },
+  {
+    "soal": "Unsur yang ditambahkan pada garam untuk mencegah penyakit gondok?",
+    "jawaban": "Iodium"
+  },
+  {
+    "soal": "Zat aditif pada pasta gigi untuk memperkuat enamel gigi?",
+    "jawaban": "Fluor"
+  },
+  {
+    "soal": "Polimer alami yang merupakan penyusun rambut dan kuku?",
+    "jawaban": "Keratin"
+  },
+  {
+    "soal": "Polimer sintetis yang dikenal sebagai nilon?",
+    "jawaban": "Poliamida"
+  },
+  {
+    "soal": "Plastik yang umum digunakan untuk botol minuman (PET)?",
+    "jawaban": "Polietilen tereftalat"
+  },
+  {
+    "soal": "Proses pemisahan campuran berdasarkan perbedaan titik didih?",
+    "jawaban": "Distilasi"
+  },
+  {
+    "soal": "Proses pemisahan campuran zat padat dan cair menggunakan kertas saring disebut?",
+    "jawaban": "Filtrasi"
+  },
+  {
+    "soal": "Larutan yang tidak dapat melarutkan zat lebih banyak lagi disebut?",
+    "jawaban": "Larutan jenuh"
+  },
+  {
+    "soal": "Jumlah mol zat terlarut per liter larutan disebut?",
+    "jawaban": "Molaritas"
+  },
+  {
+    "soal": "Partikel bermuatan positif dalam atom?",
+    "jawaban": "Proton"
+  },
+  {
+    "soal": "Partikel bermuatan negatif dalam atom?",
+    "jawaban": "Elektron"
+  },
+  {
+    "soal": "Partikel tidak bermuatan dalam inti atom?",
+    "jawaban": "Neutron"
+  },
+  {
+    "soal": "Jumlah proton dalam inti atom disebut?",
+    "jawaban": "Nomor atom"
+  },
+  {
+    "soal": "Jumlah proton + neutron dalam atom disebut?",
+    "jawaban": "Nomor massa"
+  },
+  {
+    "soal": "Unsur golongan IA (kecuali H) disebut?",
+    "jawaban": "Logam alkali"
+  },
+  {
+    "soal": "Unsur golongan IIA disebut?",
+    "jawaban": "Logam alkali tanah"
+  },
+  {
+    "soal": "Unsur golongan VIIA disebut?",
+    "jawaban": "Halogen"
+  },
+  {
+    "soal": "Unsur golongan VIIIA disebut?",
+    "jawaban": "Gas mulia"
+  },
+  {
+    "soal": "Bentuk alotrop karbon yang keras dan bening (berlian)?",
+    "jawaban": "Intan"
+  },
+  {
+    "soal": "Bentuk alotrop karbon yang lunak dan hitam (isi pensil)?",
+    "jawaban": "Grafit"
+  },
+  {
+    "soal": "Bentuk alotrop oksigen yang melindungi bumi dari sinar UV?",
+    "jawaban": "Ozon"
+  },
+  {
+    "soal": "Cairan yang digunakan dalam termometer selain raksa?",
+    "jawaban": "Alkohol"
+  },
+  {
+    "soal": "Asam yang ditemukan dalam jeruk?",
+    "jawaban": "Asam sitrat"
+  },
+  {
+    "soal": "Asam yang ditemukan dalam cuka?",
+    "jawaban": "Asam asetat"
+  },
+  {
+    "soal": "Asam yang ditemukan dalam aki mobil?",
+    "jawaban": "Asam sulfat"
+  },
+  {
+    "soal": "Asam yang ditemukan dalam lambung?",
+    "jawaban": "Asam klorida"
+  },
+  {
+    "soal": "Basa yang ditemukan dalam sabun dan pembersih saluran?",
+    "jawaban": "Natrium hidroksida"
+  },
+  {
+    "soal": "Proses pelapukan logam akibat reaksi dengan oksigen disebut?",
+    "jawaban": "Korosi"
+  },
+  {
+    "soal": "Besi berkarat membentuk senyawa?",
+    "jawaban": "Fe2O3"
+  },
+  {
+    "soal": "Proses pemberian lapisan seng pada besi untuk mencegah korosi disebut?",
+    "jawaban": "Galvanisasi"
+  },
+  {
+    "soal": "Bahan baku pembuatan kaca?",
+    "jawaban": "Silika (pasir)"
+  },
+  {
+    "soal": "Bahan baku pembuatan semen?",
+    "jawaban": "Kalsium karbonat"
+  },
+  {
+    "soal": "Unsur yang menyebabkan gigi berlubang jika berlebihan?",
+    "jawaban": "Gula (sukrosa)"
+  },
+  {
+    "soal": "Gas rumah kaca utama yang dihasilkan dari pembakaran bahan bakar fosil?",
+    "jawaban": "Karbon dioksida"
+  },
+  {
+    "soal": "Lapisan atmosfer yang mengandung ozon?",
+    "jawaban": "Stratosfer"
+  },
+  {
+    "soal": "Zat kimia penyebab penipisan lapisan ozon (CFC) singkatan dari?",
+    "jawaban": "Chlorofluorocarbon"
+  },
+  {
+    "soal": "Minuman ringan yang mengandung kafein dan asam fosfat?",
+    "jawaban": "Cola"
+  },
+  {
+    "soal": "Zat kimia yang memberikan rasa pedas pada cabai?",
+    "jawaban": "Capsaicin"
+  },
+  {
+    "soal": "Zat kimia yang memberikan rasa pahit pada kopi?",
+    "jawaban": "Kafein"
+  },
+  {
+    "soal": "Zat kimia dalam bawang yang membuat mata perih?",
+    "jawaban": "Sulfur oksida"
+  },
+  {
+    "soal": "Logam campuran (alloy) dari tembaga dan timah?",
+    "jawaban": "Perunggu"
+  },
+  {
+    "soal": "Logam campuran dari tembaga dan seng?",
+    "jawaban": "Kuningan"
+  },
+  {
+    "soal": "Logam campuran dari besi dan karbon?",
+    "jawaban": "Baja"
+  },
+  {
+    "soal": "Logam campuran emas dan tembaga?",
+    "jawaban": "Emas merah"
+  },
+  {
+    "soal": "Proses pembuatan besi dari bijih besi menggunakan tungku tinggi disebut?",
+    "jawaban": "Tanur tinggi"
+  },
+  {
+    "soal": "Metode pemurnian logam menggunakan arus listrik disebut?",
+    "jawaban": "Elektrolisis"
+  },
+  {
+    "soal": "Pencipta proses Haber untuk pembuatan amonia?",
+    "jawaban": "Fritz Haber"
+  },
+  {
+    "soal": "Pencipta proses kontak untuk pembuatan asam sulfat?",
+    "jawaban": "Peregrine Phillips"
+  },
+  {
+    "soal": "Zat kimia yang digunakan dalam fotografi?",
+    "jawaban": "Perak bromida"
+  },
+  {
+    "soal": "Unsur radioaktif yang digunakan untuk penanggalan fosil?",
+    "jawaban": "Karbon-14"
+  },
+  {
+    "soal": "Unsur radioaktif yang digunakan dalam bom atom?",
+    "jawaban": "Uranium-235"
+  },
+  {
+    "soal": "Satuan jumlah zat dalam kimia?",
+    "jawaban": "Mol"
+  },
+  {
+    "soal": "Bilangan Avogadro (jumlah partikel per mol)?",
+    "jawaban": "6,02 x 10^23"
+  },
+  {
+    "soal": "Senyawa organik dengan gugus -OH disebut?",
+    "jawaban": "Alkohol"
+  },
+  {
+    "soal": "Senyawa organik dengan gugus -COOH disebut?",
+    "jawaban": "Asam karboksilat"
+  },
+  {
+    "soal": "Senyawa organik dengan gugus -CHO disebut?",
+    "jawaban": "Aldehida"
+  },
+  {
+    "soal": "Senyawa organik dengan gugus -CO- disebut?",
+    "jawaban": "Keton"
+  },
+  {
+    "soal": "Senyawa organik dengan gugus -NH2 disebut?",
+    "jawaban": "Amina"
+  },
+  {
+    "soal": "Bensin dengan bilangan oktan 100 adalah?",
+    "jawaban": "Iso-oktana"
+  },
+  {
+    "soal": "Bensin dengan bilangan oktan 0 adalah?",
+    "jawaban": "n-heptana"
+  },
+  {
+    "soal": "Pewarna makanan berbahaya yang dilarang seperti Rhodamin B adalah pewarna?",
+    "jawaban": "Tekstil"
+  },
+  {
+    "soal": "Pengawet makanan yang dilarang formalin biasanya untuk?",
+    "jawaban": "Mayat"
+  },
+  {
+    "soal": "Zat pemanis buatan yang tidak memiliki kalori?",
+    "jawaban": "Aspartam"
+  },
+  {
+    "soal": "Pewarna alami yang berasal dari kunyit?",
+    "jawaban": "Kurkumin"
+  },
+  {
+    "soal": "Pewarna alami yang berasal dari daun suji?",
+    "jawaban": "Hijau alami"
+  },
+  {
+    "soal": "Karbohidrat yang tidak dapat dicerna manusia disebut?",
+    "jawaban": "Selulosa"
+  },
+  {
+    "soal": "Protein lengkap yang ditemukan dalam susu?",
+    "jawaban": "Kasein"
+  },
+  {
+    "soal": "Lemak jenuh berbentuk padat pada suhu kamar?",
+    "jawaban": "Lemak hewani"
+  },
+  {
+    "soal": "Lemak tak jenuh berbentuk cair pada suhu kamar?",
+    "jawaban": "Minyak"
+  }
+]
