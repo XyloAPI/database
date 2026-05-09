@@ -1,0 +1,538 @@
+[
+  {
+    "soal": "Alat pernapasan pada manusia adalah?",
+    "jawaban": "Paru-paru"
+  },
+  {
+    "soal": "Jantung manusia memiliki berapa ruang?",
+    "jawaban": "4 ruang"
+  },
+  {
+    "soal": "Fungsi ginjal dalam tubuh manusia adalah?",
+    "jawaban": "Menyaring darah"
+  },
+  {
+    "soal": "Organ yang memompa darah ke seluruh tubuh adalah?",
+    "jawaban": "Jantung"
+  },
+  {
+    "soal": "Bagian darah yang berfungsi mengangkut oksigen adalah?",
+    "jawaban": "Sel darah merah"
+  },
+  {
+    "soal": "Bagian darah yang berfungsi melawan infeksi adalah?",
+    "jawaban": "Sel darah putih"
+  },
+  {
+    "soal": "Bagian darah yang berfungsi membekukan darah saat luka adalah?",
+    "jawaban": "Keping darah"
+  },
+  {
+    "soal": "Organ pencernaan yang menghasilkan asam lambung adalah?",
+    "jawaban": "Lambung"
+  },
+  {
+    "soal": "Organ yang menyerap sari makanan adalah?",
+    "jawaban": "Usus halus"
+  },
+  {
+    "soal": "Fungsi hati dalam pencernaan adalah?",
+    "jawaban": "Menghasilkan empedu"
+  },
+  {
+    "soal": "Penyakit akibat kekurangan vitamin C adalah?",
+    "jawaban": "Sariawan"
+  },
+  {
+    "soal": "Penyakit akibat kekurangan zat besi adalah?",
+    "jawaban": "Anemia"
+  },
+  {
+    "soal": "Penyakit akibat kekurangan kalsium pada anak adalah?",
+    "jawaban": "Rakhitis"
+  },
+  {
+    "soal": "Penyakit diabetes disebabkan oleh gangguan hormon?",
+    "jawaban": "Insulin"
+  },
+  {
+    "soal": "Bagian mata yang mengatur jumlah cahaya masuk adalah?",
+    "jawaban": "Pupil"
+  },
+  {
+    "soal": "Bagian telinga yang berfungsi menangkap getaran bunyi adalah?",
+    "jawaban": "Gendang telinga"
+  },
+  {
+    "soal": "Hormon yang mengatur gula darah adalah?",
+    "jawaban": "Insulin"
+  },
+  {
+    "soal": "Hormon yang mengatur pertumbuhan adalah?",
+    "jawaban": "Hormon pertumbuhan"
+  },
+  {
+    "soal": "Sistem saraf pusat terdiri dari?",
+    "jawaban": "Otak dan sumsum tulang belakang"
+  },
+  {
+    "soal": "Sel saraf disebut juga?",
+    "jawaban": "Neuron"
+  },
+  {
+    "soal": "Rangka manusia tersusun atas?",
+    "jawaban": "Tulang"
+  },
+  {
+    "soal": "Jumlah tulang pada manusia dewasa kurang lebih?",
+    "jawaban": "206 tulang"
+  },
+  {
+    "soal": "Sendi yang memungkinkan gerak dua arah (tekuk-lurus) contohnya?",
+    "jawaban": "Sendi engsel"
+  },
+  {
+    "soal": "Sendi yang memungkinkan gerak bebas contohnya?",
+    "jawaban": "Sendi peluru"
+  },
+  {
+    "soal": "Otot yang bekerja di luar kesadaran disebut?",
+    "jawaban": "Otot polos"
+  },
+  {
+    "soal": "Otot yang bekerja pada jantung disebut?",
+    "jawaban": "Otot jantung"
+  },
+  {
+    "soal": "Otot yang bekerja di bawah kesadaran disebut?",
+    "jawaban": "Otot lurik"
+  },
+  {
+    "soal": "Proses pembuatan makanan pada tumbuhan disebut?",
+    "jawaban": "Fotosintesis"
+  },
+  {
+    "soal": "Bahan baku fotosintesis adalah?",
+    "jawaban": "Karbon dioksida dan air"
+  },
+  {
+    "soal": "Hasil fotosintesis adalah?",
+    "jawaban": "Glukosa dan oksigen"
+  },
+  {
+    "soal": "Bagian daun tempat terjadinya fotosintesis adalah?",
+    "jawaban": "Kloroplas"
+  },
+  {
+    "soal": "Pigmen yang memberi warna hijau pada daun adalah?",
+    "jawaban": "Klorofil"
+  },
+  {
+    "soal": "Jaringan pengangkut pada tumbuhan yang mengangkut air dari akar adalah?",
+    "jawaban": "Xilem"
+  },
+  {
+    "soal": "Jaringan pengangkut pada tumbuhan yang mengangkut hasil fotosintesis adalah?",
+    "jawaban": "Floem"
+  },
+  {
+    "soal": "Akar pada tumbuhan berfungsi untuk?",
+    "jawaban": "Menyerap air dan mineral"
+  },
+  {
+    "soal": "Batang pada tumbuhan berfungsi untuk?",
+    "jawaban": "Menopang tumbuhan"
+  },
+  {
+    "soal": "Bunga pada tumbuhan berfungsi untuk?",
+    "jawaban": "Reproduksi"
+  },
+  {
+    "soal": "Penyerbukan adalah?",
+    "jawaban": "Jatuhnya serbuk sari ke kepala putik"
+  },
+  {
+    "soal": "Pembuahan pada tumbuhan menghasilkan?",
+    "jawaban": "Zigot"
+  },
+  {
+    "soal": "Buah pada tumbuhan berasal dari?",
+    "jawaban": "Bakal buah"
+  },
+  {
+    "soal": "Tumbuhan dikotil memiliki jumlah keping biji?",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Tumbuhan monokotil memiliki jumlah keping biji?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Contoh tumbuhan dikotil adalah?",
+    "jawaban": "Kacang tanah"
+  },
+  {
+    "soal": "Contoh tumbuhan monokotil adalah?",
+    "jawaban": "Padi"
+  },
+  {
+    "soal": "Hewan yang memakan tumbuhan disebut?",
+    "jawaban": "Herbivora"
+  },
+  {
+    "soal": "Hewan yang memakan daging disebut?",
+    "jawaban": "Karnivora"
+  },
+  {
+    "soal": "Hewan yang memakan tumbuhan dan daging disebut?",
+    "jawaban": "Omnivora"
+  },
+  {
+    "soal": "Rantai makanan dimulai dari?",
+    "jawaban": "Produsen"
+  },
+  {
+    "soal": "Contoh produsen dalam ekosistem adalah?",
+    "jawaban": "Tumbuhan hijau"
+  },
+  {
+    "soal": "Contoh konsumen tingkat I adalah?",
+    "jawaban": "Belalang"
+  },
+  {
+    "soal": "Pengurai (dekomposer) contohnya?",
+    "jawaban": "Jamur dan bakteri"
+  },
+  {
+    "soal": "Ekosistem air tawar contohnya?",
+    "jawaban": "Danau"
+  },
+  {
+    "soal": "Ekosistem air laut contohnya?",
+    "jawaban": "Terumbu karang"
+  },
+  {
+    "soal": "Ekosistem darat contohnya?",
+    "jawaban": "Hutan hujan tropis"
+  },
+  {
+    "soal": "Lapisan bumi tempat hidup manusia adalah?",
+    "jawaban": "Kulit bumi"
+  },
+  {
+    "soal": "Lapisan udara yang melindungi bumi dari sinar UV adalah?",
+    "jawaban": "Lapisan ozon"
+  },
+  {
+    "soal": "Gas rumah kaca utama adalah?",
+    "jawaban": "Karbon dioksida"
+  },
+  {
+    "soal": "Fenomena pemanasan global disebabkan oleh?",
+    "jawaban": "Meningkatnya gas rumah kaca"
+  },
+  {
+    "soal": "Sumber energi terbarukan contohnya?",
+    "jawaban": "Matahari"
+  },
+  {
+    "soal": "Sumber energi tidak terbarukan contohnya?",
+    "jawaban": "Minyak bumi"
+  },
+  {
+    "soal": "Batu bara terbentuk dari?",
+    "jawaban": "Sisa tumbuhan purba"
+  },
+  {
+    "soal": "Minyak bumi terbentuk dari?",
+    "jawaban": "Sisa organisme laut purba"
+  },
+  {
+    "soal": "Lapisan bumi paling luar disebut?",
+    "jawaban": "Kerak bumi"
+  },
+  {
+    "soal": "Lapisan bumi di bawah kerak disebut?",
+    "jawaban": "Mantel"
+  },
+  {
+    "soal": "Inti bumi terdiri dari unsur?",
+    "jawaban": "Besi dan nikel"
+  },
+  {
+    "soal": "Gempa bumi disebabkan oleh?",
+    "jawaban": "Pergerakan lempeng bumi"
+  },
+  {
+    "soal": "Alat pengukur gempa bumi disebut?",
+    "jawaban": "Seismograf"
+  },
+  {
+    "soal": "Gunung berapi meletus mengeluarkan?",
+    "jawaban": "Lava dan abu vulkanik"
+  },
+  {
+    "soal": "Tanah longsor disebabkan oleh?",
+    "jawaban": "Hujan deras dan lereng curam"
+  },
+  {
+    "soal": "Siklus air dimulai dari?",
+    "jawaban": "Penguapan"
+  },
+  {
+    "soal": "Hujan terjadi melalui proses?",
+    "jawaban": "Kondensasi"
+  },
+  {
+    "soal": "Awan terbentuk dari?",
+    "jawaban": "Uap air yang mengembun"
+  },
+  {
+    "soal": "Angin terjadi karena?",
+    "jawaban": "Perbedaan tekanan udara"
+  },
+  {
+    "soal": "Planet terdekat dengan Matahari adalah?",
+    "jawaban": "Merkurius"
+  },
+  {
+    "soal": "Planet terbesar dalam tata surya adalah?",
+    "jawaban": "Jupiter"
+  },
+  {
+    "soal": "Planet yang memiliki cincin adalah?",
+    "jawaban": "Saturnus"
+  },
+  {
+    "soal": "Planet yang dikenal sebagai bintang fajar adalah?",
+    "jawaban": "Venus"
+  },
+  {
+    "soal": "Planet yang paling jauh dari Matahari adalah?",
+    "jawaban": "Neptunus"
+  },
+  {
+    "soal": "Bumi berputar pada sumbunya disebut?",
+    "jawaban": "Rotasi bumi"
+  },
+  {
+    "soal": "Bumi mengelilingi Matahari disebut?",
+    "jawaban": "Revolusi bumi"
+  },
+  {
+    "soal": "Rotasi bumi menyebabkan?",
+    "jawaban": "Siang dan malam"
+  },
+  {
+    "soal": "Revolusi bumi menyebabkan?",
+    "jawaban": "Pergantian musim"
+  },
+  {
+    "soal": "Bulan adalah satelit alami dari?",
+    "jawaban": "Bumi"
+  },
+  {
+    "soal": "Gerhana bulan terjadi ketika posisi?",
+    "jawaban": "Bumi di antara Matahari dan Bulan"
+  },
+  {
+    "soal": "Gerhana matahari terjadi ketika posisi?",
+    "jawaban": "Bulan di antara Matahari dan Bumi"
+  },
+  {
+    "soal": "Bintang terdekat dengan Bumi selain Matahari adalah?",
+    "jawaban": "Proxima Centauri"
+  },
+  {
+    "soal": "Galaksi tempat tinggal Bumi adalah?",
+    "jawaban": "Bima Sakti (Milky Way)"
+  },
+  {
+    "soal": "Satuan jarak dalam astronomi adalah?",
+    "jawaban": "Tahun cahaya"
+  },
+  {
+    "soal": "Benda langit yang mengelilingi Matahari dan memiliki ekor disebut?",
+    "jawaban": "Komet"
+  },
+  {
+    "soal": "Benda langit berupa batuan kecil yang jatuh ke Bumi disebut?",
+    "jawaban": "Meteorit"
+  },
+  {
+    "soal": "Lubang hitam (black hole) memiliki gravitasi yang?",
+    "jawaban": "Sangat kuat"
+  },
+  {
+    "soal": "Teori pembentukan alam semesta yang populer disebut?",
+    "jawaban": "Big Bang"
+  },
+  {
+    "soal": "Makhluk hidup yang dapat membuat makanannya sendiri disebut?",
+    "jawaban": "Autotrof"
+  },
+  {
+    "soal": "Makhluk hidup yang tidak dapat membuat makanan sendiri disebut?",
+    "jawaban": "Heterotrof"
+  },
+  {
+    "soal": "Proses perubahan bentuk (ulat menjadi kupu-kupu) disebut?",
+    "jawaban": "Metamorfosis"
+  },
+  {
+    "soal": "Metamorfosis sempurna contohnya?",
+    "jawaban": "Kupu-kupu"
+  },
+  {
+    "soal": "Metamorfosis tidak sempurna contohnya?",
+    "jawaban": "Belalang"
+  },
+  {
+    "soal": "Sel tumbuhan memiliki dinding sel yang terbuat dari?",
+    "jawaban": "Selulosa"
+  },
+  {
+    "soal": "Sel hewan tidak memiliki?",
+    "jawaban": "Dinding sel"
+  },
+  {
+    "soal": "Inti sel disebut?",
+    "jawaban": "Nukleus"
+  },
+  {
+    "soal": "Cairan dalam sel disebut?",
+    "jawaban": "Sitoplasma"
+  },
+  {
+    "soal": "Pembelahan sel yang menghasilkan dua sel anak identik disebut?",
+    "jawaban": "Mitosis"
+  },
+  {
+    "soal": "Pembelahan sel untuk pembentukan sel kelamin disebut?",
+    "jawaban": "Meiosis"
+  },
+  {
+    "soal": "Asam deoksiribonukleat biasa disingkat?",
+    "jawaban": "DNA"
+  },
+  {
+    "soal": "Pembawa sifat keturunan adalah?",
+    "jawaban": "Gen"
+  },
+  {
+    "soal": "Sifat yang selalu muncul disebut?",
+    "jawaban": "Dominan"
+  },
+  {
+    "soal": "Sifat yang tertutup disebut?",
+    "jawaban": "Resesif"
+  },
+  {
+    "soal": "Bapak genetika adalah?",
+    "jawaban": "Gregor Mendel"
+  },
+  {
+    "soal": "Vaksin berfungsi untuk?",
+    "jawaban": "Mencegah penyakit"
+  },
+  {
+    "soal": "Antibiotik berfungsi untuk?",
+    "jawaban": "Membunuh bakteri"
+  },
+  {
+    "soal": "Penyakit yang disebabkan oleh virus contohnya?",
+    "jawaban": "Flu"
+  },
+  {
+    "soal": "Penyakit yang disebabkan oleh bakteri contohnya?",
+    "jawaban": "Tifus"
+  },
+  {
+    "soal": "Mikroorganisme yang menguntungkan dalam pembuatan yoghurt adalah?",
+    "jawaban": "Bakteri lactobacillus"
+  },
+  {
+    "soal": "Jenis jamur yang digunakan dalam pembuatan roti adalah?",
+    "jawaban": "Ragi (Saccharomyces cerevisiae)"
+  },
+  {
+    "soal": "Lapisan atmosfer tempat terjadinya cuaca adalah?",
+    "jawaban": "Troposfer"
+  },
+  {
+    "soal": "Lapisan atmosfer tempat satelit mengorbit adalah?",
+    "jawaban": "Eksosfer"
+  },
+  {
+    "soal": "Hujan asam disebabkan oleh?",
+    "jawaban": "Polusi udara (SO₂ dan NOₓ)"
+  },
+  {
+    "soal": "Efek rumah kaca bermanfaat untuk?",
+    "jawaban": "Menjaga suhu bumi"
+  },
+  {
+    "soal": "Penggundulan hutan menyebabkan?",
+    "jawaban": "Banjir dan tanah longsor"
+  },
+  {
+    "soal": "Pencemaran air dapat disebabkan oleh?",
+    "jawaban": "Limbah pabrik"
+  },
+  {
+    "soal": "Pencemaran udara dapat disebabkan oleh?",
+    "jawaban": "Asap kendaraan"
+  },
+  {
+    "soal": "Limbah plastik sulit terurai karena?",
+    "jawaban": "Sulit diuraikan mikroorganisme"
+  },
+  {
+    "soal": "Daur ulang bertujuan untuk?",
+    "jawaban": "Mengurangi sampah"
+  },
+  {
+    "soal": "Tanaman yang dapat mengurangi polusi udara adalah?",
+    "jawaban": "Pohon"
+  },
+  {
+    "soal": "Keanekaragaman hayati adalah?",
+    "jawaban": "Variasi makhluk hidup"
+  },
+  {
+    "soal": "Hewan endemik Indonesia contohnya?",
+    "jawaban": "Komodo"
+  },
+  {
+    "soal": "Tumbuhan endemik Indonesia contohnya?",
+    "jawaban": "Rafflesia arnoldii"
+  },
+  {
+    "soal": "Cagar alam berfungsi untuk?",
+    "jawaban": "Melindungi flora dan fauna langka"
+  },
+  {
+    "soal": "Suaka margasatwa berfungsi untuk?",
+    "jawaban": "Melindungi satwa liar"
+  },
+  {
+    "soal": "Fotosintesis pada tumbuhan membutuhkan energi dari?",
+    "jawaban": "Matahari"
+  },
+  {
+    "soal": "Proses pernapasan pada manusia menghasilkan gas?",
+    "jawaban": "Karbon dioksida"
+  },
+  {
+    "soal": "Proses pernapasan pada tumbuhan menghasilkan gas?",
+    "jawaban": "Karbon dioksida"
+  },
+  {
+    "soal": "Oksigen dihasilkan dari proses?",
+    "jawaban": "Fotosintesis"
+  },
+  {
+    "soal": "Gas yang paling banyak di atmosfer adalah?",
+    "jawaban": "Nitrogen"
+  }
+]
