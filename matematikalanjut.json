@@ -1,0 +1,590 @@
+[
+  {
+    "soal": "Fungsi z = f(x,y) = 2x²y + 3xy². Turunan parsial ∂z/∂x adalah?",
+    "jawaban": "4xy + 3y²"
+  },
+  {
+    "soal": "Fungsi z = f(x,y) = x³y² - 5xy. Turunan parsial ∂z/∂y adalah?",
+    "jawaban": "2x³y - 5x"
+  },
+  {
+    "soal": "f(x,y) = e^(xy). ∂f/∂x adalah?",
+    "jawaban": "y e^(xy)"
+  },
+  {
+    "soal": "f(x,y) = ln(x² + y²). ∂f/∂x adalah?",
+    "jawaban": "2x/(x² + y²)"
+  },
+  {
+    "soal": "Gradien dari fungsi f(x,y) = x² + 3xy + y² di titik (1,1) adalah?",
+    "jawaban": "(5,5)"
+  },
+  {
+    "soal": "Turunan berarah f(x,y) = x² + y² di titik (1,1) searah vektor (1,0) adalah?",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Titik kritis f(x,y) = x² + y² - 2x - 4y + 6 adalah?",
+    "jawaban": "(1,2)"
+  },
+  {
+    "soal": "Jenis titik kritis f(x,y) = x² + y² - 2x - 4y + 6 adalah?",
+    "jawaban": "Minimum lokal"
+  },
+  {
+    "soal": "Hessian matriks untuk f(x,y) = 2x² + 3xy + y² adalah?",
+    "jawaban": "[[4,3],[3,2]]"
+  },
+  {
+    "soal": "∫∫ (x + y) dA dengan R = [0,1]×[0,1] adalah?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "∫∫ (x² + y²) dA dengan R = [0,2]×[0,2] adalah?",
+    "jawaban": "32/3"
+  },
+  {
+    "soal": "Luas daerah R dibatasi y=x² dan y=x adalah?",
+    "jawaban": "1/6 satuan luas"
+  },
+  {
+    "soal": "Volume benda di bawah z = x + y di atas R = [0,1]×[0,1] adalah?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "∫∫ (xy) dA dengan R segitiga (0,0),(1,0),(0,1) adalah?",
+    "jawaban": "1/24"
+  },
+  {
+    "soal": "∫₀¹∫₀ˣ (x + y) dy dx = ?",
+    "jawaban": "1/2"
+  },
+  {
+    "soal": "∫₀¹∫₀ʸ (x²) dx dy = ?",
+    "jawaban": "1/12"
+  },
+  {
+    "soal": "Persamaan diferensial dy/dx = 2x. Solusi umumnya adalah?",
+    "jawaban": "y = x² + C"
+  },
+  {
+    "soal": "PD dy/dx = 3y. Solusi umumnya adalah?",
+    "jawaban": "y = Ce^(3x)"
+  },
+  {
+    "soal": "PD dy/dx = y/x. Solusi umumnya adalah?",
+    "jawaban": "y = Cx"
+  },
+  {
+    "soal": "PD linier orde 1: dy/dx + 2y = 4. Solusi umum adalah?",
+    "jawaban": "y = 2 + Ce^(-2x)"
+  },
+  {
+    "soal": "PD Bernoulli: dy/dx + y = y². Solusi umumnya?",
+    "jawaban": "1/y = 1 + Ce^x"
+  },
+  {
+    "soal": "PD eksak: (2x + y)dx + (x + 2y)dy = 0. Solusi umumnya?",
+    "jawaban": "x² + xy + y² = C"
+  },
+  {
+    "soal": "Faktor integrasi dari PD (x + y)dx + (3x + 3y + 2)dy = 0 adalah?",
+    "jawaban": "e^(2y)"
+  },
+  {
+    "soal": "PD homogen: dy/dx = (x + y)/x. Solusi umumnya adalah?",
+    "jawaban": "y = x ln|x| + Cx"
+  },
+  {
+    "soal": "Persamaan karakteristik dari y'' - 5y' + 6y = 0 adalah?",
+    "jawaban": "r² - 5r + 6 = 0"
+  },
+  {
+    "soal": "Solusi umum PD orde 2: y'' - 5y' + 6y = 0 adalah?",
+    "jawaban": "y = C₁e^(2x) + C₂e^(3x)"
+  },
+  {
+    "soal": "Solusi umum PD y'' - 2y' + y = 0 adalah?",
+    "jawaban": "y = (C₁ + C₂x)e^x"
+  },
+  {
+    "soal": "Solusi umum PD y'' + y' + y = 0 adalah?",
+    "jawaban": "y = e^(-x/2)(C₁ cos(√3 x/2) + C₂ sin(√3 x/2))"
+  },
+  {
+    "soal": "Solusi khusus PD y'' - 4y = 0 dengan y(0)=1, y'(0)=2 adalah?",
+    "jawaban": "y = e^(2x)"
+  },
+  {
+    "soal": "Wronskian dari {e^(2x), e^(3x)} adalah?",
+    "jawaban": "e^(5x)"
+  },
+  {
+    "soal": "Deret Fourier dari fungsi genap periodik 2π, f(x)=|x| pada [-π,π] memiliki suku?",
+    "jawaban": "Hanya cosinus (dan konstanta)"
+  },
+  {
+    "soal": "Koefisien a₀ deret Fourier f(x)=x pada [-π,π] adalah?",
+    "jawaban": "0"
+  },
+  {
+    "soal": "Transformasi Laplace dari f(t)=1 adalah?",
+    "jawaban": "1/s"
+  },
+  {
+    "soal": "L{t} = ?",
+    "jawaban": "1/s²"
+  },
+  {
+    "soal": "L{e^(at)} = ?",
+    "jawaban": "1/(s-a)"
+  },
+  {
+    "soal": "L{sin(ωt)} = ?",
+    "jawaban": "ω/(s²+ω²)"
+  },
+  {
+    "soal": "L{cos(ωt)} = ?",
+    "jawaban": "s/(s²+ω²)"
+  },
+  {
+    "soal": "Invers L⁻¹{1/(s-2)} = ?",
+    "jawaban": "e^(2t)"
+  },
+  {
+    "soal": "Vektor di R³: (1,2,3) + (4,5,6) = ?",
+    "jawaban": "(5,7,9)"
+  },
+  {
+    "soal": "Panjang vektor (3,4) di R² adalah?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Hasil kali titik (dot product) (1,2,3)·(4,5,6) = ?",
+    "jawaban": "32"
+  },
+  {
+    "soal": "Sudut antara vektor (1,0) dan (0,1) adalah?",
+    "jawaban": "90°"
+  },
+  {
+    "soal": "Hasil kali silang (cross product) (1,0,0) × (0,1,0) = ?",
+    "jawaban": "(0,0,1)"
+  },
+  {
+    "soal": "Luas jajar genjang yang dibentuk vektor (1,2) dan (3,4) adalah?",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Volume paralel epipedum dari vektor (1,0,0),(0,1,0),(0,0,1) adalah?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Ruang vektor semua fungsi kontinu pada [0,1] memiliki dimensi?",
+    "jawaban": "Tak hingga"
+  },
+  {
+    "soal": "Himpunan {(1,0),(0,1)} di R² adalah basis karena?",
+    "jawaban": "Bebas linear dan merentang R²"
+  },
+  {
+    "soal": "Matriks transformasi linear T(x,y) = (x+y, x-y) dalam basis standar adalah?",
+    "jawaban": "[[1,1],[1,-1]]"
+  },
+  {
+    "soal": "Rank matriks A = [[1,2,3],[4,5,6],[7,8,9]] adalah?",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Nulitas matriks 3×3 dengan rank 2 adalah?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Determinan [[a,b],[c,d]] = ?",
+    "jawaban": "ad - bc"
+  },
+  {
+    "soal": "Determinan [[1,2,3],[0,1,4],[0,0,1]] adalah?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Trace matriks [[1,2],[3,4]] adalah?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Eigenvalues dari matriks [[2,1],[1,2]] adalah?",
+    "jawaban": "3 dan 1"
+  },
+  {
+    "soal": "Eigenvector dari matriks [[2,1],[1,2]] untuk eigenvalue 3 adalah?",
+    "jawaban": "(1,1)"
+  },
+  {
+    "soal": "Matriks diagonalizable jika?",
+    "jawaban": "Memiliki n eigenvector bebas linear"
+  },
+  {
+    "soal": "Polinomial karakteristik dari matriks [[2,1],[1,2]] adalah?",
+    "jawaban": "λ² - 4λ + 3 = 0"
+  },
+  {
+    "soal": "Jika A² = A, maka A disebut?",
+    "jawaban": "Matriks idempoten"
+  },
+  {
+    "soal": "Jika A^T = A⁻¹, maka A disebut?",
+    "jawaban": "Matriks ortogonal"
+  },
+  {
+    "soal": "Rata-rata sampel x̄ = (1/n)∑xᵢ. Simbolnya?",
+    "jawaban": "X bar"
+  },
+  {
+    "soal": "Varians sampel s² = (1/(n-1))∑(xᵢ - x̄)². Mengapa dibagi n-1?",
+    "jawaban": "Unbiased estimator"
+  },
+  {
+    "soal": "Distribusi sampling dari rata-rata sampel untuk n besar mendekati?",
+    "jawaban": "Distribusi normal (CLT)"
+  },
+  {
+    "soal": "Interval kepercayaan 95% untuk mean populasi jika σ diketahui adalah?",
+    "jawaban": "x̄ ± 1,96 (σ/√n)"
+  },
+  {
+    "soal": "Hipotesis nol (H₀) biasanya menyatakan?",
+    "jawaban": "Tidak ada efek atau tidak ada perbedaan"
+  },
+  {
+    "soal": "p-value = 0,03. Jika α=0,05, keputusannya adalah?",
+    "jawaban": "Tolak H₀"
+  },
+  {
+    "soal": "Kesalahan tipe I adalah?",
+    "jawaban": "Menolak H₀ padahal H₀ benar"
+  },
+  {
+    "soal": "Kesalahan tipe II adalah?",
+    "jawaban": "Gagal menolak H₀ padahal H₀ salah"
+  },
+  {
+    "soal": "Uji t digunakan ketika?",
+    "jawaban": "σ tidak diketahui dan n kecil"
+  },
+  {
+    "soal": "Distribusi t memiliki parameter?",
+    "jawaban": "Derajat bebas (df)"
+  },
+  {
+    "soal": "Statistik uji chi-square untuk independensi dua variabel kategorik adalah?",
+    "jawaban": "∑ (O - E)²/E"
+  },
+  {
+    "soal": "Korelasi Pearson mengukur?",
+    "jawaban": "Hubungan linear antara dua variabel"
+  },
+  {
+    "soal": "Koefisien determinasi (R²) adalah?",
+    "jawaban": "Proporsi varians yang dijelaskan model"
+  },
+  {
+    "soal": "Analisis varian (ANOVA) membandingkan?",
+    "jawaban": "Lebih dari dua rata-rata populasi"
+  },
+  {
+    "soal": "Prinsip inklusi-eksklusi untuk |A∪B∪C| = ?",
+    "jawaban": "|A|+|B|+|C| - |A∩B| - |A∩C| - |B∩C| + |A∩B∩C|"
+  },
+  {
+    "soal": "Banyak fungsi injektif dari himpunan 3 elemen ke 5 elemen adalah?",
+    "jawaban": "60"
+  },
+  {
+    "soal": "Banyak fungsi surjektif dari himpunan 3 ke 2 adalah?",
+    "jawaban": "6"
+  },
+  {
+    "soal": "Banyak cara membagi 10 orang menjadi 2 tim masing-masing 5 orang adalah?",
+    "jawaban": "126"
+  },
+  {
+    "soal": "Koefisien binomial (n choose k) = ?",
+    "jawaban": "n!/(k!(n-k)!)"
+  },
+  {
+    "soal": "Ekspansi (x + y)⁵ koefisien x³y² adalah?",
+    "jawaban": "10"
+  },
+  {
+    "soal": "Segitiga Pascal baris ke-5 (n=5) adalah?",
+    "jawaban": "1, 5, 10, 10, 5, 1"
+  },
+  {
+    "soal": "Prinsip sarang merpati (Pigeonhole Principle) menyatakan?",
+    "jawaban": "Jika n+1 benda dimasukkan ke n kotak, setidaknya satu kotak berisi 2 benda"
+  },
+  {
+    "soal": "Banyak bilangan genap 3 digit dari angka 1-5 tanpa pengulangan?",
+    "jawaban": "24"
+  },
+  {
+    "soal": "Banyak cara menyusun kata 'MATEMATIKA' adalah?",
+    "jawaban": "151200"
+  },
+  {
+    "soal": "Grafik dari fungsi rekursif f(n) = f(n-1) + f(n-2) dengan f(0)=0, f(1)=1 adalah?",
+    "jawaban": "Barisan Fibonacci"
+  },
+  {
+    "soal": "Rumus Binet untuk bilangan Fibonacci ke-n adalah?",
+    "jawaban": "(φⁿ - ψⁿ)/√5"
+  },
+  {
+    "soal": "Bilangan prima terbesar yang diketahui saat ini jenisnya?",
+    "jawaban": "Mersenne prime"
+  },
+  {
+    "soal": "Algoritma Euclidean digunakan untuk?",
+    "jawaban": "Menghitung GCD"
+  },
+  {
+    "soal": "gcd(48, 180) = ?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "lcm(12, 18) = ?",
+    "jawaban": "36"
+  },
+  {
+    "soal": "Teorema kecil Fermat: a^(p-1) ≡ ? (mod p) jika p prima dan a tidak habis dibagi p?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Fungsi Euler φ(10) = ?",
+    "jawaban": "4"
+  },
+  {
+    "soal": "Banyak bilangan prima antara 1 dan 100 adalah?",
+    "jawaban": "25"
+  },
+  {
+    "soal": "Konjektur Goldbach menyatakan?",
+    "jawaban": "Setiap bilangan genap >2 adalah jumlah 2 prima"
+  },
+  {
+    "soal": "Rumus phytagoras untuk tripel a,b,c dengan a²+b²=c² contohnya (3,4,5). Tentukan tripel primitif lainnya?",
+    "jawaban": "(5,12,13)"
+  },
+  {
+    "soal": "Teorema sisa China (Chinese Remainder Theorem) menyelesaikan?",
+    "jawaban": "Sistem kongruensi linear"
+  },
+  {
+    "soal": "Relasi rekursif T(n) = 2T(n/2) + n memiliki solusi dengan metode master theorem?",
+    "jawaban": "O(n log n)"
+  },
+  {
+    "soal": "Notasi O besar (Big O) menyatakan?",
+    "jawaban": "Batas atas asimptotik"
+  },
+  {
+    "soal": "Algoritma sorting dengan kompleksitas O(n log n) contohnya?",
+    "jawaban": "Merge sort"
+  },
+  {
+    "soal": "Grafik planar adalah grafik yang dapat digambar tanpa sisi berpotongan. Contohnya?",
+    "jawaban": "K4"
+  },
+  {
+    "soal": "Rumus Euler untuk grafik planar: v - e + f = ?",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Grafik K₅ (lengkap 5 simpul) adalah?",
+    "jawaban": "Non-planar"
+  },
+  {
+    "soal": "Teorema empat warna menyatakan?",
+    "jawaban": "4 warna cukup untuk mewarnai peta planar"
+  },
+  {
+    "soal": "Pohon (tree) dengan n simpul memiliki berapa sisi?",
+    "jawaban": "n-1"
+  },
+  {
+    "soal": "Grafik bipartit jika dapat diwarnai dengan?",
+    "jawaban": "2 warna"
+  },
+  {
+    "soal": "Himpunan bagian dari himpunan {1,2,3} ada berapa?",
+    "jawaban": "8"
+  },
+  {
+    "soal": "Kardinalitas dari himpunan kuasa (power set) himpunan A dengan |A| = n adalah?",
+    "jawaban": "2ⁿ"
+  },
+  {
+    "soal": "Himpunan A dan B ekuivalen jika ada?",
+    "jawaban": "Fungsi bijektif"
+  },
+  {
+    "soal": "Kardinalitas himpunan bilangan real |R| adalah?",
+    "jawaban": "Aleph satu atau kontinum"
+  },
+  {
+    "soal": "Himpunan bilangan rasional Q adalah?",
+    "jawaban": "Terhitung (countable)"
+  },
+  {
+    "soal": "Operasi biner didefinisikan sebagai?",
+    "jawaban": "Fungsi dari A×A ke A"
+  },
+  {
+    "soal": "Grup adalah himpunan dengan operasi biner yang memenuhi?",
+    "jawaban": "Asosiatif, identitas, invers"
+  },
+  {
+    "soal": "Grup komutatif disebut juga?",
+    "jawaban": "Grup Abelian"
+  },
+  {
+    "soal": "Bilangan bulat Z dengan operasi + membentuk?",
+    "jawaban": "Grup Abelian"
+  },
+  {
+    "soal": "Invers dari matriks A jika determinan ≠ 0 disebut?",
+    "jawaban": "Matriks invertible/non-singular"
+  },
+  {
+    "soal": "Sifat tertutup grup berarti?",
+    "jawaban": "a*b ∈ G untuk semua a,b∈G"
+  },
+  {
+    "soal": "Transformasi linear T: R²→R², T(x,y)=(x, 0) disebut?",
+    "jawaban": "Proyeksi"
+  },
+  {
+    "soal": "Kerangka atau basis standar untuk ruang vektor R³ adalah?",
+    "jawaban": "e₁=(1,0,0), e₂=(0,1,0), e₃=(0,0,1)"
+  },
+  {
+    "soal": "Himpunan vektor (1,0) dan (2,0) di R² adalah?",
+    "jawaban": "Bergantung linear (dependent)"
+  },
+  {
+    "soal": "Dimensi dari ruang solusi sistem Ax = 0 disebut?",
+    "jawaban": "Nulitas"
+  },
+  {
+    "soal": "Ruang baris dan ruang kolom matriks memiliki dimensi yang sama disebut?",
+    "jawaban": "Rank matriks"
+  },
+  {
+    "soal": "Matriks [[1,2],[3,4]] dapat didiagonalisasi?",
+    "jawaban": "Ya (memiliki 2 eigenvector bebas linear)"
+  },
+  {
+    "soal": "Matriks yang tidak dapat didiagonalisasi disebut?",
+    "jawaban": "Defective matriks"
+  },
+  {
+    "soal": "Metode Newton-Raphson untuk mencari akar f(x)=0, rumus iterasi?",
+    "jawaban": "x_(n+1) = x_n - f(x_n)/f'(x_n)"
+  },
+  {
+    "soal": "Interpolasi polinomial Lagrange digunakan untuk?",
+    "jawaban": "Mencari polinomial melalui titik data"
+  },
+  {
+    "soal": "Metode Euler untuk menyelesaikan PD biasa?",
+    "jawaban": "Metode numerik orde 1"
+  },
+  {
+    "soal": "Deret Taylor dari e^x di sekitar x=0 adalah?",
+    "jawaban": "∑ xⁿ/n!"
+  },
+  {
+    "soal": "Deret Maclaurin sin x adalah?",
+    "jawaban": "x - x³/3! + x⁵/5! - ..."
+  },
+  {
+    "soal": "Deret Maclaurin cos x adalah?",
+    "jawaban": "1 - x²/2! + x⁴/4! - ..."
+  },
+  {
+    "soal": "Jari-jari konvergensi deret ∑ xⁿ adalah?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Deret ∑ 1/n² konvergen ke?",
+    "jawaban": "π²/6"
+  },
+  {
+    "soal": "Deret harmonik ∑ 1/n bersifat?",
+    "jawaban": "Divergen"
+  },
+  {
+    "soal": "Uji rasio untuk menentukan konvergensi deret menggunakan limit?",
+    "jawaban": "lim |a_(n+1)/a_n|"
+  },
+  {
+    "soal": "Deret pangkat dengan pusat a adalah ∑ c_n (x-a)ⁿ. Pusat deret ini?",
+    "jawaban": "a"
+  },
+  {
+    "soal": "Peta konformal yang mempertahankan?",
+    "jawaban": "Sudut"
+  },
+  {
+    "soal": "Bilangan kompleks i² = ?",
+    "jawaban": "-1"
+  },
+  {
+    "soal": "Bilangan kompleks dalam bentuk a+ib, bagian real dan imajiner. |z| = √(a²+b²) disebut?",
+    "jawaban": "Modulus"
+  },
+  {
+    "soal": "Argumen bilangan kompleks z = a+ib adalah?",
+    "jawaban": "arctan(b/a)"
+  },
+  {
+    "soal": "Persamaan Euler e^(iθ) = ?",
+    "jawaban": "cos θ + i sin θ"
+  },
+  {
+    "soal": "Teorema Cauchy untuk fungsi analitik menyatakan?",
+    "jawaban": "Integral loop tertutup = 0"
+  },
+  {
+    "soal": "Residu dari f(z) = 1/z di z=0 adalah?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Metode eliminasi Gauss-Jordan untuk?",
+    "jawaban": "Menyelesaikan SPL"
+  },
+  {
+    "soal": "Algoritma Dijkstra untuk?",
+    "jawaban": "Shortest path pada graf berbobot positif"
+  },
+  {
+    "soal": "Notasi turunan parsial ∂f/∂x dibaca?",
+    "jawaban": "Turunan parsial f terhadap x"
+  },
+  {
+    "soal": "Integral lipat tiga ∭ f dV digunakan untuk menghitung?",
+    "jawaban": "Volume, massa, atau momen"
+  },
+  {
+    "soal": "Teorema divergensi (Gauss) menghubungkan?",
+    "jawaban": "Integral volume divergensi dengan fluks melalui permukaan"
+  },
+  {
+    "soal": "Teorema Stokes menghubungkan?",
+    "jawaban": "Integral curl di permukaan dengan integral garis di batasnya"
+  },
+  {
+    "soal": "Kurva tertutup sederhana membagi bidang menjadi?",
+    "jawaban": "Daerah dalam dan luar (Jordan curve theorem)"
+  }
+]
