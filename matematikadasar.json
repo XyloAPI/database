@@ -1,0 +1,842 @@
+[
+  {
+    "soal": "Bilangan yang hanya memiliki dua faktor yaitu 1 dan bilangan itu sendiri disebut?",
+    "jawaban": "Bilangan prima"
+  },
+  {
+    "soal": "Hasil dari 25 × 4?",
+    "jawaban": "100"
+  },
+  {
+    "soal": "Akar kuadrat dari 144?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "3 pangkat 3 sama dengan?",
+    "jawaban": "27"
+  },
+  {
+    "soal": "Bilangan genap setelah 10?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Bilangan ganjil sebelum 9?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Luas persegi dengan sisi 5 cm?",
+    "jawaban": "25 cm persegi"
+  },
+  {
+    "soal": "Keliling persegi panjang dengan panjang 8 cm dan lebar 3 cm?",
+    "jawaban": "22 cm"
+  },
+  {
+    "soal": "Luas lingkaran dengan jari-jari 7 cm (π = 22/7)?",
+    "jawaban": "154 cm persegi"
+  },
+  {
+    "soal": "Keliling lingkaran dengan diameter 14 cm (π = 22/7)?",
+    "jawaban": "44 cm"
+  },
+  {
+    "soal": "Jumlah sudut dalam segitiga?",
+    "jawaban": "180 derajat"
+  },
+  {
+    "soal": "Jumlah sudut dalam persegi?",
+    "jawaban": "360 derajat"
+  },
+  {
+    "soal": "Bangun datar yang memiliki empat sisi sama panjang dan empat sudut siku-siku disebut?",
+    "jawaban": "Persegi"
+  },
+  {
+    "soal": "Bangun datar yang memiliki dua pasang sisi sejajar dan sama panjang disebut?",
+    "jawaban": "Jajar genjang"
+  },
+  {
+    "soal": "Bangun datar yang memiliki sepasang sisi sejajar disebut?",
+    "jawaban": "Trapesium"
+  },
+  {
+    "soal": "Bangun datar yang memiliki tiga sisi sama panjang disebut?",
+    "jawaban": "Segitiga sama sisi"
+  },
+  {
+    "soal": "Bangun datar yang memiliki dua sisi sama panjang disebut?",
+    "jawaban": "Segitiga sama kaki"
+  },
+  {
+    "soal": "Bangun datar yang memiliki satu sudut siku-siku disebut?",
+    "jawaban": "Segitiga siku-siku"
+  },
+  {
+    "soal": "Teorema yang menyatakan a² + b² = c² pada segitiga siku-siku disebut?",
+    "jawaban": "Teorema Pythagoras"
+  },
+  {
+    "soal": "Hasil dari 15 + 27?",
+    "jawaban": "42"
+  },
+  {
+    "soal": "Hasil dari 81 ÷ 9?",
+    "jawaban": "9"
+  },
+  {
+    "soal": "Hasil dari 7 × 8?",
+    "jawaban": "56"
+  },
+  {
+    "soal": "Hasil dari 100 - 37?",
+    "jawaban": "63"
+  },
+  {
+    "soal": "Bilangan 0, 1, 2, 3, ... disebut?",
+    "jawaban": "Bilangan cacah"
+  },
+  {
+    "soal": "Bilangan 1, 2, 3, 4, ... disebut?",
+    "jawaban": "Bilangan asli"
+  },
+  {
+    "soal": "Bilangan ..., -3, -2, -1, 0, 1, 2, 3, ... disebut?",
+    "jawaban": "Bilangan bulat"
+  },
+  {
+    "soal": "Bilangan yang dapat dinyatakan sebagai a/b dengan b ≠ 0 disebut?",
+    "jawaban": "Bilangan rasional"
+  },
+  {
+    "soal": "Bilangan yang tidak dapat dinyatakan sebagai a/b disebut?",
+    "jawaban": "Bilangan irasional"
+  },
+  {
+    "soal": "Contoh bilangan irasional?",
+    "jawaban": "Akar 2"
+  },
+  {
+    "soal": "Nilai π (pi) kira-kira?",
+    "jawaban": "3,14"
+  },
+  {
+    "soal": "Hasil dari 2/3 + 1/6?",
+    "jawaban": "5/6"
+  },
+  {
+    "soal": "Hasil dari 3/4 - 1/2?",
+    "jawaban": "1/4"
+  },
+  {
+    "soal": "Hasil dari 2/5 × 3/4?",
+    "jawaban": "6/20 atau 3/10"
+  },
+  {
+    "soal": "Hasil dari 3/8 ÷ 1/4?",
+    "jawaban": "12/8 atau 3/2 atau 1,5"
+  },
+  {
+    "soal": "Bentuk desimal dari 1/4?",
+    "jawaban": "0,25"
+  },
+  {
+    "soal": "Bentuk desimal dari 3/5?",
+    "jawaban": "0,6"
+  },
+  {
+    "soal": "Bentuk persen dari 0,35?",
+    "jawaban": "35%"
+  },
+  {
+    "soal": "Bentuk persen dari 1/4?",
+    "jawaban": "25%"
+  },
+  {
+    "soal": "15% dari 200 adalah?",
+    "jawaban": "30"
+  },
+  {
+    "soal": "Volume kubus dengan rusuk 4 cm?",
+    "jawaban": "64 cm kubik"
+  },
+  {
+    "soal": "Volume balok dengan panjang 5 cm, lebar 3 cm, tinggi 2 cm?",
+    "jawaban": "30 cm kubik"
+  },
+  {
+    "soal": "Luas permukaan kubus dengan rusuk 6 cm?",
+    "jawaban": "216 cm persegi"
+  },
+  {
+    "soal": "Volume tabung dengan jari-jari 7 cm dan tinggi 10 cm (π=22/7)?",
+    "jawaban": "1540 cm kubik"
+  },
+  {
+    "soal": "Volume bola dengan jari-jari 7 cm (π=22/7)?",
+    "jawaban": "1437,33 cm kubik"
+  },
+  {
+    "soal": "Bangun ruang yang memiliki 6 sisi berbentuk persegi disebut?",
+    "jawaban": "Kubus"
+  },
+  {
+    "soal": "Bangun ruang yang memiliki 6 sisi berbentuk persegi panjang disebut?",
+    "jawaban": "Balok"
+  },
+  {
+    "soal": "Bangun ruang yang memiliki 5 sisi (alas segitiga + 3 sisi tegak) disebut?",
+    "jawaban": "Limas segitiga"
+  },
+  {
+    "soal": "Bangun ruang yang memiliki 2 sisi berbentuk lingkaran disebut?",
+    "jawaban": "Tabung"
+  },
+  {
+    "soal": "Bangun ruang yang semua titiknya berjarak sama dari pusat disebut?",
+    "jawaban": "Bola"
+  },
+  {
+    "soal": "Rumus luas persegi panjang?",
+    "jawaban": "Panjang × lebar"
+  },
+  {
+    "soal": "Rumus luas segitiga?",
+    "jawaban": "1/2 × alas × tinggi"
+  },
+  {
+    "soal": "Rumus luas trapesium?",
+    "jawaban": "1/2 × (sisi sejajar 1 + sisi sejajar 2) × tinggi"
+  },
+  {
+    "soal": "Rumus keliling lingkaran?",
+    "jawaban": "2 × π × r atau π × d"
+  },
+  {
+    "soal": "Rumus volume kerucut?",
+    "jawaban": "1/3 × π × r² × t"
+  },
+  {
+    "soal": "Rumus volume limas?",
+    "jawaban": "1/3 × luas alas × tinggi"
+  },
+  {
+    "soal": "Faktor dari 12?",
+    "jawaban": "1, 2, 3, 4, 6, 12"
+  },
+  {
+    "soal": "Kelipatan persekutuan terkecil (KPK) dari 4 dan 6?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Faktor persekutuan terbesar (FPB) dari 12 dan 18?",
+    "jawaban": "6"
+  },
+  {
+    "soal": "Bilangan prima antara 10 dan 20?",
+    "jawaban": "11, 13, 17, 19"
+  },
+  {
+    "soal": "Hasil dari (-8) + 5?",
+    "jawaban": "-3"
+  },
+  {
+    "soal": "Hasil dari (-7) - (-3)?",
+    "jawaban": "-4"
+  },
+  {
+    "soal": "Hasil dari (-6) × 4?",
+    "jawaban": "-24"
+  },
+  {
+    "soal": "Hasil dari (-15) ÷ (-3)?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Nilai mutlak dari -9 adalah?",
+    "jawaban": "9"
+  },
+  {
+    "soal": "Notasi ilmiah dari 5.600.000?",
+    "jawaban": "5,6 × 10^6"
+  },
+  {
+    "soal": "Bentuk sederhana dari 8/12?",
+    "jawaban": "2/3"
+  },
+  {
+    "soal": "Bentuk baku dari 0,00045?",
+    "jawaban": "4,5 × 10^-4"
+  },
+  {
+    "soal": "Akar pangkat tiga dari 27?",
+    "jawaban": "3"
+  },
+  {
+    "soal": "2 pangkat 4 = ?",
+    "jawaban": "16"
+  },
+  {
+    "soal": "10 pangkat -2 = ?",
+    "jawaban": "0,01"
+  },
+  {
+    "soal": "Logaritma basis 10 dari 100 adalah?",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Himpunan kosong dilambangkan dengan?",
+    "jawaban": "∅"
+  },
+  {
+    "soal": "Irisan himpunan A dan B dilambangkan dengan?",
+    "jawaban": "A ∩ B"
+  },
+  {
+    "soal": "Gabungan himpunan A dan B dilambangkan dengan?",
+    "jawaban": "A ∪ B"
+  },
+  {
+    "soal": "Jika A ⊂ B maka A disebut?",
+    "jawaban": "Himpunan bagian"
+  },
+  {
+    "soal": "Rata-rata (mean) dari 5, 7, 9?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Median dari 3, 5, 7, 9, 11?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Modus dari 2, 3, 3, 4, 5, 5, 5?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Jangkauan (range) dari 10, 15, 20, 25?",
+    "jawaban": "15"
+  },
+  {
+    "soal": "Peluang muncul angka pada pelemparan koin?",
+    "jawaban": "1/2"
+  },
+  {
+    "soal": "Peluang muncul mata dadu 5 pada pelemparan dadu?",
+    "jawaban": "1/6"
+  },
+  {
+    "soal": "Garis yang mendatar pada bidang koordinat disebut?",
+    "jawaban": "Sumbu X"
+  },
+  {
+    "soal": "Garis yang tegak pada bidang koordinat disebut?",
+    "jawaban": "Sumbu Y"
+  },
+  {
+    "soal": "Titik perpotongan sumbu X dan sumbu Y disebut?",
+    "jawaban": "Titik asal (0,0)"
+  },
+  {
+    "soal": "Bentuk umum persamaan garis lurus?",
+    "jawaban": "y = mx + c"
+  },
+  {
+    "soal": "Gradien garis y = 2x + 3 adalah?",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Garis dengan gradien positif condong ke arah?",
+    "jawaban": "Kanan atas"
+  },
+  {
+    "soal": "Persamaan kuadrat memiliki bentuk umum?",
+    "jawaban": "ax² + bx + c = 0"
+  },
+  {
+    "soal": "Rumus mencari akar persamaan kuadrat disebut?",
+    "jawaban": "Rumus ABC"
+  },
+  {
+    "soal": "Diskriminan persamaan kuadrat dirumuskan dengan?",
+    "jawaban": "b² - 4ac"
+  },
+  {
+    "soal": "Jika diskriminan > 0 maka akarnya?",
+    "jawaban": "Dua akar real berbeda"
+  },
+  {
+    "soal": "Jika diskriminan = 0 maka akarnya?",
+    "jawaban": "Dua akar real kembar"
+  },
+  {
+    "soal": "Jika diskriminan < 0 maka akarnya?",
+    "jawaban": "Tidak real (imajiner)"
+  },
+  {
+    "soal": "Fungsi trigonometri sin 30° = ?",
+    "jawaban": "1/2"
+  },
+  {
+    "soal": "cos 60° = ?",
+    "jawaban": "1/2"
+  },
+  {
+    "soal": "tan 45° = ?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "sin² x + cos² x = ?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Nilai dari 0! (faktorial nol) adalah?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "5! (5 faktorial) = ?",
+    "jawaban": "120"
+  },
+  {
+    "soal": "Rumus permutasi nPr = ?",
+    "jawaban": "n! / (n-r)!"
+  },
+  {
+    "soal": "Rumus kombinasi nCr = ?",
+    "jawaban": "n! / (r! × (n-r)!)"
+  },
+  {
+    "soal": "Barisan bilangan 2, 4, 6, 8, ... disebut?",
+    "jawaban": "Barisan aritmatika"
+  },
+  {
+    "soal": "Barisan bilangan 2, 4, 8, 16, ... disebut?",
+    "jawaban": "Barisan geometri"
+  },
+  {
+    "soal": "Rumus suku ke-n barisan aritmatika?",
+    "jawaban": "Un = a + (n-1)b"
+  },
+  {
+    "soal": "Rumus suku ke-n barisan geometri?",
+    "jawaban": "Un = a × r^(n-1)"
+  },
+  {
+    "soal": "Jumlah deret aritmatika 1 + 2 + 3 + ... + 100?",
+    "jawaban": "5050"
+  },
+  {
+    "soal": "Invers dari penjumlahan adalah?",
+    "jawaban": "Pengurangan"
+  },
+  {
+    "soal": "Invers dari perkalian adalah?",
+    "jawaban": "Pembagian"
+  },
+  {
+    "soal": "Sifat komutatif pada penjumlahan contohnya?",
+    "jawaban": "a + b = b + a"
+  },
+  {
+    "soal": "Sifat asosiatif pada perkalian contohnya?",
+    "jawaban": "(a × b) × c = a × (b × c)"
+  },
+  {
+    "soal": "Sifat distributif perkalian terhadap penjumlahan?",
+    "jawaban": "a × (b + c) = a×b + a×c"
+  },
+  {
+    "soal": "Unsur identitas penjumlahan adalah?",
+    "jawaban": "0"
+  },
+  {
+    "soal": "Unsur identitas perkalian adalah?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Bilangan yang jika dikalikan menghasilkan 1 disebut?",
+    "jawaban": "Invers perkalian (kebalikan)"
+  },
+  {
+    "soal": "Hasil dari 2³ × 2⁴ = ?",
+    "jawaban": "2⁷ atau 128"
+  },
+  {
+    "soal": "Hasil dari 5⁶ ÷ 5² = ?",
+    "jawaban": "5⁴ atau 625"
+  },
+  {
+    "soal": "(2³)² = ?",
+    "jawaban": "2⁶ atau 64"
+  },
+  {
+    "soal": "√12 disederhanakan menjadi?",
+    "jawaban": "2√3"
+  },
+  {
+    "soal": "Bentuk rasional dari 2/√2?",
+    "jawaban": "√2"
+  },
+  {
+    "soal": "Log 1000 = ?",
+    "jawaban": "3"
+  },
+  {
+    "soal": "ln e = ?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Nilai dari sin 90°?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Nilai dari cos 0°?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Sudut 90° sama dengan berapa radian?",
+    "jawaban": "π/2 radian"
+  },
+  {
+    "soal": "Satuan sudut dalam lingkaran penuh adalah?",
+    "jawaban": "360°"
+  },
+  {
+    "soal": "Garis yang membagi sudut menjadi dua sama besar disebut?",
+    "jawaban": "Garis bagi"
+  },
+  {
+    "soal": "Garis yang membagi sisi segitiga menjadi dua sama panjang disebut?",
+    "jawaban": "Garis median"
+  },
+  {
+    "soal": "Garis tegak lurus dari titik sudut ke sisi di depannya disebut?",
+    "jawaban": "Garis tinggi"
+  },
+  {
+    "soal": "Titik potong ketiga garis tinggi segitiga disebut?",
+    "jawaban": "Ortosenter"
+  },
+  {
+    "soal": "Titik potong ketiga garis berat segitiga disebut?",
+    "jawaban": "Sentroid (titik berat)"
+  },
+  {
+    "soal": "Bangun datar yang simetri lipatnya tak terhingga?",
+    "jawaban": "Lingkaran"
+  },
+  {
+    "soal": "Bangun datar yang memiliki 4 simetri lipat?",
+    "jawaban": "Persegi"
+  },
+  {
+    "soal": "Bangun datar yang memiliki 2 simetri lipat?",
+    "jawaban": "Persegi panjang"
+  },
+  {
+    "soal": "Dua garis yang tidak pernah bertemu disebut?",
+    "jawaban": "Garis sejajar"
+  },
+  {
+    "soal": "Dua garis yang berpotongan membentuk sudut 90° disebut?",
+    "jawaban": "Garis tegak lurus"
+  },
+  {
+    "soal": "Sudut yang besarnya kurang dari 90° disebut?",
+    "jawaban": "Sudut lancip"
+  },
+  {
+    "soal": "Sudut yang besarnya 90° disebut?",
+    "jawaban": "Sudut siku-siku"
+  },
+  {
+    "soal": "Sudut yang besarnya antara 90° dan 180° disebut?",
+    "jawaban": "Sudut tumpul"
+  },
+  {
+    "soal": "Sudut yang besarnya 180° disebut?",
+    "jawaban": "Sudut lurus"
+  },
+  {
+    "soal": "Dua sudut yang jumlahnya 90° disebut?",
+    "jawaban": "Sudut komplementer"
+  },
+  {
+    "soal": "Dua sudut yang jumlahnya 180° disebut?",
+    "jawaban": "Sudut suplementer"
+  },
+  {
+    "soal": "Luas jajar genjang dengan alas 10 cm dan tinggi 5 cm?",
+    "jawaban": "50 cm persegi"
+  },
+  {
+    "soal": "Luas belah ketupat dengan diagonal 8 cm dan 6 cm?",
+    "jawaban": "24 cm persegi"
+  },
+  {
+    "soal": "Keliling belah ketupat dengan sisi 5 cm?",
+    "jawaban": "20 cm"
+  },
+  {
+    "soal": "Luas layang-layang dengan diagonal 12 cm dan 8 cm?",
+    "jawaban": "48 cm persegi"
+  },
+  {
+    "soal": "Sebutan lain dari sumbu simetri pada lingkaran?",
+    "jawaban": "Diameter"
+  },
+  {
+    "soal": "Jarak dari pusat lingkaran ke titik pada lingkaran disebut?",
+    "jawaban": "Jari-jari"
+  },
+  {
+    "soal": "Tali busur terpanjang pada lingkaran disebut?",
+    "jawaban": "Diameter"
+  },
+  {
+    "soal": "Daerah dalam lingkaran yang dibatasi oleh dua jari-jari dan busur disebut?",
+    "jawaban": "Juring"
+  },
+  {
+    "soal": "Daerah dalam lingkaran yang dibatasi oleh tali busur dan busur disebut?",
+    "jawaban": "Tembereng"
+  },
+  {
+    "soal": "Garis yang menyinggung lingkaran di satu titik disebut?",
+    "jawaban": "Garis singgung"
+  },
+  {
+    "soal": "Banyak sisi pada prisma segitiga?",
+    "jawaban": "5 sisi"
+  },
+  {
+    "soal": "Banyak rusuk pada kubus?",
+    "jawaban": "12 rusuk"
+  },
+  {
+    "soal": "Banyak titik sudut pada balok?",
+    "jawaban": "8 titik sudut"
+  },
+  {
+    "soal": "Nama lain dari bangun ruang sisi lengkung yang memiliki alas dan tutup berbentuk lingkaran?",
+    "jawaban": "Tabung"
+  },
+  {
+    "soal": "Bangun ruang yang alasnya berbentuk lingkaran dan puncaknya meruncing disebut?",
+    "jawaban": "Kerucut"
+  },
+  {
+    "soal": "Sisi lengkung pada bola disebut?",
+    "jawaban": "Permukaan bola"
+  },
+  {
+    "soal": "Volume prisma segitiga dengan luas alas 20 cm² dan tinggi 10 cm?",
+    "jawaban": "200 cm kubik"
+  },
+  {
+    "soal": "Luas alas kerucut dengan jari-jari 7 cm (π=22/7)?",
+    "jawaban": "154 cm persegi"
+  },
+  {
+    "soal": "Jarak antara titik dan bidang disebut?",
+    "jawaban": "Jarak tegak lurus"
+  },
+  {
+    "soal": "Sudut antara garis dan bidang adalah sudut antara garis dengan?",
+    "jawaban": "Proyeksi garis pada bidang"
+  },
+  {
+    "soal": "Transformasi geometri yang memindahkan titik sejauh vektor tertentu disebut?",
+    "jawaban": "Translasi"
+  },
+  {
+    "soal": "Transformasi yang memutar titik sejauh sudut tertentu disebut?",
+    "jawaban": "Rotasi"
+  },
+  {
+    "soal": "Transformasi yang membalik titik terhadap garis disebut?",
+    "jawaban": "Refleksi (pencerminan)"
+  },
+  {
+    "soal": "Transformasi yang mengubah ukuran bangun disebut?",
+    "jawaban": "Dilatasi (perkalian)"
+  },
+  {
+    "soal": "Bayangan titik (2,3) dicerminkan terhadap sumbu X adalah?",
+    "jawaban": "(2,-3)"
+  },
+  {
+    "soal": "Bayangan titik (4,5) dicerminkan terhadap sumbu Y adalah?",
+    "jawaban": "(-4,5)"
+  },
+  {
+    "soal": "Bayangan titik (1,2) dicerminkan terhadap garis y = x adalah?",
+    "jawaban": "(2,1)"
+  },
+  {
+    "soal": "Bayangan titik (3,4) dirotasi 90° searah jarum jam?",
+    "jawaban": "(4,-3)"
+  },
+  {
+    "soal": "Skala pada peta 1:100.000 artinya?",
+    "jawaban": "1 cm di peta = 1 km sebenarnya"
+  },
+  {
+    "soal": "Perbandingan senilai contohnya?",
+    "jawaban": "Semakin banyak barang, semakin besar harga"
+  },
+  {
+    "soal": "Perbandingan berbalik nilai contohnya?",
+    "jawaban": "Semakin cepat kecepatan, semakin sedikit waktu"
+  },
+  {
+    "soal": "Rumus kecepatan?",
+    "jawaban": "Jarak : waktu"
+  },
+  {
+    "soal": "Rumus debit air?",
+    "jawaban": "Volume : waktu"
+  },
+  {
+    "soal": "Rumus luas permukaan kubus?",
+    "jawaban": "6 × sisi²"
+  },
+  {
+    "soal": "Rumus luas permukaan balok?",
+    "jawaban": "2 × (pl + pt + lt)"
+  },
+  {
+    "soal": "Panjang diagonal sisi kubus dengan rusuk a adalah?",
+    "jawaban": "a√2"
+  },
+  {
+    "soal": "Panjang diagonal ruang kubus dengan rusuk a adalah?",
+    "jawaban": "a√3"
+  },
+  {
+    "soal": "Nilai pendekatan √2 adalah?",
+    "jawaban": "1,414"
+  },
+  {
+    "soal": "Nilai pendekatan √3 adalah?",
+    "jawaban": "1,732"
+  },
+  {
+    "soal": "Satuan luas dalam SI?",
+    "jawaban": "Meter persegi (m²)"
+  },
+  {
+    "soal": "Satuan volume dalam SI?",
+    "jawaban": "Meter kubik (m³)"
+  },
+  {
+    "soal": "1 hektar = ... meter persegi?",
+    "jawaban": "10.000 m²"
+  },
+  {
+    "soal": "1 liter = ... cm kubik?",
+    "jawaban": "1000 cm³"
+  },
+  {
+    "soal": "1 ton = ... kg?",
+    "jawaban": "1000 kg"
+  },
+  {
+    "soal": "1 abad = ... tahun?",
+    "jawaban": "100 tahun"
+  },
+  {
+    "soal": "1 windu = ... tahun?",
+    "jawaban": "8 tahun"
+  },
+  {
+    "soal": "1 dasawarsa = ... tahun?",
+    "jawaban": "10 tahun"
+  },
+  {
+    "soal": "1 milenium = ... tahun?",
+    "jawaban": "1000 tahun"
+  },
+  {
+    "soal": "Angka Romawi V = ?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Angka Romawi X = ?",
+    "jawaban": "10"
+  },
+  {
+    "soal": "Angka Romawi L = ?",
+    "jawaban": "50"
+  },
+  {
+    "soal": "Angka Romawi C = ?",
+    "jawaban": "100"
+  },
+  {
+    "soal": "Angka Romawi D = ?",
+    "jawaban": "500"
+  },
+  {
+    "soal": "Angka Romawi M = ?",
+    "jawaban": "1000"
+  },
+  {
+    "soal": "Angka Romawi 1980?",
+    "jawaban": "MCMLXXX"
+  },
+  {
+    "soal": "Bilangan 15 jika ditulis dalam angka Romawi?",
+    "jawaban": "XV"
+  },
+  {
+    "soal": "Bilangan 40 dalam angka Romawi?",
+    "jawaban": "XL"
+  },
+  {
+    "soal": "Bilangan 90 dalam angka Romawi?",
+    "jawaban": "XC"
+  },
+  {
+    "soal": "Sifat logaritma log a + log b = ?",
+    "jawaban": "log (a × b)"
+  },
+  {
+    "soal": "Sifat logaritma log a - log b = ?",
+    "jawaban": "log (a/b)"
+  },
+  {
+    "soal": "Sifat logaritma n log a = ?",
+    "jawaban": "log (a^n)"
+  },
+  {
+    "soal": "Himpunan bilangan real dilambangkan dengan?",
+    "jawaban": "R"
+  },
+  {
+    "soal": "Himpunan bilangan rasional dilambangkan dengan?",
+    "jawaban": "Q"
+  },
+  {
+    "soal": "Himpunan bilangan bulat dilambangkan dengan?",
+    "jawaban": "Z"
+  },
+  {
+    "soal": "Himpunan bilangan asli dilambangkan dengan?",
+    "jawaban": "N"
+  },
+  {
+    "soal": "Simbol '∈' artinya?",
+    "jawaban": "Anggota dari"
+  },
+  {
+    "soal": "Simbol '⊂' artinya?",
+    "jawaban": "Himpunan bagian dari"
+  },
+  {
+    "soal": "Simbol '∪' artinya?",
+    "jawaban": "Gabungan"
+  },
+  {
+    "soal": "Simbol '∩' artinya?",
+    "jawaban": "Irisan"
+  }
+]
