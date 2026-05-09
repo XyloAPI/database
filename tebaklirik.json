@@ -1,0 +1,817 @@
+[
+  {
+    "judul": "Kukira Kau Rumah - Amigdala",
+    "soal": "Kukira kau rumah, ternyata cuma _____",
+    "jawaban": "Singgah"
+  },
+  {
+    "judul": "Hati-Hati di Jalan - Tulus",
+    "soal": "Hati-hati di jalan, ternyata _____ yang paling rapuh",
+    "jawaban": "Hati"
+  },
+  {
+    "judul": "Diri - Tulus",
+    "soal": "Ternyata jadi diri sendiri, perlu _____ juga",
+    "jawaban": "Keberanian"
+  },
+  {
+    "judul": "Ruang Sendiri - Tulus",
+    "soal": "Aku hanya butuh waktu untuk sendiri, dan _____ yang tak harus kau mengerti",
+    "jawaban": "Ruang"
+  },
+  {
+    "judul": "Interaksi - Tulus",
+    "soal": "Mungkin memang takdirku harus _____ denganmu",
+    "jawaban": "Berinteraksi"
+  },
+  {
+    "judul": "Tukar Jiwa - Tulus",
+    "soal": "Andai bisa tukar jiwa, aku ingin _____ yang kau rasa",
+    "jawaban": "Tahu"
+  },
+  {
+    "judul": "Monokrom - Tulus",
+    "soal": "Sepotong hatimu yang dulu _____ kini telah pulih kembali",
+    "jawaban": "Patah"
+  },
+  {
+    "judul": "Sepatu - Tulus",
+    "soal": "Jangan kau lepas sepatu sebelum _____ tempat berpijak",
+    "jawaban": "Temukan"
+  },
+  {
+    "judul": "Remedi - Tulus",
+    "soal": "Tak ada yang sempurna, yang ada adalah _____ untuk bersama",
+    "jawaban": "Mau"
+  },
+  {
+    "judul": "Teman Hidup - Tulus",
+    "soal": "Kumohon jadilah teman hidup, bukan cuma _____ di kala susah",
+    "jawaban": "Tamu"
+  },
+  {
+    "judul": "Sial - Mahalini",
+    "soal": "Sial, ternyata aku masih _____ untukmu",
+    "jawaban": "Berharap"
+  },
+  {
+    "judul": "Melawan Hati - Mahalini",
+    "soal": "Sesakit apa pun aku tetap _____ hatiku",
+    "jawaban": "Mencintai"
+  },
+  {
+    "judul": "Kisah Sempurna - Mahalini",
+    "soal": "Bukanlah mudah bagiku untuk _____ dirimu",
+    "jawaban": "Melupakan"
+  },
+  {
+    "judul": "Sisa Rasa - Mahalini",
+    "soal": "Aku tak ingin kau tahu masih ada sisa _____ untukmu",
+    "jawaban": "Rasa"
+  },
+  {
+    "judul": "Jika Nanti - Mahalini",
+    "soal": "Tak pernah aku meminta dirimu _____",
+    "jawaban": "Kembali"
+  },
+  {
+    "judul": "Janji Setia - Tiara Andini",
+    "soal": "Dulu kau berjanji setia, sekarang kau bilang _____",
+    "jawaban": "Lelah"
+  },
+  {
+    "judul": "Merasa Indah - Tiara Andini",
+    "soal": "Ku merasa indah saat kau ada, tapi kini semua _____",
+    "jawaban": "Hilang"
+  },
+  {
+    "judul": "Hadapi Berdua - Tiara Andini",
+    "soal": "Jangan kau serahkan semua pada satu _____",
+    "jawaban": "Bahagia"
+  },
+  {
+    "judul": "Maafkan Aku - Tiara Andini",
+    "soal": "Maafkan aku yang dulu pernah _____",
+    "jawaban": "Luka"
+  },
+  {
+    "judul": "Menari - Tiara Andini",
+    "soal": "Aku dan bayanganku _____ di sini",
+    "jawaban": "Menari"
+  },
+  {
+    "judul": "Pilihan yang Terbaik - Rossa",
+    "soal": "Kau pikir kau yang terbaik, padahal aku hanya _____",
+    "jawaban": "Lelah"
+  },
+  {
+    "judul": "Tegar - Rossa",
+    "soal": "Aku sudah _____ meninggalkanmu",
+    "jawaban": "Tegar"
+  },
+  {
+    "judul": "Hijrah Cinta - Rossa",
+    "soal": "Aku memilih hijrah dari cinta yang _____",
+    "jawaban": "Palsu"
+  },
+  {
+    "judul": "Tak Sanggup Lagi - Rossa",
+    "soal": "Aku sudah tak sanggup lagi _____ rasa sakit ini",
+    "jawaban": "Menahan"
+  },
+  {
+    "judul": "Aku Bukan Untukmu - Rossa",
+    "soal": "Aku bukan untukmu, dan kau bukan _____ ku",
+    "jawaban": "Milik"
+  },
+  {
+    "judul": "Tak Ada Logika - Ghea Indrawari",
+    "soal": "Tak ada logika saat aku _____ dirimu",
+    "jawaban": "Mencintai"
+  },
+  {
+    "judul": "Rasa Ini - Ghea Indrawari",
+    "soal": "Rasa ini takkan pernah _____ meski kau pergi",
+    "jawaban": "Hilang"
+  },
+  {
+    "judul": "Pergi Saja - Ghea Indrawari",
+    "soal": "Pergi saja kau pergi, aku takkan _____ lagi",
+    "jawaban": "Menahan"
+  },
+  {
+    "judul": "Meraih Mimpi - Ghea Indrawari",
+    "soal": "Aku masih percaya bisa _____ mimpiku",
+    "jawaban": "Meraih"
+  },
+  {
+    "judul": "Jangan Rubah Takdirku - Ghea Indrawari",
+    "soal": "Jangan kau rubah takdirku, biarkan aku _____",
+    "jawaban": "Bertahan"
+  },
+  {
+    "judul": "Tentang Rindu - Virgoun",
+    "soal": "Rindu ini bukan tentang siapa, tapi tentang _____ yang kau beri dulu",
+    "jawaban": "Cinta"
+  },
+  {
+    "judul": "Surat Cinta Untuk Starla - Virgoun",
+    "soal": "Kutuliskan namamu di _____",
+    "jawaban": "Setiap malam"
+  },
+  {
+    "judul": "Bukti - Virgoun",
+    "soal": "Aku hanya ingin _____ cintaku padamu",
+    "jawaban": "Membuktikan"
+  },
+  {
+    "judul": "Orang Yang Sama - Virgoun",
+    "soal": "Ku tak ingin kehilangan _____ yang sama dua kali",
+    "jawaban": "Orang"
+  },
+  {
+    "judul": "Seluruh Nafas Ini - Last Child",
+    "soal": "Ku kan setia, ini _____ untukmu",
+    "jawaban": "Janji"
+  },
+  {
+    "judul": "Duka - Last Child",
+    "soal": "Jangan tanyakan lagi mengapa aku _____",
+    "jawaban": "Pergi"
+  },
+  {
+    "judul": "Tak Pernah Tuhan Membiarkan - Last Child",
+    "soal": "Tak pernah Tuhan _____ hambanya yang terus berjuang",
+    "jawaban": "Membiarkan"
+  },
+  {
+    "judul": "Pedih - Last Child",
+    "soal": "Rasa ini sungguh _____ hatiku",
+    "jawaban": "Pedih"
+  },
+  {
+    "judul": "Pergi Saja - Last Child",
+    "soal": "Aku takkan pernah _____ kepergianmu",
+    "jawaban": "Menyesali"
+  },
+  {
+    "judul": "Takkan Ada Cerita Lain - Isyana Sarasvati",
+    "soal": "Takkan ada cerita lain selain _____ di hatiku",
+    "jawaban": "Kisahmu"
+  },
+  {
+    "judul": "Tetap Dalam Jiwa - Isyana Sarasvati",
+    "soal": "Kau tetap dalam jiwa, meski raga _____",
+    "jawaban": "Tak bersama"
+  },
+  {
+    "judul": "Il Sogno - Isyana Sarasvati",
+    "soal": "Ini mimpiku, ini _____ hatiku",
+    "jawaban": "Suara"
+  },
+  {
+    "judul": "Lembaran Baru - Isyana Sarasvati",
+    "soal": "Aku buka lembaran baru tanpa _____",
+    "jawaban": "Dirimu"
+  },
+  {
+    "judul": "Selamat Tinggal - Isyana Sarasvati",
+    "soal": "Selamat tinggal cinta, sampai kita _____ lagi",
+    "jawaban": "Bertemu"
+  },
+  {
+    "judul": "Tiba-Tiba - Afgan",
+    "soal": "Tiba-tiba aku _____ cinta lagi",
+    "jawaban": "Jatuh cinta"
+  },
+  {
+    "judul": "Kunci Hati - Afgan",
+    "soal": "Kau kunci hati yang tak pernah _____",
+    "jawaban": "Terbuka"
+  },
+  {
+    "judul": "Sadis - Afgan",
+    "soal": "Cinta ini sungguh _____ tanpa kau di sini",
+    "jawaban": "Sadis"
+  },
+  {
+    "judul": "Bawalah Cintaku - Afgan",
+    "soal": "Bawalah cintaku _____ jauh",
+    "jawaban": "Pergi"
+  },
+  {
+    "judul": "Jodoh - Afgan",
+    "soal": "Mungkin kau bukan jodoh, tapi aku _____",
+    "jawaban": "Pernah cinta"
+  },
+  {
+    "judul": "Lagi Syantik - Siti Badriah",
+    "soal": "Aku emang _____, dan aku bangga",
+    "jawaban": "Syantik"
+  },
+  {
+    "judul": "Halu - Feby Putri",
+    "soal": "Aku halu, aku tahu ini _____",
+    "jawaban": "Khayalan"
+  },
+  {
+    "judul": "Sesuatu Di Jogja - Adhitia Sofyan",
+    "soal": "Ada sesuatu yang tak _____ tentang Jogja",
+    "jawaban": "Terlupakan"
+  },
+  {
+    "judul": "Kita Adalah Bintang - Uung",
+    "soal": "Kita adalah bintang yang tak _____ redup",
+    "jawaban": "Pernah"
+  },
+  {
+    "judul": "Terbangun Sendiri - Uung",
+    "soal": "Aku terbangun sendiri tanpa _____ mu lagi",
+    "jawaban": "Suara"
+  },
+  {
+    "judul": "Selaras - Kunto Aji",
+    "soal": "Tak perlu kita sama, cukup _____",
+    "jawaban": "Selaras"
+  },
+  {
+    "judul": "Rekan Sekantor - Kunto Aji",
+    "soal": "Aku dan dia hanya _____ sekantor",
+    "jawaban": "Rekan"
+  },
+  {
+    "judul": "Topik Semalam - Kunto Aji",
+    "soal": "Apa topik _____ kita semalam?",
+    "jawaban": "Pembicaraan"
+  },
+  {
+    "judul": "Mendarah - Kunto Aji",
+    "soal": "Kau yang mendarah, bukan sekadar _____",
+    "jawaban": "Luka"
+  },
+  {
+    "judul": "Pilu Membasah - Rizky Febian",
+    "soal": "Pilu membasah di _____ mataku",
+    "jawaban": "Pelupuk"
+  },
+  {
+    "judul": "Hapus Rindumu - Rizky Febian",
+    "soal": "Aku butuh waktu untuk _____ rindumu",
+    "jawaban": "Menghapus"
+  },
+  {
+    "judul": "Berpisah Itu Mudah - Rizky Febian",
+    "soal": "Berpisah itu mudah, tapi _____ yang sulit",
+    "jawaban": "Melupakan"
+  },
+  {
+    "judul": "Cukup Satu Nama - Rizky Febian",
+    "soal": "Cukup satu nama yang kusebut di _____",
+    "jawaban": "Doa"
+  },
+  {
+    "judul": "Penantian Berharga - Rizky Febian",
+    "soal": "Penantian ini _____ untukmu",
+    "jawaban": "Berharga"
+  },
+  {
+    "judul": "Cinta Karena Cinta - Judika",
+    "soal": "Aku cinta karena cinta, bukan karena _____",
+    "jawaban": "Harta"
+  },
+  {
+    "judul": "Sampai Akhir - Judika",
+    "soal": "Ku kan setia sampai _____ hidupku",
+    "jawaban": "Akhir"
+  },
+  {
+    "judul": "Bukan Dia Tapi Aku - Judika",
+    "soal": "Bukan dia yang salah, tapi _____ yang memilih",
+    "jawaban": "Aku"
+  },
+  {
+    "judul": "Putus Atau Terus - Judika",
+    "soal": "Kita putus atau _____ terus bersama?",
+    "jawaban": "Tetap"
+  },
+  {
+    "judul": "Bagaimana Kalau Aku Tidak Baik Baik Saja - Judika",
+    "soal": "Bagaimana kalau aku tidak _____ saja?",
+    "jawaban": "Baik-baik"
+  },
+  {
+    "judul": "Kau Adalah - Isyana Sarasvati",
+    "soal": "Kau adalah istana di dalam _____ hatiku",
+    "jawaban": "Hati"
+  },
+  {
+    "judul": "Harus Bahagia - Yura Yunita",
+    "soal": "Lalu aku harus _____ tanpa dirimu",
+    "jawaban": "Bahagia"
+  },
+  {
+    "judul": "Dunia Tipu Tipu - Yura Yunita",
+    "soal": "Ternyata dunia ini _____ tipu",
+    "jawaban": "Tipu"
+  },
+  {
+    "judul": "Mantra Cinta - Yura Yunita",
+    "soal": "Aku ucapkan mantra _____ untukmu",
+    "jawaban": "Cinta"
+  },
+  {
+    "judul": "Indah Hari Ini - Yura Yunita",
+    "soal": "Indah hari ini, meski _____ pergi",
+    "jawaban": "Kau"
+  },
+  {
+    "judul": "Jalan Pulang - Yura Yunita",
+    "soal": "Akankah kau temani aku _____ pulang?",
+    "jawaban": "Jalan"
+  },
+  {
+    "judul": "Balada Sirkus - Nadin Amizah",
+    "soal": "Di sini aku sirkus, penonton hanya _____",
+    "jawaban": "Kau"
+  },
+  {
+    "judul": "Seperti Tulang - Nadin Amizah",
+    "soal": "Seperti tulang yang patah, aku _____ tanpa bentuk",
+    "jawaban": "Rapuh"
+  },
+  {
+    "judul": "Perih - Nadin Amizah",
+    "soal": "Perih yang kau beri masih _____ di dada",
+    "jawaban": "Menganga"
+  },
+  {
+    "judul": "Tarikan Nafas - Nadin Amizah",
+    "soal": "Tarikan nafas terakhirku adalah _____ untukmu",
+    "jawaban": "Nama"
+  },
+  {
+    "judul": "Air Matamu - Nadin Amizah",
+    "soal": "Aku tak sanggup melihat _____ matamu",
+    "jawaban": "Air"
+  },
+  {
+    "judul": "Terbiasa Sendiri - Nadin Amizah",
+    "soal": "Lama-lama aku terbiasa _____ sendiri",
+    "jawaban": "Sendiri"
+  },
+  {
+    "judul": "Setia Menunggumu - Nadin Amizah",
+    "soal": "Aku masih setia _____ di sini",
+    "jawaban": "Menunggu"
+  },
+  {
+    "judul": "Kisah Tanpa Judul - Nadin Amizah",
+    "soal": "Ini kisah tanpa _____, tanpa akhir yang jelas",
+    "jawaban": "Judul"
+  },
+  {
+    "judul": "Dekat Di Hati - RAN",
+    "soal": "Kamu yang paling dekat di _____, walau jauh di mata",
+    "jawaban": "Hati"
+  },
+  {
+    "judul": "Pandangan Pertama - RAN",
+    "soal": "Sejak pandangan pertama, aku tahu ini _____",
+    "jawaban": "Cinta"
+  },
+  {
+    "judul": "Selamat Pagi - RAN",
+    "soal": "Selamat pagi, semoga harimu _____",
+    "jawaban": "Indah"
+  },
+  {
+    "judul": "Hari Baru - RAN",
+    "soal": "Ini hari baru, lupakan _____ yang lalu",
+    "jawaban": "Luka"
+  },
+  {
+    "judul": "Masih Ada - RAN",
+    "soal": "Masih ada cinta di sisa _____ ini",
+    "jawaban": "Waktu"
+  },
+  {
+    "judul": "Jangan Cepat Berlalu - RAN",
+    "soal": "Jangan cepat _____ rasanya baru terasa",
+    "jawaban": "Berlalu"
+  },
+  {
+    "judul": "Bahagia Selamanya - RAN",
+    "soal": "Aku ingin _____, bukan hanya sebentar",
+    "jawaban": "Bahagia selamanya"
+  },
+  {
+    "judul": "Lupakan Saja - RAN",
+    "soal": "Lupakan saja, aku sudah _____",
+    "jawaban": "Ikhlas"
+  },
+  {
+    "judul": "Sempurna - RAN",
+    "soal": "Tak ada yang sempurna, kecuali _____ di hatiku",
+    "jawaban": "Kamu"
+  },
+  {
+    "judul": "Complicated - RAN",
+    "soal": "Cinta ini rumit, _____ untuk dimengerti",
+    "jawaban": "Sulit"
+  },
+  {
+    "judul": "Sempurna Tanpaku - RAN",
+    "soal": "Ternyata kau lebih _____ tanpaku",
+    "jawaban": "Sempurna"
+  },
+  {
+    "judul": "Takkan Berpaling DariMu - Rossa",
+    "soal": "Aku takkan _____ dari semua janjiku",
+    "jawaban": "Berpaling"
+  },
+  {
+    "judul": "Sembuhkan Aku - Rossa",
+    "soal": "Sembuhkan aku dari _____ yang terus menghantuiku",
+    "jawaban": "Rindu"
+  },
+  {
+    "judul": "Takkan Berpaling DariMu - Rossa",
+    "soal": "Ku yakin _____ dariMu adalah pilihan benar",
+    "jawaban": "Cinta"
+  },
+  {
+    "judul": "Ayat Ayat Cinta - Rossa",
+    "soal": "Bacakan untukku _____ cinta yang kau tulis",
+    "jawaban": "Ayat"
+  },
+  {
+    "judul": "Pudar - Rossa",
+    "soal": "Cinta kita kini _____ seperti embun pagi",
+    "jawaban": "Pudar"
+  },
+  {
+    "judul": "Tak Sanggup Lagi - Rossa",
+    "soal": "Aku tak sanggup lagi jika kau _____ lagi",
+    "jawaban": "Pergi"
+  },
+  {
+    "judul": "Hati Yang Kau Sakiti - Rossa",
+    "soal": "Kembalikan hatiku yang kau _____ dulu",
+    "jawaban": "Sakiti"
+  },
+  {
+    "judul": "Aku Bersalah - Rossa",
+    "soal": "Aku mengaku ___, telah meninggalkanmu",
+    "jawaban": "Bersalah"
+  },
+  {
+    "judul": "Rembulan - Rossa",
+    "soal": "Di bawah _____ aku menunggumu",
+    "jawaban": "Rembulan"
+  },
+  {
+    "judul": "Bersama Bintang - Rossa",
+    "soal": "Aku dan kau _____, takkan terpisah",
+    "jawaban": "Bersama bintang"
+  },
+  {
+    "judul": "Kecewa - Rossa",
+    "soal": "Aku sungguh _____ dengan semua sikapmu",
+    "jawaban": "Kecewa"
+  },
+  {
+    "judul": "Kini - Rossa",
+    "soal": "Kini aku sendiri, tanpa _____ lagi",
+    "jawaban": "Dirimu"
+  },
+  {
+    "judul": "Terlalu Dalam - Rossa",
+    "soal": "Cintaku padamu terlalu _____ untuk dilupakan",
+    "jawaban": "Dalam"
+  },
+  {
+    "judul": "Jangan Pernah Berubah - Rossa",
+    "soal": "Jangan pernah _____ seperti dulu lagi",
+    "jawaban": "Berubah"
+  },
+  {
+    "judul": "Hilang - Rossa",
+    "soal": "Semua kenangan kini _____ begitu saja",
+    "jawaban": "Hilang"
+  },
+  {
+    "judul": "Cintaku Saja Yang Salah - Rossa",
+    "soal": "Mungkin cintaku saja yang _____, bukan karena kamu",
+    "jawaban": "Salah"
+  },
+  {
+    "judul": "Rapuh - Rossa",
+    "soal": "Hatiku _____ tak kuasa menahan luka",
+    "jawaban": "Rapuh"
+  },
+  {
+    "judul": "Bunga Tidur - Rossa",
+    "soal": "Kau hanya _____ tidurku, tak lebih",
+    "jawaban": "Bunga"
+  },
+  {
+    "judul": "Memilih Dia - Rossa",
+    "soal": "Akhirnya kau _____ dia, bukan aku",
+    "jawaban": "Memilih"
+  },
+  {
+    "judul": "Takkan Ada Cinta Yang Lain - Rossa",
+    "soal": "Takkan ada cinta yang lain, hanya ____ yang ku punya",
+    "jawaban": "Kamu"
+  },
+  {
+    "judul": "Kembalilah - Rossa",
+    "soal": "____ sayang, aku masih di sini",
+    "jawaban": "Kembalilah"
+  },
+  {
+    "judul": "Untuk Selamanya - Rossa",
+    "soal": "Ini janjiku untuk _____ bersamamu",
+    "jawaban": "Selamanya"
+  },
+  {
+    "judul": "Hadirkan Dia - Rossa",
+    "soal": "Tuhan, ____ yang bisa mencintaiku",
+    "jawaban": "Hadirkan dia"
+  },
+  {
+    "judul": "Dia Yang Kau Pilih - Rossa",
+    "soal": "Semoga dia yang kau pilih _____ untukmu",
+    "jawaban": "Baik"
+  },
+  {
+    "judul": "Jangan Ada Dusta Diantara Kita - Rossa",
+    "soal": "Jangan ada _____ di antara kita, ku tak sanggup",
+    "jawaban": "Dusta"
+  },
+  {
+    "judul": "Ku Menunggu - Rossa",
+    "soal": "Ku menunggu _____, meski tak pasti",
+    "jawaban": "Dirimu"
+  },
+  {
+    "judul": "Aku Tenang - Isyana Sarasvati",
+    "soal": "Aku tenang, meski kau tak ____",
+    "jawaban": "Di sini"
+  },
+  {
+    "judul": "Anganku Anganmu - Isyana Sarasvati",
+    "soal": "Anganku dan ____, bersatu di mimpi",
+    "jawaban": "Anganmu"
+  },
+  {
+    "judul": "Kau Adalah - Isyana Sarasvati",
+    "soal": "Kau adalah satu-satunya ____ yang ku percaya",
+    "jawaban": "Cinta"
+  },
+  {
+    "judul": "Semua Karena Kamu - Isyana Sarasvati",
+    "soal": "Semua karena ____, aku bisa bertahan",
+    "jawaban": "Kamu"
+  },
+  {
+    "judul": "Berhenti Berharap - Isyana Sarasvati",
+    "soal": "Aku harus ____ kepadamu yang tak pernah datang",
+    "jawaban": "Berhenti berharap"
+  },
+  {
+    "judul": "Rindu Dalam Hati - Isyana Sarasvati",
+    "soal": "Ku simpan ____ ini dalam hati",
+    "jawaban": "Rindu"
+  },
+  {
+    "judul": "Jangan Hilang Dia - Isyana Sarasvati",
+    "soal": "Jangan ____ dia, karena dia segalanya",
+    "jawaban": "Hilang"
+  },
+  {
+    "judul": "Cinta Pertama Terakhir - Isyana Sarasvati",
+    "soal": "Kau cinta pertama dan ____ bagiku",
+    "jawaban": "Terakhir"
+  },
+  {
+    "judul": "Tak Ada Cinta Yang Sempurna - Isyana Sarasvati",
+    "soal": "Tak ada cinta yang ____, hanya cinta yang terus belajar",
+    "jawaban": "Sempurna"
+  },
+  {
+    "judul": "Seperti Yang Kau Minta - Isyana Sarasvati",
+    "soal": "Aku akan pergi ____ yang kau minta",
+    "jawaban": "Seperti"
+  },
+  {
+    "judul": "Tanpamu - Isyana Sarasvati",
+    "soal": "Hidupku ____ seperti kehilangan warna",
+    "jawaban": "Tanpamu"
+  },
+  {
+    "judul": "Ruangan Sendiri - Isyana Sarasvati",
+    "soal": "Aku butuh ____ untuk memulihkan hati",
+    "jawaban": "Ruangan sendiri"
+  },
+  {
+    "judul": "Aku Cinta Dia - Isyana Sarasvati",
+    "soal": "Aku cinta ____, bukan kamu lagi",
+    "jawaban": "Dia"
+  },
+  {
+    "judul": "Kisah Kita - Isyana Sarasvati",
+    "soal": "Inilah ____ yang takkan pernah usai",
+    "jawaban": "Kisah kita"
+  },
+  {
+    "judul": "Matahariku - Isyana Sarasvati",
+    "soal": "Kaulah ____ yang menerangi hariku",
+    "jawaban": "Matahariku"
+  },
+  {
+    "judul": "Jangan Rubah Takdirku - Andmesh",
+    "soal": "Jangan rubah ____, biarkan aku begini",
+    "jawaban": "Takdirku"
+  },
+  {
+    "judul": "Hanya Rindu - Andmesh",
+    "soal": "Yang tersisa hanya ____ dan kenangan",
+    "jawaban": "Rindu"
+  },
+  {
+    "judul": "Nyaman - Andmesh",
+    "soal": "Tak ada yang lebih ____ selain bersamamu",
+    "jawaban": "Nyaman"
+  },
+  {
+    "judul": "Luka Kecil - Andmesh",
+    "soal": "Luka kecil ini ____ karena cinta",
+    "jawaban": "Menyakitkan"
+  },
+  {
+    "judul": "Bersama Kamu - Andmesh",
+    "soal": "Aku bahagia ____ kamu di sini",
+    "jawaban": "Bersama"
+  },
+  {
+    "judul": "Terus Berlari - Andmesh",
+    "soal": "Aku akan terus ____, mengejar bayangmu",
+    "jawaban": "Berlari"
+  },
+  {
+    "judul": "Jodoh Yang Lain - Andmesh",
+    "soal": "Mungkin kau ____ yang lain, bukan aku",
+    "jawaban": "Jodoh"
+  },
+  {
+    "judul": "Takkan Ada Waktu - Andmesh",
+    "soal": "Takkan ada ____ untuk kembali lagi",
+    "jawaban": "Waktu"
+  },
+  {
+    "judul": "Cinta Sampai Mati - Andmesh",
+    "soal": "Ku cinta kamu sampai ____, takkan berubah",
+    "jawaban": "Mati"
+  },
+  {
+    "judul": "Selamat Jalan - Andmesh",
+    "soal": "Selamat ____, semoga kau bahagia di sana",
+    "jawaban": "Jalan"
+  },
+  {
+    "judul": "Mencintaimu Sampai Mati - Andmesh",
+    "soal": "Aku tetap ____, meski kau tak di sini",
+    "jawaban": "Mencintaimu"
+  },
+  {
+    "judul": "Pergi Untuk Kembali - Andmesh",
+    "soal": "Aku pergi untuk ____, itu janjiku",
+    "jawaban": "Kembali"
+  },
+  {
+    "judul": "Tak Ingin Kau Pergi - Andmesh",
+    "soal": "Aku tak ingin ____, tetaplah di sini",
+    "jawaban": "Kau pergi"
+  },
+  {
+    "judul": "Sahabat Jadi Cinta - Andmesh",
+    "soal": "Awalnya sahabat, lalu ____ cinta",
+    "jawaban": "Jadi"
+  },
+  {
+    "judul": "Cinta Terakhir - Andmesh",
+    "soal": "Kau cinta ____ dalam hidupku",
+    "jawaban": "Terakhir"
+  },
+  {
+    "judul": "Tak Bisa Memilikimu - Andmesh",
+    "soal": "Aku tak bisa ____, tapi aku menyayangimu",
+    "jawaban": "Memilikimu"
+  },
+  {
+    "judul": "Hadirkan Cinta - Andmesh",
+    "soal": "Tuhan, hadirkan ____ yang tulus untukku",
+    "jawaban": "Cinta"
+  },
+  {
+    "judul": "Tanpamu Aku - Andmesh",
+    "soal": "Tanpamu aku ____ seperti kapal tanpa arah",
+    "jawaban": "Hilang"
+  },
+  {
+    "judul": "Sampai Kapan - Andmesh",
+    "soal": "Sampai kapan aku harus ____ menunggumu?",
+    "jawaban": "Menunggu"
+  },
+  {
+    "judul": "Bingkai Langit - Andmesh",
+    "soal": "Di bawah bingkai ____ kita berjanji",
+    "jawaban": "Langit"
+  },
+  {
+    "judul": "Cinta Tak Harus Memiliki - Andmesh",
+    "soal": "Cinta tak harus ____, cukup dari jauh",
+    "jawaban": "Memiliki"
+  },
+  {
+    "judul": "Kenangan Indah - Andmesh",
+    "soal": "Kenangan ____ takkan pernah hilang",
+    "jawaban": "Indah"
+  },
+  {
+    "judul": "Jangan Sakiti Aku - Andmesh",
+    "soal": "Jangan ____ aku, jika kau tak sungguh mencinta",
+    "jawaban": "Sakiti"
+  },
+  {
+    "judul": "Terima Kasih Cinta - Andmesh",
+    "soal": "Terima kasih ____, kau ajari aku arti bahagia",
+    "jawaban": "Cinta"
+  },
+  {
+    "judul": "Aku Yang Dulu Bukan Yang Sekarang - Andmesh",
+    "soal": "Aku yang dulu bukan ____ sekarang mengerti",
+    "jawaban": "Yang"
+  },
+  {
+    "judul": "Cinta Diam Diam - Andmesh",
+    "soal": "Aku cinta diam-diam, tak berani ____",
+    "jawaban": "Ucap"
+  },
+  {
+    "judul": "Jangan Pergi Lagi - Andmesh",
+    "soal": "Jangan ____ lagi, cukup satu kali saja",
+    "jawaban": "Pergi"
+  },
+  {
+    "judul": "Salah Apa Aku - Andmesh",
+    "soal": "Salah ____ aku sampai kau pergi begitu saja?",
+    "jawaban": "Apa"
+  },
+  {
+    "judul": "Cinta Tanpa Syarat - Andmesh",
+    "soal": "Aku cinta kamu tanpa ____ apapun",
+    "jawaban": "Syarat"
+  }
+]
