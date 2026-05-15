@@ -3,103 +3,120 @@
     "name": "Trans7",
     "stream": "https://is.gd/N41fu8",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778745441/xyloimage/ksv8iuozsgaahtculfct.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
   },
   {
     "name": "SCTV",
-    "stream": "https://is.gd/axiduv",
+    "stream": "https://is.gd/hfVFbb",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778745333/xyloimage/l8ordvth97hmowiz1djd.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
   },
   {
     "name": "BeritaSatu",
-    "stream": "https://is.gd/uzelem",
+    "stream": "https://is.gd/w2h6A4",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778761494/xyloimage/mvu7nwltrrmtkmfvbqmo.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8"
   },
   {
     "name": "BTV",
-    "stream": "https://is.gd/axiruj",
+    "stream": "https://is.gd/ZZtanZ",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778761629/xyloimage/xgrn1ikwmw8ovrne07h8.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8"
   },
   {
     "name": "RTV",
-    "stream": "https://is.gd/akaluz",
+    "stream": "https://is.gd/itTWrZ",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778761809/xyloimage/cxcgc68ebkctra38snoa.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8"
   },
   {
     "name": "JAKTV",
-    "stream": "https://is.gd/hipiyex",
+    "stream": "https://is.gd/kikXT0",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778762887/xyloimage/gsgmr1h9aqmcvnckil0w.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8"
   },
   {
     "name": "Magna Channel",
-    "stream": "https://is.gd/lameni",
+    "stream": "https://is.gd/06EcfY",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778763010/xyloimage/pcpgggipwzllqroct5qn.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8"
   },
   {
     "name": "Metro TV",
-    "stream": "https://is.gd/hazadi",
+    "stream": "https://is.gd/K9wS7L",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778763130/xyloimage/uveo5bsvmcv0bxx4lc8s.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8"
   },
   {
     "name": "Rodja TV",
-    "stream": "https://is.gd/ayolup",
+    "stream": "https://is.gd/ijOQTY",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778763441/xyloimage/gblhg5l7oatehnaxvtoa.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8"
   },
   {
     "name": "DAAI TV",
-    "stream": "https://is.gd/osibep",
+    "stream": "https://is.gd/yyiiBS",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778763541/xyloimage/k1qladf1bvalashn7x5h.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8"
   },
   {
     "name": "Elshinta TV",
-    "stream": "https://is.gd/oxamuj",
+    "stream": "https://is.gd/waAzAy",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778763710/xyloimage/xilr3hjpufs4c8i4npbf.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8"
   },
   {
     "name": "TVRI",
-    "stream": "https://is.gd/cavifo",
+    "stream": "https://is.gd/50askk",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778763854/xyloimage/kunrte1hivejwdxo8afn.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
   },
   {
     "name": "TVRI Sport",
-    "stream": "https://is.gd/amezak",
+    "stream": "https://is.gd/V3Lv2f",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778763938/xyloimage/tztfcg2ecwjm2yr6u3gw.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
   },
   {
     "name": "Nusantara TV",
-    "stream": "https://is.gd/apisoza",
+    "stream": "https://is.gd/a8iRBc",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778764053/xyloimage/qnuzbwr0ykzv6xgldnwv.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8"
   },
   {
     "name": "Trans TV",
-    "stream": "https://is.gd/pimaquk",
+    "stream": "https://is.gd/8oig8K",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778765105/xyloimage/jo7utollbgqgqbwi0htn.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
   },
   {
     "name": "Indosiar",
-    "stream": "https://is.gd/ibific",
+    "stream": "https://is.gd/DIEuhV",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778765363/xyloimage/qjhfqq4ddvpytwyf3snj.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8"
   },
   {
     "name": "RCTI",
-    "stream": "https://is.gd/dapasin",
+    "stream": "https://is.gd/ue1oij",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778765521/xyloimage/xwsrdcvcuyinbtynfkal.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://allcutv.rctiplus.id/rcti2023.m3u8"
   },
   {
     "name": "MNCTV",
