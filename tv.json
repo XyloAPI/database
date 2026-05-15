@@ -120,51 +120,57 @@
   },
   {
     "name": "MNCTV",
-    "stream": "https://is.gd/oyutuc",
+    "stream": "",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778765666/xyloimage/q0xzjb2amxt9pujbd9uo.jpg",
     "country": "Indonesia"
   },
   {
     "name": "GTV",
-    "stream": "https://is.gd/tenoxo",
+    "stream": "",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778765792/xyloimage/yfqvftbr5m3zany8c8fx.jpg",
     "country": "Indonesia"
   },
   {
     "name": "CNN Indonesia",
-    "stream": "https://is.gd/apegob",
+    "stream": "https://is.gd/IUSXq2",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778766439/xyloimage/hy8izacityvcw5oekdyw.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
   },
   {
     "name": "CNBC Indonesia",
-    "stream": "https://is.gd/hoxilu",
+    "stream": "https://is.gd/sohQlS",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778766966/xyloimage/why50jg41ljern6zui06.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
   },
   {
     "name": "Garuda TV",
-    "stream": "https://is.gd/orehul",
+    "stream": "https://is.gd/O74JgN",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778767298/xyloimage/zunfbalp0u2yiil8akaz.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8"
   },
   {
     "name": "Jawapos TV",
-    "stream": "https://is.gd/malita",
+    "stream": "https://is.gd/5COJcf",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778767826/xyloimage/flk8uf1jojxm6hsxusfa.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://wulkjzoejwaaonhxpbbt.supabase.co/functions/v1/stream-proxy?url=http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8"
   },
   {
     "name": "Indonesiana TV",
-    "stream": "https://is.gd/docame",
+    "stream": "https://is.gd/jgHCAK",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778768228/xyloimage/avqtnoov6t4aark7u6q4.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://tvstreamcast.com/indonesiana.m3u8"
   },
   {
     "name": "RRI Net",
-    "stream": "https://is.gd/ipekix",
+    "stream": "https://is.gd/jdvMPi",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778768793/xyloimage/j8f0bg2nfxd1hhnynh2n.jpg",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"
   },
   {
     "name": "PKTV",
@@ -174,9 +180,10 @@
   },
   {
     "name": "BRTV",
-    "stream": "https://is.gd/ivuzad",
+    "stream": "https://is.gd/Rcmy3J",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778770188/xyloimage/aw8ljusmkgp8jafxwrmm.png",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://wms.klikhost.net/brtv/brtv/playlist.m3u8"
   },
   {
     "name": "Bungo TV",
@@ -216,9 +223,10 @@
   },
   {
     "name": "MDTV",
-    "stream": "https://is.gd/5htyn1",
+    "stream": "https://is.gd/X7m9gC",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778772743/xyloimage/peds1r5rcat7xutgvy6r.png",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8"
   },
   {
     "name": "Banten TV",
@@ -230,7 +238,8 @@
     "name": "BMS TV",
     "stream": "https://is.gd/eq9LQs",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778773031/xyloimage/zbe1em0nqzi286m2lkbc.png",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8"
   },
   {
     "name": "Bloomberg Originals",
@@ -362,7 +371,8 @@
     "name": "Disney XD",
     "stream": "https://is.gd/o85oD5",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778782073/xyloimage/ispuysfj86tofsdx1uzu.png",
-    "country": "United States"
+    "country": "United States",
+    "backup": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
   },
   {
     "name": "Racer Network",
@@ -582,5 +592,40 @@
     "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778811021/aj1pgwlh93fbgsenwjf1.jpg",
     "country": "United States",
     "backup": "https://xyloapi.web.id/embed?token=uDDMsjYPZNOStCK7.d-BEY6LuIyK07uq9isB00w.we71YCjRm2OjAuWZ19i9anRat1K9d7RuxhD-pVLUN2McqSQ38IUIz4j_Rdk7Eus-H7zdc9TGHAXt9Py3mDJE1JCD3A9ZbUURJ2Vs49cKIBkIjw_amtE1a38iswbxO1MT7r6_s6S4oyfpxcmHSeehbu49z2z8ZiNtEZJjEoY-kBPUE55C3T5L36rqEd7ATJ6iH5e-l9HcV9G1i4CChEdE_UB1rEmWQV--c6JVnoj2u3EOPxj0WinLxVqpRWcqJaQe8mH_am1uuJynHbkhQCFJl0hbPdJkwmqee0UwsMUPzR3mCGyS3DyRIJbWersUpVC6P1iAOaX-8shQERIHjEo-Sr8iphafIs8ZJewuumel8QrjfqB5nggqIfoERGJdDQfDGcw"
+  },
+  {
+    "name": "TV One",
+    "stream": "https://is.gd/z79wRi",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778818290/j0mufwsqd0kdrx1utax5.jpg",
+    "country": "Indonesia",
+    "backup": "http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8"
+  },
+  {
+    "name": "Kompas TV",
+    "stream": "https://is.gd/jetwOB",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778818573/kvzfme5a9tnv43ywzkyk.jpg",
+    "country": "Indonesia",
+    "backup": "https://www.youtube.com/live/DOOrIxw5xOw"
+  },
+  {
+    "name": "TV Tabalong",
+    "stream": "https://is.gd/0F8VkI",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778819825/j6lcwnfyfazzkfoppprg.jpg",
+    "country": "Indonesia",
+    "backup": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8"
+  },
+  {
+    "name": "Channel Jowo",
+    "stream": "https://is.gd/x7NAou",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778819952/w3cvhhnytkyeelllieio.jpg",
+    "country": "Indonesia",
+    "backup": "https://cdn.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8"
+  },
+  {
+    "name": "Duta TV",
+    "stream": "https://is.gd/ru7q1f",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778820072/ynsakr3xn7agggtyfzid.jpg",
+    "country": "Indonesia",
+    "backup": "http://cdn.nng.cloudns.us/live/m3u8/id/3254f236ad3e872.m3u8"
   }
 ]
