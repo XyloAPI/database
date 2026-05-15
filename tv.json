@@ -796,5 +796,47 @@
     "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778824914/dfbk5qsygunrtsl3z9hp.jpg",
     "country": "Qatar",
     "backup": "https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8"
+  },
+  {
+    "name": "Al Jazeera",
+    "stream": "https://is.gd/MV3m3U",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778824914/dfbk5qsygunrtsl3z9hp.jpg",
+    "country": "Qatar",
+    "backup": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8"
+  },
+  {
+    "name": "Al Jazeera Mubasher",
+    "stream": "https://is.gd/FwGKW8",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778827401/carj3gj3sx8k4tfa8jh6.jpg",
+    "country": "Qatar",
+    "backup": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8"
+  },
+  {
+    "name": "Al Maaref",
+    "stream": "https://is.gd/3rnMw9",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778827532/cabpzbscsbp5kgouhrcz.jpg",
+    "country": "Qatar",
+    "backup": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8"
+  },
+  {
+    "name": "TV Muhammadiyah",
+    "stream": "https://is.gd/zu6jRT",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778827604/uloc3amsxvfix2kwjtzu.jpg",
+    "country": "Indonesia",
+    "backup": "https://e.siar.us/live/tvmu.m3u8"
+  },
+  {
+    "name": "ZooMoo",
+    "stream": "https://is.gd/pICjPR",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778827692/era1s8h1pf82mbqdghsk.jpg",
+    "country": "Singapore",
+    "backup": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+  },
+  {
+    "name": "All Babies Channel",
+    "stream": "https://is.gd/Mypx3r",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778827765/dgmvzmqnr1zuvj5e6r17.jpg",
+    "country": "United States",
+    "backup": "https://d390zi2w1jc4t4.cloudfront.net/master.m3u8"
   }
 ]
