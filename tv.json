@@ -339,9 +339,10 @@
   },
   {
     "name": "Padang TV",
-    "stream": "https://is.gd/Yysd2a",
+    "stream": "https://is.gd/C64Dhq",
     "logo": "https://res.cloudinary.com/dhedzz1om/image/upload/v1778778494/xyloimage/afhyjefwcqz56qhj3umy.png",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "backup": "https://wulkjzoejwaaonhxpbbt.supabase.co/functions/v1/stream-proxy?url=http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8"
   },
   {
     "name": "Flowers TV",
@@ -627,5 +628,19 @@
     "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778820072/ynsakr3xn7agggtyfzid.jpg",
     "country": "Indonesia",
     "backup": "http://cdn.nng.cloudns.us/live/m3u8/id/3254f236ad3e872.m3u8"
+  },
+  {
+    "name": "Jogja Istimewa TV",
+    "stream": "https://is.gd/AcPiGu",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778820592/xmimak1lhe7xcleniydc.jpg",
+    "country": "Indonesia",
+    "backup": "https://wulkjzoejwaaonhxpbbt.supabase.co/functions/v1/stream-proxy?url=http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8"
+  },
+  {
+    "name": "Jogja TV",
+    "stream": "https://is.gd/dXUPbl",
+    "logo": "https://res.cloudinary.com/dsvma4fwp/image/upload/v1778821463/uhvadshen277ft2aix7f.jpg",
+    "country": "Indonesia",
+    "backup": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
   }
 ]
