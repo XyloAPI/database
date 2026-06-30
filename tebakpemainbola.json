@@ -1,186 +1,622 @@
 [
   {
-    "name": "Marteen Paes",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833057172-snsh7i.png"
+    "name": "Abdukodir Khusanov",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833616761-z86dj6.png"
   },
   {
-    "name": "Emil Audero",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833105949-hy8tyc.png"
+    "name": "Achraf Hakimi",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837441113-2cqkq1.jpg"
   },
   {
-    "name": "Nadeo Argawinata",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833123576-nc2d70.png"
+    "name": "Adrien Rabiot",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835088200-sutolq.jpg"
   },
   {
-    "name": "Jay Idzes",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833136687-qrnz3r.png"
+    "name": "Alphonso Davies",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837567568-c25plf.webp"
   },
   {
-    "name": "Kevin Diks",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833153230-buiqab.png"
+    "name": "Andrea Pirlo",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836014536-6hf4kv.webp"
   },
   {
-    "name": "Justin Hubner",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833170408-17u8qv.png"
+    "name": "Andrés Iniesta",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835614697-pb158w.jpg"
   },
   {
-    "name": "Rizky Ridho",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833191700-m9hb7b.png"
+    "name": "Ángel Di María",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837215937-ugbpbx.jpg"
   },
   {
-    "name": "Jordi Amat",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833210831-5l9cj2.png"
+    "name": "Antonio Rüdiger",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837875963-p6qvvn.jpg"
   },
   {
-    "name": "Elkan Baggott",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833232715-bgvw48.png"
-  },
-  {
-    "name": "Calvin Verdonk",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833244371-vk9vlf.png"
-  },
-  {
-    "name": "Nathan Tjoe-A-On",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833258037-cvdxoh.png"
-  },
-  {
-    "name": "Dony Tri Pamungkas",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833270388-off72d.png"
-  },
-  {
-    "name": "Sandy Walsh",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833283491-6hqoi5.png"
-  },
-  {
-    "name": "Joey Pelupessy",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833296970-fd4tdc.png"
-  },
-  {
-    "name": "Ivar Jenner",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833308184-xoyh2b.png"
-  },
-  {
-    "name": "Ragnar Oratmangoen",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833379393-49s894.png"
-  },
-  {
-    "name": "Eliano Reijnders",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833391734-rb56pg.png"
-  },
-  {
-    "name": "Yakob Sayuri",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833407513-butl80.png"
+    "name": "Aurélien Tchouaméni",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834981733-hj9lh4.jpg"
   },
   {
     "name": "Beckham Putra",
     "img": "https://cdn.xyloapi.qzz.io/f/1782833423164-x7uigw.png"
   },
   {
-    "name": "Ole Romeny",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833433760-82354o.png"
-  },
-  {
-    "name": "Ramadhan Sananta",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833446356-yxgl5o.png"
-  },
-  {
-    "name": "Jens Raven",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833458493-8nwnoh.png"
-  },
-  {
-    "name": "Gianluigi Donnarumma",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833469701-bsoz78.png"
-  },
-  {
-    "name": "James Trafford",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833547788-pj6r5l.png"
-  },
-  {
-    "name": "Marcus Bettinelli",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833563576-l57a3g.png"
-  },
-  {
-    "name": "Josko Gvardiol",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833576811-rw22ia.png"
-  },
-  {
-    "name": "Marc Guéhi",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833589288-kbnfo3.png"
-  },
-  {
-    "name": "Rúben Dias",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833602967-joyl4k.png"
-  },
-  {
-    "name": "Abdukodir Khusanov",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833616761-z86dj6.png"
-  },
-  {
-    "name": "John Stones",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833631479-ix7vak.png"
-  },
-  {
-    "name": "Nathan Aké",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833646628-k7kh0v.png"
-  },
-  {
-    "name": "Max Alleyne",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833706668-nztxs7.png"
-  },
-  {
-    "name": "Nico O'Reilly",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833718042-r3r0ye.png"
-  },
-  {
-    "name": "Matheus Nunes",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833732682-ke1qmp.png"
-  },
-  {
-    "name": "Rico Lewis",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833693391-euw2d4.png"
-  },
-  {
-    "name": "Rodri",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833674523-478ksk.png"
-  },
-  {
-    "name": "Tijjani Reijnders",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833660604-7z0jfn.png"
-  },
-  {
-    "name": "Mateo Kovacic",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833534428-ehfv8h.png"
-  },
-  {
-    "name": "Phil Foden",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833516225-jnow0h.png"
-  },
-  {
     "name": "Bernardo Silva",
     "img": "https://cdn.xyloapi.qzz.io/f/1782833505829-mqaoly.png"
   },
   {
-    "name": "Jérémy Doku",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833495180-j0osij.png"
+    "name": "Bernardo Silva",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837744353-f72y2d.webp"
   },
   {
-    "name": "Savinho",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833483755-awq5qo.png"
+    "name": "Bradley Barcola",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835121529-95awn9.webp"
   },
   {
-    "name": "Erling Haaland",
-    "img": "https://cdn.xyloapi.qzz.io/f/1782833363912-7fjbb8.png"
+    "name": "Brice Samba",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834563695-l4oirs.webp"
+  },
+  {
+    "name": "Bruno Fernandes",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836708977-o9by0n.jpg"
+  },
+  {
+    "name": "Calvin Verdonk",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833244371-vk9vlf.png"
+  },
+  {
+    "name": "Carles Puyol",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835829984-fvdnkx.gif"
+  },
+  {
+    "name": "César Azpilicueta",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837955774-c5xwm0.jpg"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835470224-f15d3q.webp"
+  },
+  {
+    "name": "David Alaba",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838201481-qzwfpm.jpg"
   },
   {
     "name": "David Raya",
     "img": "https://cdn.xyloapi.qzz.io/f/1782833351969-7k76x2.png"
   },
   {
+    "name": "Dayot Upamecano",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834643217-pzs3zb.webp"
+  },
+  {
+    "name": "Declan Rice",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838339721-yj3sjc.jpg"
+  },
+  {
+    "name": "Désiré Doué",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835167919-aikxkn.png"
+  },
+  {
+    "name": "Diego Maradona",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836297824-3gnxr9.gif"
+  },
+  {
+    "name": "Dony Tri Pamungkas",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833270388-off72d.png"
+  },
+  {
+    "name": "Dusan Vlahovic",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838261649-8yu2it.webp"
+  },
+  {
+    "name": "Édouard Mendy",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836813446-a6hiye.jpg"
+  },
+  {
+    "name": "Eliano Reijnders",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833391734-rb56pg.png"
+  },
+  {
+    "name": "Elkan Baggott",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833232715-bgvw48.png"
+  },
+  {
+    "name": "Emil Audero",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833105949-hy8tyc.png"
+  },
+  {
+    "name": "Emiliano Martínez",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838025623-1fi08u.webp"
+  },
+  {
+    "name": "Erling Haaland",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833363912-7fjbb8.png"
+  },
+  {
+    "name": "Federico Chiesa",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836735180-t7afpq.jpg"
+  },
+  {
+    "name": "Gerard Moreno",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837974324-kv4bgf.jpg"
+  },
+  {
+    "name": "Gianluigi Buffon",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836203234-6v0p0k.jpg"
+  },
+  {
+    "name": "Gianluigi Donnarumma",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833469701-bsoz78.png"
+  },
+  {
+    "name": "Gianluigi Donnarumma",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836628087-1r2hy0.jpg"
+  },
+  {
+    "name": "Giorgio Chiellini",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836929371-hu0suv.jpg"
+  },
+  {
+    "name": "Harry Kane",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836692466-mglub7.jpg"
+  },
+  {
+    "name": "Ibrahima Konaté",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834787243-zkb8hj.jpg"
+  },
+  {
+    "name": "Ilkay Gündogan",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837333796-wu60i1.jpg"
+  },
+  {
+    "name": "Ivar Jenner",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833308184-xoyh2b.png"
+  },
+  {
+    "name": "Jack Grealish",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838420361-3lpajn.jpg"
+  },
+  {
+    "name": "James Trafford",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833547788-pj6r5l.png"
+  },
+  {
+    "name": "Jan Oblak",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837239858-ndszxi.webp"
+  },
+  {
+    "name": "Jay Idzes",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833136687-qrnz3r.png"
+  },
+  {
+    "name": "Jean-Philippe Mateta",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835313655-he8qrl.webp"
+  },
+  {
+    "name": "Jens Raven",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833458493-8nwnoh.png"
+  },
+  {
+    "name": "Jérémy Doku",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833495180-j0osij.png"
+  },
+  {
+    "name": "João Cancelo",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838497002-ni7kv6.jpg"
+  },
+  {
+    "name": "Joey Pelupessy",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833296970-fd4tdc.png"
+  },
+  {
+    "name": "John Stones",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833631479-ix7vak.png"
+  },
+  {
+    "name": "Jordi Amat",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833210831-5l9cj2.png"
+  },
+  {
+    "name": "Jorginho",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836535916-j9lmbt.webp"
+  },
+  {
+    "name": "Joshua Kimmich",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836765282-1lmxqf.jpg"
+  },
+  {
+    "name": "Josko Gvardiol",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833576811-rw22ia.png"
+  },
+  {
+    "name": "Jules Koundé",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834922492-yxofhm.webp"
+  },
+  {
+    "name": "Justin Hubner",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833170408-17u8qv.png"
+  },
+  {
+    "name": "Kai Havertz",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837798943-i91d3r.jpg"
+  },
+  {
+    "name": "Kaká",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835934656-zuerwd.webp"
+  },
+  {
+    "name": "Karim Benzema",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835859571-zucvrm.webp"
+  },
+  {
+    "name": "Karim Benzema",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836508936-y6u5o0.webp"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835743198-ahij40.webp"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836571218-x01g6k.jpg"
+  },
+  {
+    "name": "Kevin Diks",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833153230-buiqab.png"
+  },
+  {
+    "name": "Kylian Mbappé",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835209824-jgxl32.jpg"
+  },
+  {
+    "name": "Kylian Mbappé",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835595553-zqdc1o.webp"
+  },
+  {
+    "name": "Lautaro Martínez",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837165889-y0thi2.jpg"
+  },
+  {
+    "name": "Leon Goretzka",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838527962-83x0jb.jpg"
+  },
+  {
+    "name": "Leonardo Bonucci",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836876244-vshnwe.jpg"
+  },
+  {
+    "name": "Lionel Messi",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835386160-8yb18x.jpg"
+  },
+  {
+    "name": "Lorenzo Insigne",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838441934-3edh9d.jpg"
+  },
+  {
+    "name": "Lucas Digne",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834901972-fj9zlo.jpg"
+  },
+  {
+    "name": "Lucas Hernández",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834860891-1oz8fx.jpg"
+  },
+  {
+    "name": "Luis Suárez",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836177932-1lp2q1.jpg"
+  },
+  {
+    "name": "Luka Modric",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837494083-mv76iq.jpg"
+  },
+  {
+    "name": "Luka Modrić",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835542985-tmxz2p.webp"
+  },
+  {
+    "name": "Maghnes Akliouche",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835185270-rewn4h.webp"
+  },
+  {
+    "name": "Malo Gusto",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834961055-zu0eqp.jpg"
+  },
+  {
+    "name": "Manu Koné",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835060402-kw9dod.jpg"
+  },
+  {
+    "name": "Manuel Neuer",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837351428-x2lv66.jpg"
+  },
+  {
+    "name": "Marc Guéhi",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833589288-kbnfo3.png"
+  },
+  {
+    "name": "Marco Verratti",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837409248-cjqfk3.jpg"
+  },
+  {
+    "name": "Marcus Bettinelli",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833563576-l57a3g.png"
+  },
+  {
+    "name": "Marcus Thuram",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835291680-tndy41.jpg"
+  },
+  {
+    "name": "Marquinhos",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837666640-u4bt1z.jpg"
+  },
+  {
+    "name": "Marteen Paes",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833057172-snsh7i.png"
+  },
+  {
+    "name": "Mason Mount",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837074500-rox72o.webp"
+  },
+  {
+    "name": "Mateo Kovacic",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833534428-ehfv8h.png"
+  },
+  {
+    "name": "Matheus Nunes",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833732682-ke1qmp.png"
+  },
+  {
+    "name": "Max Alleyne",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833706668-nztxs7.png"
+  },
+  {
+    "name": "Maxence Lacroix",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834758545-lyt91w.webp"
+  },
+  {
+    "name": "Memphis Depay",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837897010-q31fgp.jpg"
+  },
+  {
+    "name": "Michael Olise",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835145412-0dj29t.jpg"
+  },
+  {
+    "name": "Mike Maignan",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834384850-y1uaew.webp"
+  },
+  {
+    "name": "Mohamed Salah",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836483959-0ejj5t.webp"
+  },
+  {
+    "name": "N'Golo Kanté",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835000006-01h006.jpg"
+  },
+  {
+    "name": "Nadeo Argawinata",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833123576-nc2d70.png"
+  },
+  {
+    "name": "Nathan Aké",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833646628-k7kh0v.png"
+  },
+  {
+    "name": "Nathan Tjoe-A-On",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833258037-cvdxoh.png"
+  },
+  {
+    "name": "Neymar",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835990260-ti86xl.jpg"
+  },
+  {
+    "name": "Nico O'Reilly",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833718042-r3r0ye.png"
+  },
+  {
+    "name": "Nicolò Barella",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837043203-mqfetn.jpg"
+  },
+  {
+    "name": "Ole Romeny",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833433760-82354o.png"
+  },
+  {
+    "name": "Ousmane Dembélé",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835233845-1nc8ge.webp"
+  },
+  {
+    "name": "Patrick Vieira",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836158432-9fmqcs.jpg"
+  },
+  {
+    "name": "Pedri",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836845134-wr9emi.jpg"
+  },
+  {
+    "name": "Phil Foden",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833516225-jnow0h.png"
+  },
+  {
+    "name": "Phil Foden",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836960589-3kdg1t.jpg"
+  },
+  {
+    "name": "Ragnar Oratmangoen",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833379393-49s894.png"
+  },
+  {
+    "name": "Raheem Sterling",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837132533-jnbrlo.webp"
+  },
+  {
+    "name": "Ramadhan Sananta",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833446356-yxgl5o.png"
+  },
+  {
+    "name": "Rayan Cherki",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835104904-l7zvor.webp"
+  },
+  {
+    "name": "Rico Lewis",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833693391-euw2d4.png"
+  },
+  {
+    "name": "Riyad Mahrez",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838380850-bdz85x.jpg"
+  },
+  {
+    "name": "Rizky Ridho",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833191700-m9hb7b.png"
+  },
+  {
+    "name": "Robert Lewandowski",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835900625-pnu0he.webp"
+  },
+  {
+    "name": "Robin Risser",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834528016-hcyj4h.jpg"
+  },
+  {
+    "name": "Rodri",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833674523-478ksk.png"
+  },
+  {
+    "name": "Rodrigo De Paul",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837774250-weehce.jpg"
+  },
+  {
+    "name": "Romelu Lukaku",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836594577-9f1wpd.webp"
+  },
+  {
+    "name": "Ronaldinho",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835688685-d09141.webp"
+  },
+  {
+    "name": "Ronaldo Nazário",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835667636-9w8qoq.gif"
+  },
+  {
+    "name": "Rúben Dias",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833602967-joyl4k.png"
+  },
+  {
+    "name": "Rúben Dias",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836668050-z3trd3.webp"
+  },
+  {
+    "name": "Sadio Mané",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836897613-f9ijui.webp"
+  },
+  {
+    "name": "Sandy Walsh",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833283491-6hqoi5.png"
+  },
+  {
+    "name": "Savinho",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833483755-awq5qo.png"
+  },
+  {
+    "name": "Serge Gnabry",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837522064-tmfslq.webp"
+  },
+  {
+    "name": "Sergio Busquets",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835878544-nmat4c.jpg"
+  },
+  {
+    "name": "Sergio Ramos",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835803822-g2qaqv.jpg"
+  },
+  {
+    "name": "Simon Kjær",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838139099-qkx7bh.webp"
+  },
+  {
+    "name": "Son Heung-min",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837477089-05at3v.webp"
+  },
+  {
+    "name": "Theo Hernández",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834826363-vlkqzc.jpg"
+  },
+  {
+    "name": "Thiago Silva",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838285578-l1jq4a.jpg"
+  },
+  {
+    "name": "Thibaut Courtois",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838047409-turxre.jpg"
+  },
+  {
+    "name": "Thierry Henry",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835495213-ireiwh.webp"
+  },
+  {
+    "name": "Thomas Müller",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837109970-l3k8ia.jpg"
+  },
+  {
+    "name": "Tijjani Reijnders",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833660604-7z0jfn.png"
+  },
+  {
     "name": "Tommy Setford",
     "img": "https://cdn.xyloapi.qzz.io/f/1782833339974-i50ctn.png"
   },
   {
+    "name": "Toni Kroos",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835786343-6dv884.jpg"
+  },
+  {
+    "name": "Toni Kroos",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838551062-tvmy79.webp"
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837303329-uprkbi.jpg"
+  },
+  {
+    "name": "Vinícius Júnior",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836337046-rht33h.webp"
+  },
+  {
+    "name": "Virgil van Dijk",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782837601169-b4o71u.jpg"
+  },
+  {
+    "name": "Warren Zaïre-Emery",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835040270-tdloxs.jpg"
+  },
+  {
+    "name": "Wayne Rooney",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782836087940-mdm7pl.jpg"
+  },
+  {
     "name": "William Saliba",
     "img": "https://cdn.xyloapi.qzz.io/f/1782833328682-6pyx44.png"
+  },
+  {
+    "name": "William Saliba",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782834610094-4djzwk.webp"
+  },
+  {
+    "name": "Xavi Hernández",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835643854-6umqjk.webp"
+  },
+  {
+    "name": "Yakob Sayuri",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782833407513-butl80.png"
+  },
+  {
+    "name": "Zinedine Zidane",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835526115-l5acpi.jpg"
+  },
+  {
+    "name": "Zlatan Ibrahimovic",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782838225214-pv795i.jpg"
+  },
+  {
+    "name": "Zlatan Ibrahimović",
+    "img": "https://cdn.xyloapi.qzz.io/f/1782835714762-21tb7h.webp"
   }
 ]
